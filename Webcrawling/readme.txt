@@ -1,0 +1,1 @@
+The script uses selenium package to mimic the user actions and then write the crawled html to a jsonline document

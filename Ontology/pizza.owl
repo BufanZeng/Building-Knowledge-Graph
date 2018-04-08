@@ -1,0 +1,459 @@
+@prefix : <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7> .
+
+<http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a
+:OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf :OWLObjectProperty_5318ae80_347c_4a55_b24e_333e2fa99434 ;
+                                                        rdf:type owl:InverseFunctionalProperty ;
+                                                        rdfs:domain :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae ;
+                                                        rdfs:range :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ;
+                                                        rdfs:label "has_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLObjectProperty_15fae5a7_721c_439a_a26c_749f8afd67d2
+:OWLObjectProperty_15fae5a7_721c_439a_a26c_749f8afd67d2 rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:label "modifier_property"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLObjectProperty_5318ae80_347c_4a55_b24e_333e2fa99434
+:OWLObjectProperty_5318ae80_347c_4a55_b24e_333e2fa99434 rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:label "relational_property"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b
+:OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf :OWLObjectProperty_15fae5a7_721c_439a_a26c_749f8afd67d2 ;
+                                                        rdf:type owl:FunctionalProperty ;
+                                                        rdfs:domain :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ;
+                                                        rdfs:range :OWLClass_ab841658_26a8_422b_bdc2_bf7d61c4f0eb ;
+                                                        rdfs:label "has_spiciness"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLObjectProperty_aba9680c_7ae2_45bf_8551_ff62dffeaff2
+:OWLObjectProperty_aba9680c_7ae2_45bf_8551_ff62dffeaff2 rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf :OWLObjectProperty_5318ae80_347c_4a55_b24e_333e2fa99434 ;
+                                                        rdf:type owl:FunctionalProperty ,
+                                                                 owl:InverseFunctionalProperty ;
+                                                        rdfs:domain :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae ;
+                                                        rdfs:range :OWLClass_becb3f66_c944_412e_b3dc_d9cb6a08ea57 ;
+                                                        rdfs:label "has_base"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Domain_entity
+<http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Domain_entity> rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Independent_entity
+<http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Independent_entity> rdf:type owl:Class ;
+                                                                                            rdfs:subClassOf <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Domain_entity> ;
+                                                                                            owl:disjointWith <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Value> .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Value
+<http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Value> rdf:type owl:Class ;
+                                                                               rdfs:subClassOf <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Domain_entity> .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_1b745db6_ea4f_4173_b4de_62c76a834ed5
+:OWLClass_1b745db6_ea4f_4173_b4de_62c76a834ed5 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_395a8165_cd7f_40e3_9374_43810d22eec0 ;
+                                               owl:disjointWith :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e ;
+                                               rdfs:label "Gorgonzola_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_22d80589_ccff_4903_96a6_8a36ba85a817
+:OWLClass_22d80589_ccff_4903_96a6_8a36ba85a817 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_32640a2c_5f48_4542_83fa_af90ee021306
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_b7f794b4_42c0_486a_a6ef_6d9aed79d378
+                                                               ] ;
+                                               rdfs:label "Hot_and_spicy_pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_310503af_ea59_4019_aac5_917dba8163d4
+:OWLClass_310503af_ea59_4019_aac5_917dba8163d4 rdf:type owl:Class ;
+                                               owl:equivalentClass [ owl:intersectionOf ( :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae
+                                                                                          [ rdf:type owl:Restriction ;
+                                                                                            owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                                            owl:someValuesFrom :OWLClass_32640a2c_5f48_4542_83fa_af90ee021306
+                                                                                          ]
+                                                                                        ) ;
+                                                                     rdf:type owl:Class
+                                                                   ] ;
+                                               rdfs:label "Spicy_pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_32640a2c_5f48_4542_83fa_af90ee021306
+:OWLClass_32640a2c_5f48_4542_83fa_af90ee021306 rdf:type owl:Class ;
+                                               owl:equivalentClass [ owl:intersectionOf ( :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7
+                                                                                          [ rdf:type owl:Restriction ;
+                                                                                            owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                                            owl:someValuesFrom :OWLClass_9315ae51_e925_4ffa_a883_7a5298fb9fb0
+                                                                                          ]
+                                                                                        ) ;
+                                                                     rdf:type owl:Class
+                                                                   ] ;
+                                               rdfs:label "Spicy_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_38761789_12d0_42d4_a6bb_bb3ed2bd6f29
+:OWLClass_38761789_12d0_42d4_a6bb_bb3ed2bd6f29 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_7f695493_51b2_4385_a10b_71ec065e47cc ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                                                               ] ;
+                                               owl:disjointWith :OWLClass_b787fcff_4cd3_436c_843b_14cc8c1e51c0 ;
+                                               rdfs:label "Tuna_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_395a8165_cd7f_40e3_9374_43810d22eec0
+:OWLClass_395a8165_cd7f_40e3_9374_43810d22eec0 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                                                               ] ;
+                                               rdfs:label "Cheese_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+:OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_ab841658_26a8_422b_bdc2_bf7d61c4f0eb ;
+                                               rdfs:label "Mild_value"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_4276ab95_e306_4673_87a4_f3e7ac3ab8cc
+:OWLClass_4276ab95_e306_4673_87a4_f3e7ac3ab8cc rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ;
+                                               rdfs:label "Vegetable_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+:OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_4276ab95_e306_4673_87a4_f3e7ac3ab8cc ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                                                               ] ;
+                                               owl:disjointWith :OWLClass_a3af2206_f929_4e8a_bfd8_ac38d00c1bc2 ;
+                                               rdfs:label "Tomato_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_4dcbce4b_9f28_4c40_9f38_b5a3f4426510
+:OWLClass_4dcbce4b_9f28_4c40_9f38_b5a3f4426510 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_38761789_12d0_42d4_a6bb_bb3ed2bd6f29
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_b787fcff_4cd3_436c_843b_14cc8c1e51c0
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:allValuesFrom [ rdf:type owl:Class ;
+                                                                                     owl:unionOf ( :OWLClass_38761789_12d0_42d4_a6bb_bb3ed2bd6f29
+                                                                                                   :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                                                                   :OWLClass_b787fcff_4cd3_436c_843b_14cc8c1e51c0
+                                                                                                   :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                                                                 )
+                                                                                   ]
+                                                               ] ;
+                                               rdfs:label "Seafood_pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_4dfd4459_1462_4ac0_bebd_81381521e3e3
+:OWLClass_4dfd4459_1462_4ac0_bebd_81381521e3e3 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_d10c5292_b858_4c57_8fb0_350be827244d ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_509d379e_9039_4ba8_9982_a074efbc4aa9
+                                                               ] ;
+                                               rdfs:label "Pepperoni_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_509d379e_9039_4ba8_9982_a074efbc4aa9
+:OWLClass_509d379e_9039_4ba8_9982_a074efbc4aa9 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_ab841658_26a8_422b_bdc2_bf7d61c4f0eb ;
+                                               rdfs:label "Medium_value"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae
+:OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae rdf:type owl:Class ;
+                                               rdfs:subClassOf <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Independent_entity> ;
+                                               rdfs:label "Pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_5cf23a25_c450_4c83_bdcc_1d7d9794a0b1
+:OWLClass_5cf23a25_c450_4c83_bdcc_1d7d9794a0b1 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_becb3f66_c944_412e_b3dc_d9cb6a08ea57 ;
+                                               owl:disjointWith :OWLClass_88d91d79_d51d_48dd_9c44_27f41643f36a ;
+                                               rdfs:label "Thin_crust"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_5f1dc1cf_e90b_4897_84fd_3cac94242055
+:OWLClass_5f1dc1cf_e90b_4897_84fd_3cac94242055 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_d10c5292_b858_4c57_8fb0_350be827244d ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_509d379e_9039_4ba8_9982_a074efbc4aa9
+                                                               ] ;
+                                               rdfs:label "Ham_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_77a39e84_077f_43eb_a94b_d97e0c7ece1e
+:OWLClass_77a39e84_077f_43eb_a94b_d97e0c7ece1e rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:allValuesFrom [ rdf:type owl:Class ;
+                                                                                     owl:unionOf ( :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                                                                   :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                                                                 )
+                                                                                   ]
+                                                               ] ;
+                                               rdfs:label "Margherita_pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_7f695493_51b2_4385_a10b_71ec065e47cc
+:OWLClass_7f695493_51b2_4385_a10b_71ec065e47cc rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ;
+                                               rdfs:label "Seafood_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7
+:OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 rdf:type owl:Class ;
+                                               rdfs:subClassOf <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Independent_entity> ;
+                                               rdfs:label "Pizza_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_88d91d79_d51d_48dd_9c44_27f41643f36a
+:OWLClass_88d91d79_d51d_48dd_9c44_27f41643f36a rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_becb3f66_c944_412e_b3dc_d9cb6a08ea57 ;
+                                               rdfs:label "Thick_crust"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_9315ae51_e925_4ffa_a883_7a5298fb9fb0
+:OWLClass_9315ae51_e925_4ffa_a883_7a5298fb9fb0 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_ab841658_26a8_422b_bdc2_bf7d61c4f0eb ;
+                                               rdfs:label "Hot_value"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_a3af2206_f929_4e8a_bfd8_ac38d00c1bc2
+:OWLClass_a3af2206_f929_4e8a_bfd8_ac38d00c1bc2 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_4276ab95_e306_4673_87a4_f3e7ac3ab8cc ;
+                                               rdfs:label "Onion_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_aa95304b_0003_4d1d_897b_db1365c897a0
+:OWLClass_aa95304b_0003_4d1d_897b_db1365c897a0 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                                                               ] ;
+                                               rdfs:label "Fruit_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_ab841658_26a8_422b_bdc2_bf7d61c4f0eb
+:OWLClass_ab841658_26a8_422b_bdc2_bf7d61c4f0eb rdf:type owl:Class ;
+                                               rdfs:subClassOf <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Value> ,
+                                                               [ rdf:type owl:Class ;
+                                                                 owl:unionOf ( :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                                                                               :OWLClass_509d379e_9039_4ba8_9982_a074efbc4aa9
+                                                                               :OWLClass_9315ae51_e925_4ffa_a883_7a5298fb9fb0
+                                                                             )
+                                                               ] ;
+                                               rdfs:label "Spiciness_value"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_b0844360_cf5c_4ce6_a82c_463ff91e7eba
+:OWLClass_b0844360_cf5c_4ce6_a82c_463ff91e7eba rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:someValuesFrom :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                 owl:allValuesFrom [ rdf:type owl:Class ;
+                                                                                     owl:unionOf ( :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                                                                   :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                                                                 )
+                                                                                   ]
+                                                               ] ;
+                                               rdfs:label "Quatro_formaggi_pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_b787fcff_4cd3_436c_843b_14cc8c1e51c0
+:OWLClass_b787fcff_4cd3_436c_843b_14cc8c1e51c0 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_7f695493_51b2_4385_a10b_71ec065e47cc ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                                                               ] ;
+                                               rdfs:label "Anchovy_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_b7f794b4_42c0_486a_a6ef_6d9aed79d378
+:OWLClass_b7f794b4_42c0_486a_a6ef_6d9aed79d378 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_d10c5292_b858_4c57_8fb0_350be827244d ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :OWLObjectProperty_815af310_a422_4944_8b0a_f0d05703478b ;
+                                                                 owl:someValuesFrom :OWLClass_9315ae51_e925_4ffa_a883_7a5298fb9fb0
+                                                               ] ;
+                                               rdfs:label "Spicy_beef"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+:OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_395a8165_cd7f_40e3_9374_43810d22eec0 ;
+                                               rdfs:label "Mozarella_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_bc8ef975_5e97_44ee_9294_6b9988f95e5f
+:OWLClass_bc8ef975_5e97_44ee_9294_6b9988f95e5f rdf:type owl:Class ;
+                                               owl:equivalentClass [ owl:intersectionOf ( :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae
+                                                                                          [ rdf:type owl:Restriction ;
+                                                                                            owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                                            owl:someValuesFrom :OWLClass_1b745db6_ea4f_4173_b4de_62c76a834ed5
+                                                                                          ]
+                                                                                          [ rdf:type owl:Restriction ;
+                                                                                            owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                                            owl:someValuesFrom :OWLClass_488f23f2_0b82_4173_8289_a4ae61a27333
+                                                                                          ]
+                                                                                          [ rdf:type owl:Restriction ;
+                                                                                            owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                                            owl:someValuesFrom :OWLClass_bc7e8318_1fff_43cf_b953_bfd7771be39e
+                                                                                          ]
+                                                                                          [ rdf:type owl:Restriction ;
+                                                                                            owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                                            owl:minQualifiedCardinality "2"^^xsd:nonNegativeInteger ;
+                                                                                            owl:onClass :OWLClass_395a8165_cd7f_40e3_9374_43810d22eec0
+                                                                                          ]
+                                                                                        ) ;
+                                                                     rdf:type owl:Class
+                                                                   ] ;
+                                               rdfs:label "Cheesy_pizza"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_becb3f66_c944_412e_b3dc_d9cb6a08ea57
+:OWLClass_becb3f66_c944_412e_b3dc_d9cb6a08ea57 rdf:type owl:Class ;
+                                               rdfs:subClassOf <http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-3#Independent_entity> ;
+                                               rdfs:label "Pizza_base"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_bff4442f_5179_4ac0_befd_1d31c02a9ab3
+:OWLClass_bff4442f_5179_4ac0_befd_1d31c02a9ab3 rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_aa95304b_0003_4d1d_897b_db1365c897a0 ;
+                                               rdfs:label "Pineapple_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_d10c5292_b858_4c57_8fb0_350be827244d
+:OWLClass_d10c5292_b858_4c57_8fb0_350be827244d rdf:type owl:Class ;
+                                               rdfs:subClassOf :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7 ;
+                                               rdfs:label "Meat_topping"@en .
+
+
+###  http://www.semanticweb.org/bufan/ontologies/2018/2/untitled-ontology-7#OWLClass_d9ef2317_c467_4df6_aee8_68c9ff03d35a
+:OWLClass_d9ef2317_c467_4df6_aee8_68c9ff03d35a rdf:type owl:Class ;
+                                               owl:equivalentClass [ owl:intersectionOf ( :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae
+                                                                                          [ rdf:type owl:Class ;
+                                                                                            owl:complementOf [ rdf:type owl:Restriction ;
+                                                                                                               owl:onProperty :OWLObjectProperty_0fbea323_42d7_445e_942a_540f4b91e69a ;
+                                                                                                               owl:someValuesFrom [ rdf:type owl:Class ;
+                                                                                                                                    owl:unionOf ( :OWLClass_7f695493_51b2_4385_a10b_71ec065e47cc
+                                                                                                                                                  :OWLClass_d10c5292_b858_4c57_8fb0_350be827244d
+                                                                                                                                                )
+                                                                                                                                  ]
+                                                                                                             ]
+                                                                                          ]
+                                                                                        ) ;
+                                                                     rdf:type owl:Class
+                                                                   ] ;
+                                               rdfs:label "Vegetarian_pizza"@en .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :OWLClass_395a8165_cd7f_40e3_9374_43810d22eec0
+                :OWLClass_4276ab95_e306_4673_87a4_f3e7ac3ab8cc
+                :OWLClass_7f695493_51b2_4385_a10b_71ec065e47cc
+                :OWLClass_aa95304b_0003_4d1d_897b_db1365c897a0
+                :OWLClass_d10c5292_b858_4c57_8fb0_350be827244d
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :OWLClass_3e25fca4_54c1_437e_9e44_426407c7115a
+                :OWLClass_509d379e_9039_4ba8_9982_a074efbc4aa9
+                :OWLClass_9315ae51_e925_4ffa_a883_7a5298fb9fb0
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :OWLClass_4dfd4459_1462_4ac0_bebd_81381521e3e3
+                :OWLClass_5f1dc1cf_e90b_4897_84fd_3cac94242055
+                :OWLClass_b7f794b4_42c0_486a_a6ef_6d9aed79d378
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :OWLClass_5a4d5015_3ed8_4496_b480_e08d56d766ae
+                :OWLClass_805a6c12_1f03_417b_8ac2_929258ce58c7
+                :OWLClass_becb3f66_c944_412e_b3dc_d9cb6a08ea57
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi
