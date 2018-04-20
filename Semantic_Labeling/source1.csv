@@ -1,0 +1,643 @@
+id, apt, street, city, state, zipcode, soundscore, rent, tele, url
+0, The Line Lofts, 1737 Las Palmas Ave, Hollywood, CA, 90028, 67, Call for Rent, 844-211-8474, https://www.apartments.com/the-line-lofts-hollywood-ca/rspqcx2/
+1, Hollywood Proper Residences, 1550 N El Centro Ave, Los Angeles, CA, 90028, 66, $3500 - 6700, 323-380-1421, https://www.apartments.com/hollywood-proper-residences-los-angeles-ca/2v16sgc/
+2, La Belle At Hollywood Tower, 6138 Franklin Ave, Los Angeles, CA, 90028, 60, $2233 - 4109, 844-341-3986, https://www.apartments.com/la-belle-at-hollywood-tower-los-angeles-ca/wkp2vbl/
+3, Park La Brea, 6200 W 3rd St, Los Angeles, CA, 90036, 72, $1683 - 4060, 844-831-1452, https://www.apartments.com/park-la-brea-los-angeles-ca/r54g963/
+4, Villas at Park La Brea Apartments, 5555 W 6th St, Los Angeles, CA, 90036, 69, $2215 - 6026, 323-594-8178, https://www.apartments.com/villas-at-park-la-brea-apartments-los-angeles-ca/7plgz6w/
+5, Broadcast Center Apartments, 7660 Beverly Blvd, Los Angeles, CA, 90036, 70, $2389 - 7353, 844-750-9852, https://www.apartments.com/broadcast-center-apartments-los-angeles-ca/7w1h77x/
+6, Palazzo East, 348 S Hauser Blvd, Los Angeles, CA, 90036, 70, $2510 - 16759, 844-807-8617, https://www.apartments.com/palazzo-east-los-angeles-ca/32ghtcd/
+7, Eastown, 6201 Hollywood Blvd, Los Angeles, CA, 90028, 65, $2279 - 4645, 844-287-7735, https://www.apartments.com/eastown-los-angeles-ca/cmv3yrg/
+8, The Culver, 3325 S Canfield Ave, Los Angeles, CA, 90034, 59, $2050 - 2250, 844-396-3196, https://www.apartments.com/the-culver-los-angeles-ca/9sg1c14/
+9, The Glendon, 1040 Glendon Ave, Los Angeles, CA, 90024, 68, $3655 - 7560, 424-269-6016, https://www.apartments.com/the-glendon-los-angeles-ca/xvfrs5n/
+10, 5550 Wilshire at Miracle Mile by Windsor, 5550 Wilshire Blvd, Los Angeles, CA, 90036, 67, $2975 - 7735, 866-677-1435, https://www.apartments.com/5550-wilshire-at-miracle-mile-by-windsor-los-angeles-ca/2rw0h5c/
+11, sunset + vine, 1555 N Vine St, Los Angeles, CA, 90028, 64, $1995 - 5310, 323-870-2146, https://www.apartments.com/sunset-vine-los-angeles-ca/s4s6ps4/
+12, The Roy, 3644-3658 Overland Ave, Los Angeles, CA, 90034, 64, $2125 - 4287, 844-307-2073, https://www.apartments.com/the-roy-los-angeles-ca/x5pe7zp/
+13, The Micropolitan at Larchmont Village, 5825 Camerford Ave, Los Angeles, CA, 90038, 70, $2395 - 3495, 844-401-1990, https://www.apartments.com/the-micropolitan-at-larchmont-village-los-angeles-ca/vn3lfed/
+14, Waterstone at Metro, 3324 Castle Heights Ave, Los Angeles, CA, 90034, 65, $2055 - 4410, 888-554-4667, https://www.apartments.com/waterstone-at-metro-los-angeles-ca/ys7rgws/
+15, 1600 VINE, 1600 Vine St, Hollywood, CA, 90028, 67, $2212 - 16043, 877-521-8740, https://www.apartments.com/1600-vine-hollywood-ca/0eksb50/
+16, Vision on Wilshire, 6245 Wilshire Blvd, Los Angeles, CA, 90048, 67, $3350 - 15935, 844-232-6118, https://www.apartments.com/vision-on-wilshire-los-angeles-ca/4085lyh/
+17, Los Altos Apartments, 4121 Wilshire Blvd, Los Angeles, CA, 90010, 67, $3100 - 23500, 323-746-9097, https://www.apartments.com/los-altos-apartments-los-angeles-ca/rm5v203/
+18, W Marino, 940 S Western Ave, Los Angeles, CA, 90006, 65, $2150 - 3900, 626-380-9151, https://www.apartments.com/w-marino-los-angeles-ca/qw65yhz/
+19, Harlow Culver City, 9901 Washington Blvd, Culver City, CA, 90232, 61, $3212, 844-472-9845, https://www.apartments.com/harlow-culver-city-culver-city-ca/z4mhd3z/
+20, Ten Thousand, 10000 Santa Monica Blvd, Los Angeles, CA, 90067, 72, $9300 - 24000, 844-635-2358, https://www.apartments.com/ten-thousand-los-angeles-ca/99nnsr7/
+21, Alaya Hollywood, 1714 N McCadden Pl, Hollywood, CA, 90028, 67, $2225 - 5624, 323-472-5315, https://www.apartments.com/alaya-hollywood-hollywood-ca/pc9vlxt/
+22, The Preston Miracle Mile Apartments, 630 S Masselin Ave, Los Angeles, CA, 90036, 68, $1976 - 4964, 844-868-2356, https://www.apartments.com/the-preston-miracle-mile-apartments-los-angeles-ca/sj0vgc6/
+23, Vinz on Fairfax, 950 S Fairfax Ave, Los Angeles, CA, 90036, 67, $2600 - 15000, 844-381-2547, https://www.apartments.com/vinz-on-fairfax-los-angeles-ca/d8ss3kl/
+24, Broadstone Candara at Hancock Park, 738 Wilcox Ave, Los Angeles, CA, 90038, 68, $2585 - 5770, 844-868-0335, https://www.apartments.com/broadstone-candara-at-hancock-park-los-angeles-ca/gfw77ny/
+25, AVA Toluca Hills, 3600 Barham Blvd, Hollywood, CA, 90068, 76, $1630 - 2965, 844-365-3378, https://www.apartments.com/ava-toluca-hills-hollywood-ca/rl6jtf1/
+26, AVA Studio City, 10979 Bluffside Dr, Studio City, CA, 91604, 67, $1830 - 3058, 855-690-3816, https://www.apartments.com/ava-studio-city-studio-city-ca/sxyjjp4/
+27, The LC, 710 N El Centro Ave, Los Angeles, CA, 90038, 67, $2250 - 3799, 844-599-1679, https://www.apartments.com/the-lc-los-angeles-ca/src1hk5/
+28, 905 Wilcox Ave, 905 Wilcox Ave, Los Angeles, CA, 90038, 70, Call for Rent, 747-233-4550, https://www.apartments.com/905-wilcox-ave-los-angeles-ca/hw2vvm3/
+29, The BW, 1168 S Barrington Ave, Los Angeles, CA, 90049, 65, $3299 - 6999, 844-816-0742, https://www.apartments.com/the-bw-los-angeles-ca/547l6tm/
+30, Luna, 3640 Wilshire Blvd, Los Angeles, CA, 90010, 66, $1695 - 3560, 844-816-2190, https://www.apartments.com/luna-los-angeles-ca/0lslp30/
+31, Maya, 535-547 S Kingsley Dr, Los Angeles, CA, 90020, 64, $1995 - 3720, 844-295-2270, https://www.apartments.com/maya-los-angeles-ca/dml9hdk/
+32, Wilshire Victoria, 10700 Wilshire Blvd, Los Angeles, CA, 90024, 71, $5995 - 29995, 844-840-8937, https://www.apartments.com/wilshire-victoria-los-angeles-ca/vzvxydd/
+33, The Hillpointe Luxury Apartments, 2330 N Cahuenga Blvd, Los Angeles, CA, 90068, 67, $1950 - 2795, 844-763-8307, https://www.apartments.com/the-hillpointe-luxury-apartments-los-angeles-ca/7byjtsy/
+34, R3 Lofts, 4091 Redwood Ave, Los Angeles, CA, 90066, 70, $2485 - 5249, 844-779-1057, https://www.apartments.com/r3-lofts-los-angeles-ca/7gxkvgy/
+35, 3838, 3838 Dunn Dr, Culver City, CA, 90232, 64, $2495 - 4345, 844-233-2410, https://www.apartments.com/3838-culver-city-ca/prrt4dt/
+36, 888 Hilgard Furnished Living, 888 Hilgard Ave, Los Angeles, CA, 90024, 69, $3032 - 5517, 424-320-3970, https://www.apartments.com/888-hilgard-furnished-living-los-angeles-ca/d2rh6bh/
+37, 8500 Burton, 8500 Burton Way, Los Angeles, CA, 90048, 65, $6000 - 40000, 844-203-9686, https://www.apartments.com/8500-burton-los-angeles-ca/s7n6nj5/
+38, Avana on Wilshire, 635 S Hobart Blvd, Los Angeles, CA, 90005, 62, $2188 - 4245, 877-514-9054, https://www.apartments.com/avana-on-wilshire-los-angeles-ca/kcknh38/
+39, Museum Terrace, 600 S Curson Ave, Los Angeles, CA, 90036, 69, $2359 - 3091, 844-289-5682, https://www.apartments.com/museum-terrace-los-angeles-ca/00lmwh1/
+40, Lincoln Place Apartment Homes, 1050 Frederick St, Venice, CA, 90291, 68, $2643 - 5263, 888-670-8958, https://www.apartments.com/lincoln-place-apartment-homes-venice-ca/9b6r0g6/
+41, Legacy at Westwood Apartments, 10833 Wilshire Blvd, Los Angeles, CA, 90024, 67, $3297 - 10232, 310-425-3967, https://www.apartments.com/legacy-at-westwood-apartments-los-angeles-ca/6013g3t/
+42, Franklin Plaza, 7230 Franklin Ave, Los Angeles, CA, 90046, 70, $2395 - 2995, 844-289-9607, https://www.apartments.com/franklin-plaza-los-angeles-ca/8qf81m1/
+43, Hollywood Tower, 6200 Franklin Ave, Hollywood, CA, 90028, 60, $2100 - 3300, 323-472-9165, https://www.apartments.com/hollywood-tower-hollywood-ca/m7g83rl/
+44, The MetWest, 5837 W Sunset Blvd, Los Angeles, CA, 90028, 64, $2555 - 3245, 877-892-4033, https://www.apartments.com/the-metwest-los-angeles-ca/vh1he9g/
+45, Windsor at Hancock Park, 445 N Rossmore Ave, Los Angeles, CA, 90004, 71, $2885 - 4945, 866-965-2619, https://www.apartments.com/windsor-at-hancock-park-los-angeles-ca/bcv3p1b/
+46, Woodcliff, 3201 Overland Ave, Los Angeles, CA, 90034, 65, $1895 - 3295, 844-495-9186, https://www.apartments.com/woodcliff-los-angeles-ca/z23h3gx/
+47, M Lofts, 3425 Motor Ave, Los Angeles, CA, 90034, 63, $2300 - 2450, 323-284-7345, https://www.apartments.com/m-lofts-los-angeles-ca/qstd5wy/
+48, 801 North, 801 N Fairfax Ave, Los Angeles, CA, 90046, 63, $2595 - 3995, 844-802-9799, https://www.apartments.com/801-north-los-angeles-ca/bm9w288/
+49, Vues on Gordon, 1558 Gordon St, Los Angeles, CA, 90028, 66, $2245 - 4150, 877-700-9205, https://www.apartments.com/vues-on-gordon-los-angeles-ca/plvnwwt/
+50, The Adler Apartments, 11950 Idaho Ave, Los Angeles, CA, 90025, 70, $3980 - 7670, 844-824-5104, https://www.apartments.com/the-adler-apartments-los-angeles-ca/xhj879m/
+51, IMT Beverly Arnaz, 467 Arnaz Dr, Los Angeles, CA, 90048, 72, $3000 - 3750, 844-495-0188, https://www.apartments.com/imt-beverly-arnaz-los-angeles-ca/ekrw6lm/
+52, Westwood Villa, 2901 S Sepulveda Blvd, Los Angeles, CA, 90064, 63, $1899 - 2395, 844-450-8537, https://www.apartments.com/westwood-villa-los-angeles-ca/0cds1f3/
+53, La Cienega Weho, 375 N La Cienega Blvd, West Hollywood, CA, 90048, 65, $3075 - 4160, 844-832-3150, https://www.apartments.com/la-cienega-weho-west-hollywood-ca/cpf9xzf/
+54, Instrata Sunset Vine Tower, 1480 Vine St, Los Angeles, CA, 90028, 68, $3600 - 5700, 844-406-4110, https://www.apartments.com/instrata-sunset-vine-tower-los-angeles-ca/l2qp91d/
+55, Forty55 Lofts, 4055 Redwood Ave, Marina del Rey, CA, 90066, 71, $3068 - 9507, 310-907-5699, https://www.apartments.com/forty55-lofts-marina-del-rey-ca/ncslhfp/
+56, 1724 Highland, 1724 N Highland Ave, Hollywood, CA, 90028, 67, $2375 - 3775, 855-227-7048, https://www.apartments.com/1724-highland-hollywood-ca/vmvm5wg/
+57, Hollywood View Towers, 5724 Hollywood Blvd, Los Angeles, CA, 90028, 63, $2595 - 3695, 844-266-2940, https://www.apartments.com/hollywood-view-towers-los-angeles-ca/1ktnzz4/
+58, Barrington Plaza, 11740 Wilshire Blvd, Los Angeles, CA, 90025, 70, $2125 - 4995, 844-790-0074, https://www.apartments.com/barrington-plaza-los-angeles-ca/pp1bjyv/
+59, 555 Barrington, 555 S Barrington Ave, Los Angeles, CA, 90049, 74, $3195 - 7600, 844-207-0095, https://www.apartments.com/555-barrington-los-angeles-ca/b31wdhb/
+60, Wilshire Margot, 10599 Wilshire Blvd, Los Angeles, CA, 90024, 70, $1745 - 9995, 844-538-7419, https://www.apartments.com/wilshire-margot-los-angeles-ca/4h45ddj/
+61, The Apartment Residences at AKA, 8500 W Sunset Blvd, Los Angeles, CA, 90069, 68, $4750 - 12600, 844-891-0428, https://www.apartments.com/the-apartment-residences-at-aka-los-angeles-ca/x4brlmm/
+62, The Tides Brentwood, 1157 S Bundy Dr, Los Angeles, CA, 90049, 67, $4200 - 5100, 844-846-2310, https://www.apartments.com/the-tides-brentwood-los-angeles-ca/lb1btvd/
+63, Infinity West, 7045-7051 Lanewood Ave, Los Angeles, CA, 90028, 69, Call for Rent, 844-393-0756, https://www.apartments.com/infinity-west-los-angeles-ca/kg2v479/
+64, AKA West Hollywood, 8500 W Sunset Blvd, Los Angeles, CA, 90069, 68, $4700 - 20925, 844-281-5384, https://www.apartments.com/aka-west-hollywood-los-angeles-ca/fse9hcv/
+65, CentrePointe Apartments, 3701 Overland Ave, Los Angeles, CA, 90034, 61, $2000 - 3300, 888-655-5276, https://www.apartments.com/centrepointe-apartments-los-angeles-ca/qqfs3hx/
+66, The HW, 7928 Hollywood Blvd, Los Angeles, CA, 90046, 69, $3100 - 4850, 844-286-9953, https://www.apartments.com/the-hw-los-angeles-ca/9cp9py6/
+67, Villa Elizabeth, 7513 Fountain Ave, Los Angeles, CA, 90046, 68, $2100 - 6000, 844-381-7808, https://www.apartments.com/villa-elizabeth-los-angeles-ca/wnyxn7j/
+68, Nirvana Hollywood, 1775 N Orange Dr, Hollywood, CA, 90028, 69, $2500 - 4000, 844-257-1228, https://www.apartments.com/nirvana-hollywood-hollywood-ca/14cj004/
+69, Empire at Bellagio, 11715 Bellagio Rd, Los Angeles, CA, 90049, 67, $5500, 424-610-4562, https://www.apartments.com/empire-at-bellagio-los-angeles-ca/48cl4kk/
+70, The Villa Carlotta, 5959 Franklin Ave, Los Angeles, CA, 90028, 66, Call for Rent, 844-528-6530, https://www.apartments.com/the-villa-carlotta-los-angeles-ca/w0ckpfh/
+71, The Lofts on La Brea, 1616 N La Brea Ave, Los Angeles, CA, 90028, 69, $3200, 844-652-8075, https://www.apartments.com/the-lofts-on-la-brea-los-angeles-ca/nl3tpvq/
+72, Versailles Koreatown, 918 S Oxford Ave, Los Angeles, CA, 90006, 67, $1925 - 2574, 888-909-9148, https://www.apartments.com/versailles-koreatown-los-angeles-ca/ev8dspm/
+73, Westside Villas, 2245 S Beverly Glen Blvd, Los Angeles, CA, 90064, 71, $3385 - 3932, 844-223-3800, https://www.apartments.com/westside-villas-los-angeles-ca/jn8fx34/
+74, Vantage Hollywood, 1710 N Fuller Ave, Los Angeles, CA, 90046, 68, $2015 - 3182, 844-512-2779, https://www.apartments.com/vantage-hollywood-los-angeles-ca/x94e5mp/
+75, Regency Palm Court, 914 S Wilton Pl, Los Angeles, CA, 90019, 68, $1555 - 2239, 844-833-1508, https://www.apartments.com/regency-palm-court-los-angeles-ca/cjhdd5d/
+76, Wilshire La Brea, 5200 Wilshire Blvd, Los Angeles, CA, 90036, 67, $2139 - 4487, 888-565-4540, https://www.apartments.com/wilshire-la-brea-los-angeles-ca/xhv93zq/
+77, Windsor Court, 900 S Irolo St, Los Angeles, CA, 90006, 67, $1648 - 2286, 844-674-5176, https://www.apartments.com/windsor-court-los-angeles-ca/4r2tsek/
+78, Park Catalina, 690 S Catalina St, Los Angeles, CA, 90005, 68, $2223 - 2620, 844-801-4355, https://www.apartments.com/park-catalina-los-angeles-ca/n8kpqrn/
+79, 5600 Wilshire, 5600 Wilshire Blvd, Los Angeles, CA, 90036, 68, $2205 - 3592, 844-802-8112, https://www.apartments.com/5600-wilshire-los-angeles-ca/jhpj9l7/
+80, Kings Road, 733 N Kings Rd, Los Angeles, CA, 90069, 73, $2079 - 3583, 844-436-5108, https://www.apartments.com/kings-road-los-angeles-ca/fm33g7v/
+81, Bellerive, 1929 Beloit Ave, Los Angeles, CA, 90025, 59, $3401 - 4514, 844-820-7152, https://www.apartments.com/bellerive-los-angeles-ca/tx5rhj9/
+82, Tiffany Court, 616 Masselin Ave, Los Angeles, CA, 90036, 68, $2265 - 2940, 844-800-0936, https://www.apartments.com/tiffany-court-los-angeles-ca/tbn6qeb/
+83, Catalina Gardens, 333 S Catalina St, Los Angeles, CA, 90020, 67, $1830 - 2695, 844-807-4845, https://www.apartments.com/catalina-gardens-los-angeles-ca/6mc6c6s/
+84, Essex Properties at Miracle Mile, 400 S Detroit St, Los Angeles, CA, 90036, 68, $2217 - 3010, 844-323-4550, https://www.apartments.com/essex-properties-at-miracle-mile-los-angeles-ca/yyd2njr/
+85, The Camden, 1540 N Vine St, Los Angeles, CA, 90028, 66, $2159 - 13709, 877-365-6685, https://www.apartments.com/the-camden-los-angeles-ca/5jq0ccn/
+86, Lanewood Pines, 7027 Lanewood Ave, Hollywood, CA, 90028, 68, $1917 - 2976, 866-684-4719, https://www.apartments.com/lanewood-pines-hollywood-ca/l4pz0md/
+87, Avana Sunset, 1443 N Fuller Ave, Los Angeles, CA, 90046, 72, $1909 - 4066, 844-223-9821, https://www.apartments.com/avana-sunset-los-angeles-ca/8hv9z53/
+88, HillCreste Apartments, 1420 Ambassador St, Los Angeles, CA, 90035, 74, $2899 - 7031, 323-406-7064, https://www.apartments.com/hillcreste-apartments-los-angeles-ca/lx0c9bg/
+89, Pacific Rose Apartments, 10705-10725 Rose Ave, Los Angeles, CA, 90034, 64, $2525 - 2750, 844-660-6931, https://www.apartments.com/pacific-rose-apartments-los-angeles-ca/c0qslpe/
+90, Windsor Lofts at Universal City, 4055 Lankershim Blvd, Studio City, CA, 91604, 67, $2335 - 4400, 818-287-7535, https://www.apartments.com/windsor-lofts-at-universal-city-studio-city-ca/k8j6dx9/
+91, Crenshaw Townhouse, 1327-1329 S Crenshaw Blvd, Los Angeles, CA, 90019, 68, $1888 - 2450, 888-309-2949, https://www.apartments.com/crenshaw-townhouse-los-angeles-ca/701dj3w/
+92, La Fontaine, 1333 N Curson Ave, Los Angeles, CA, 90046, 68, $3095 - 3550, 323-606-8872, https://www.apartments.com/la-fontaine-los-angeles-ca/tqbr3t8/
+93, 11024 Strathmore Dr., 11024 Strathmore Dr, Los Angeles, CA, 90024, 71, $4623 - 8750, 424-442-1949, https://www.apartments.com/11024-strathmore-dr-los-angeles-ca/b1sh6nc/
+94, Barton Apartments, 5918-5920 Barton Ave, Los Angeles, CA, 90038, 69, $2195 - 2395, 844-731-9194, https://www.apartments.com/barton-apartments-los-angeles-ca/5nrl8bp/
+95, Gayley & Lindbrook, 1122 Gayley Ave, Los Angeles, CA, 90024, 65, $4495 - 4500, 844-468-3462, https://www.apartments.com/gayley-lindbrook-los-angeles-ca/g26mwez/
+96, Darlington Apartments, 11681 Darlington Ave, Los Angeles, CA, 90049, 72, $3950, 844-859-0298, https://www.apartments.com/darlington-apartments-los-angeles-ca/pet8t5s/
+97, Villa Bel Air, 130 S Sepulveda Blvd, Los Angeles, CA, 90049, 64, $3955 - 6055, 844-811-5197, https://www.apartments.com/villa-bel-air-los-angeles-ca/md43cmh/
+98, Masselin Park West, 5700 W 6th St, Los Angeles, CA, 90036, 69, Call for Rent, 323-302-9189, https://www.apartments.com/masselin-park-west-los-angeles-ca/1j7x496/
+99, Burton Way, 8665 Burton Way, Los Angeles, CA, 90048, -, $3615 - 7900, 844-416-6143, https://www.apartments.com/burton-way-los-angeles-ca/sh06nz7/
+100, Angelene, 915 N La Brea Ave, Los Angeles, CA, 90038, 68, $3325 - 5300, 844-329-8255, https://www.apartments.com/angelene-los-angeles-ca/j0hc8f7/
+101, Gloria Homes Apartments, 4928 W Martin Luther King Jr Blvd, Los Angeles, CA, 90016, 68, $1698 - 2311, 323-825-4611, https://www.apartments.com/gloria-homes-apartments-los-angeles-ca/f3ecfzr/
+102, The 5550, 5550 Hollywood Blvd, Los Angeles, CA, 90028, 62, $2020 - 4545, 855-547-1454, https://www.apartments.com/the-5550-los-angeles-ca/6yq288t/
+103, Ariel Court Apts, 535 Gayley Ave, Los Angeles, CA, 90024, 75, $2260 - 3715, 844-787-2700, https://www.apartments.com/ariel-court-apts-los-angeles-ca/3flbt1f/
+104, Hollywood Place, 7400 Hollywood Blvd, Los Angeles, CA, 90046, 70, $2100 - 2300, 855-862-1782, https://www.apartments.com/hollywood-place-los-angeles-ca/qf8j19y/
+105, Villa Vicente, 5351 San Vicente Blvd, Los Angeles, CA, 90019, 66, $1583 - 2731, 866-959-2918, https://www.apartments.com/villa-vicente-los-angeles-ca/03xsfe1/
+106, West Park Village, 11400 Rochester Ave, Los Angeles, CA, 90025, 68, $1729 - 2310, 866-492-0167, https://www.apartments.com/west-park-village-los-angeles-ca/gjb1v5x/
+107, L'Estancia, 4045 Vineland Ave, Studio City, CA, 91604, 67, $2700 - 6276, 866-401-0611, https://www.apartments.com/lestancia-studio-city-ca/vk64y2e/
+108, Lindbrook Manor, 10824 Lindbrook Dr, Los Angeles, CA, 90024, 67, $1785 - 2210, 844-650-0517, https://www.apartments.com/lindbrook-manor-los-angeles-ca/rg44023/
+109, The Madison Apartments, 1746 N Orange Dr, Los Angeles, CA, 90028, 69, $2515 - 2565, 844-430-3283, https://www.apartments.com/the-madison-apartments-los-angeles-ca/cwht03d/
+110, Savoy West Apartments, 7270 Franklin Ave, Los Angeles, CA, 90046, 71, $1855 - 2180, 844-274-2761, https://www.apartments.com/savoy-west-apartments-los-angeles-ca/wc9jk6j/
+111, Sterling Court Apartments, 5409 Carlton Way, Los Angeles, CA, 90027, 67, $1850, 844-203-0475, https://www.apartments.com/sterling-court-apartments-los-angeles-ca/4qqsydj/
+112, 5800 Harold, 5800 Harold Way, Hollywood, CA, 90028, 59, $2200 - 6000, 844-268-6571, https://www.apartments.com/5800-harold-hollywood-ca/yqql00t/
+113, Duet on Wilcox, 1745 N Wilcox Ave, Los Angeles, CA, 90028, 66, $1585 - 3605, 323-856-1781, https://www.apartments.com/duet-on-wilcox-los-angeles-ca/z0gleny/
+114, Desmond at Wilshire, 5520 Wilshire Blvd, Los Angeles, CA, 90036, 67, $2833 - 7279, 844-799-1903, https://www.apartments.com/desmond-at-wilshire-los-angeles-ca/kmwt7dc/
+115, Avalon Wilshire, 5115 Wilshire Blvd, Los Angeles, CA, 90036, 66, $2478 - 3516, 864-558-2875, https://www.apartments.com/avalon-wilshire-los-angeles-ca/j2d5nq4/
+116, Avalon Venice on Rose, 512 Rose Ave, Venice, CA, 90291, 72, $3990 - 4370, 844-310-6156, https://www.apartments.com/avalon-venice-on-rose-venice-ca/f1pdb6v/
+117, Avalon Studio City, 10945 Bluffside Dr, Studio City, CA, 91604, 61, $2391 - 3366, 855-718-7654, https://www.apartments.com/avalon-studio-city-studio-city-ca/qfmf8jx/
+118, Kingsley Tower Apartments, 333 S Kingsley Dr, Los Angeles, CA, 90020, 67, $1750 - 2575, 844-795-1411, https://www.apartments.com/kingsley-tower-apartments-los-angeles-ca/1tz49x4/
+119, Gramercy Hollywood, 1836 N Gramercy Pl, Los Angeles, CA, 90028, 68, $1999 - 3250, 877-607-7848, https://www.apartments.com/gramercy-hollywood-los-angeles-ca/583z2cn/
+120, Bentley Apartments, 2110 S Bentley Ave, Los Angeles, CA, 90025, 63, $4900, 844-637-9549, https://www.apartments.com/bentley-apartments-los-angeles-ca/vz0bqtg/
+121, The Wendover Apartments, 840 Hobart Blvd, Los Angeles, CA, 90005, 69, $1175 - 1225, 844-265-9958, https://www.apartments.com/the-wendover-apartments-los-angeles-ca/c8lb84f/
+122, The Abbey, 3550 W 6th St, Los Angeles, CA, 90005, 65, $2135 - 3000, 844-825-4899, https://www.apartments.com/the-abbey-los-angeles-ca/tszh6fc/
+123, Hughes Regency, 3665 Hughes Ave, Los Angeles, CA, 90034, 66, Call for Rent, 844-209-7328, https://www.apartments.com/hughes-regency-los-angeles-ca/8yd7yz1/
+124, Vue Hollywood, 1425 N Alta Vista Blvd, Los Angeles, CA, 90046, 71, $1995 - 2995, 855-463-6101, https://www.apartments.com/vue-hollywood-los-angeles-ca/wpy01fh/
+125, Cosmo Lofts, 1617 Cosmo St, Los Angeles, CA, 90028, 65, $3100 - 3700, 323-694-3939, https://www.apartments.com/cosmo-lofts-los-angeles-ca/cjyekne/
+126, R2 Living Loft, 4133 S Redwood Ave, Los Angeles, CA, 90066, 71, $2299 - 5599, 844-205-2697, https://www.apartments.com/r2-living-loft-los-angeles-ca/fjy5svt/
+127, 1134 N Sycamore Ave, 1134 N Sycamore Ave, Los Angeles, CA, 90038, 67, $1750, 866-606-1056, https://www.apartments.com/1134-n-sycamore-ave-los-angeles-ca/f49r2cr/
+128, Mansfield Apartments, 723 S Mansfield Ave, Los Angeles, CA, 90036, 69, Call for Rent, 844-414-9070, https://www.apartments.com/mansfield-apartments-los-angeles-ca/vvmqebd/
+129, Mariposa Gardens, 533 N Mariposa Ave, Los Angeles, CA, 90004, 65, $1825, 844-262-5661, https://www.apartments.com/mariposa-gardens-los-angeles-ca/cv7lf8d/
+130, Bleu Apartments, 6565 W Fountain Ave, Los Angeles, CA, 90028, 68, $1875 - 1950, 844-390-6034, https://www.apartments.com/bleu-apartments-los-angeles-ca/c9pcphd/
+131, Chateau Alto Nido Apartments, 1851 Ivar Ave, Los Angeles, CA, 90028, 64, $2160 - 2420, 844-795-9441, https://www.apartments.com/chateau-alto-nido-apartments-los-angeles-ca/5cvr03q/
+132, Mansfield Apartments, 1229-1318 N Mansfield Ave, Los Angeles, CA, 90038, 68, $2490, 844-229-2324, https://www.apartments.com/mansfield-apartments-los-angeles-ca/m9gpmpl/
+133, The Woodmere, 3700 S Sepulveda Blvd, Los Angeles, CA, 90034, 65, $1900 - 3200, 844-259-7126, https://www.apartments.com/the-woodmere-los-angeles-ca/s98phx5/
+134, 8600 Burton Way, 8600 Burton Way, Los Angeles, CA, 90048, 70, $3900, 310-734-0209, https://www.apartments.com/8600-burton-way-los-angeles-ca/6j433rt/
+135, La Posada, 12036 Culver Blvd, Los Angeles, CA, 90066, 74, $2595, 844-750-6835, https://www.apartments.com/la-posada-los-angeles-ca/zpef9xw/
+136, 1939 N Kenmore Ave, 1939 N Kenmore Ave, Los Angeles, CA, 90027, 72, Call for Rent, 844-221-8080, https://www.apartments.com/1939-n-kenmore-ave-los-angeles-ca/7lp3jnw/
+137, Burton Square, 8660 Burton Way, Los Angeles, CA, 90048, 71, $2150 - 2195, 844-898-3203, https://www.apartments.com/burton-square-los-angeles-ca/tyrsm2b/
+138, 1338-1352 N Harper Ave, 1338-1352 N Harper Ave, Los Angeles, CA, 90046, 72, $2895 - 3095, 844-811-6937, https://www.apartments.com/1338-1352-n-harper-ave-los-angeles-ca/jqsxn94/
+139, Hollywood Terrace Apartments, 6550 Yucca St, Los Angeles, CA, 90028, 68, $2050, 844-209-1210, https://www.apartments.com/hollywood-terrace-apartments-los-angeles-ca/1lehqd6/
+140, Axiom Westwood, 415 Gayley Ave, Los Angeles, CA, 90024, 74, $2105 - 3520, 844-774-0259, https://www.apartments.com/axiom-westwood-los-angeles-ca/w8vbp6l/
+141, 345 Cloverdale, 345 S Cloverdale Ave, Los Angeles, CA, 90036, 69, $2050 - 2800, 844-788-5708, https://www.apartments.com/345-cloverdale-los-angeles-ca/2xylpv9/
+142, Hyde Park, 1200 N June St, Los Angeles, CA, 90038, 69, $1700 - 2400, 844-627-1592, https://www.apartments.com/hyde-park-los-angeles-ca/b5tk7c9/
+143, Babylon Apartments, 360 S Detroit St, Los Angeles, CA, 90036, 68, $1850, 855-480-4928, https://www.apartments.com/babylon-apartments-los-angeles-ca/kqv7zr8/
+144, Burnside Apartments, 616 S Burnside Ave, Los Angeles, CA, 90036, 68, $1900 - 2200, 844-822-0394, https://www.apartments.com/burnside-apartments-los-angeles-ca/g10tnxy/
+145, The Westbury, 1765 N Sycamore Ave, Los Angeles, CA, 90028, 71, $1550 - 2600, 844-367-7180, https://www.apartments.com/the-westbury-los-angeles-ca/lsypgfg/
+146, Brighton Villas, 318 S Detroit St, Los Angeles, CA, 90036, 68, $2500 - 2700, 844-244-9994, https://www.apartments.com/brighton-villas-los-angeles-ca/4nhx1jj/
+147, 120 Granville Ave., 120 Granville Ave, Los Angeles, CA, 90049, 75, $5995, 844-791-0136, https://www.apartments.com/120-granville-ave-los-angeles-ca/1whhbd4/
+148, Berendo Apartments, 1217 N Berendo St, Los Angeles, CA, 90029, 69, Call for Rent, 844-863-6287, https://www.apartments.com/berendo-apartments-los-angeles-ca/207h45b/
+149, 3144 Canfield, 3144 Canfield Ave, Los Angeles, CA, 90034, 65, $2850, 855-556-1244, https://www.apartments.com/3144-canfield-los-angeles-ca/bt62p2c/
+150, Roberts Hall, 670 Kelton Ave, Los Angeles, CA, 90024, 71, Call for Rent, 424-320-5666, https://www.apartments.com/roberts-hall-los-angeles-ca/fj62cdv/
+151, Morgan Lofts, 3324-3330 Wilshire Blvd, Los Angeles, CA, 90010, 65, $2100 - 4600, 844-410-0512, https://www.apartments.com/morgan-lofts-los-angeles-ca/vctn9lf/
+152, Orange Towers, 1757 N Orange Dr, Hollywood, CA, 90028, 70, $1950 - 2700, 844-380-2423, https://www.apartments.com/orange-towers-hollywood-ca/m1l7vrl/
+153, Residences at Woodlake, 4555 W Martin Luther King Jr Blvd, Los Angeles, CA, 90016, 72, $1670 - 2180, 310-846-8835, https://www.apartments.com/residences-at-woodlake-los-angeles-ca/tcjt8s8/
+154, Casa De Vida, 3230 Overland Ave, Los Angeles, CA, 90034, 65, $2100 - 2150, 844-877-8862, https://www.apartments.com/casa-de-vida-los-angeles-ca/js1rfw7/
+155, Hollywood Pointe Apartments, 6711 Yucca St, Los Angeles, CA, 90028, 67, $1525, 747-208-7823, https://www.apartments.com/hollywood-pointe-apartments-los-angeles-ca/e6fehxp/
+156, Bluffside Terrace Apartments, 10915 Bluffside Dr, Studio City, CA, 91604, 61, $1575 - 2195, 844-335-7892, https://www.apartments.com/bluffside-terrace-apartments-studio-city-ca/jprjql6/
+157, Hollywood Royale Apartments, 1545 N Hobart Blvd, Los Angeles, CA, 90027, 67, $1200, 323-856-1736, https://www.apartments.com/hollywood-royale-apartments-los-angeles-ca/xstnyxq/
+158, 10401 Wilshire Building, 10401 Wilshire Blvd, Los Angeles, CA, 90024, 68, $2360 - 3570, 844-640-8911, https://www.apartments.com/10401-wilshire-building-los-angeles-ca/b3qk6wc/
+159, Chateau Mansfield, 1318 N Mansfield Ave, Los Angeles, CA, 90028, 64, $2135, 844-224-9659, https://www.apartments.com/chateau-mansfield-los-angeles-ca/zyppqlz/
+160, Studio Arnaz, 320 S Arnaz Dr, Los Angeles, CA, 90048, 69, $1892, 844-778-4964, https://www.apartments.com/studio-arnaz-los-angeles-ca/tp44e6c/
+161, Catalina Luxury Apartments, 3930 Laurel Canyon Blvd, Studio City, CA, 91604, 72, $1995 - 2850, 844-857-5825, https://www.apartments.com/catalina-luxury-apartments-studio-city-ca/qbf56bx/
+162, 6651 Franklin, 6651 Franklin Ave, Los Angeles, CA, 90028, 64, $1699 - 2800, 844-882-3432, https://www.apartments.com/6651-franklin-los-angeles-ca/4p3m07l/
+163, Studios at Bronson, 1417 N Bronson Ave, Los Angeles, CA, 90028, 68, $1495 - 1695, 844-538-4099, https://www.apartments.com/studios-at-bronson-los-angeles-ca/fbgdx7t/
+164, The Lido, 6500 Yucca St, Hollywood, CA, 90028, 65, $2402 - 3172, 424-260-5173, https://www.apartments.com/the-lido-hollywood-ca/z6442fw/
+165, Towers at Hollywood Hills, 1800 N Normandie Ave, Los Feliz, CA, 90027, 70, $1795 - 2875, 844-278-8331, https://www.apartments.com/towers-at-hollywood-hills-los-feliz-ca/mmg6dkj/
+166, Keswick Avenue, 10302-10306 Keswick Ave, Los Angeles, CA, 90064, 73, Call for Rent, 844-298-0284, https://www.apartments.com/keswick-avenue-los-angeles-ca/e39ht3p/
+167, Wooster, 835 S Wooster St, Los Angeles, CA, 90035, 71, Call for Rent, 844-580-9852, https://www.apartments.com/wooster-los-angeles-ca/dcw8y1l/
+168, Geneva at Hughes, 3627 Hughes Ave, Los Angeles, CA, 90034, 66, Call for Rent, 424-543-9805, https://www.apartments.com/geneva-at-hughes-los-angeles-ca/jlefle7/
+169, USC STUDENT HOUSING 37TH PLACE, 1216-1222 W 37th Pl, Los Angeles, CA, 90007, 72, $1420 - 3675, 844-260-0629, https://www.apartments.com/usc-student-housing-37th-place-los-angeles-ca/cclzx2g/
+170, USC WEST STUDENT HOUSING, 1241 W 37th Pl, Los Angeles, CA, 90007, 72, $6100 - 6200, 844-267-0120, https://www.apartments.com/usc-west-student-housing-los-angeles-ca/39d0cqf/
+171, USC STUDENT HOUSING CAMPUS VIEW, 1168 W 36th Pl, Los Angeles, CA, 90007, 70, $4395 - 4650, 323-746-2376, https://www.apartments.com/usc-student-housing-campus-view-los-angeles-ca/hrfe4n0/
+172, 10600 Wilshire, 10600 Wilshire Blvd, Los Angeles, CA, 90024, 72, $2400 - 4000, 844-874-6593, https://www.apartments.com/10600-wilshire-los-angeles-ca/3qmd6yf/
+173, Berendo Terrace, 689 S Berendo St, Los Angeles, CA, 90005, 68, $2540 - 2950, 877-590-9608, https://www.apartments.com/berendo-terrace-los-angeles-ca/xye76zq/
+174, Westwood Riviera, 10969 Wellworth Ave, Los Angeles, CA, 90024, 66, $1995 - 2650, 747-248-0467, https://www.apartments.com/westwood-riviera-los-angeles-ca/5wvjxln/
+175, The Westgate Collection, 1515 S Westgate Ave, Los Angeles, CA, 90025, 68, $4107 - 4307, 818-588-4865, https://www.apartments.com/the-westgate-collection-los-angeles-ca/zcz87yw/
+176, Hauser Apartments, 625 Hauser Blvd, Los Angeles, CA, 90036, 68, $2700, 844-209-8095, https://www.apartments.com/hauser-apartments-los-angeles-ca/2pwnvw8/
+177, 7020 Lanewood Apartments, 7020 Lanewood Ave, Hollywood, CA, 90028, 67, $2700, 844-836-5371, https://www.apartments.com/7020-lanewood-apartments-hollywood-ca/j62ync4/
+178, Cahuenga Heights - Amazing Views!, 2104 N Cahuenga Blvd, Los Angeles, CA, 90068, 66, $2425 - 2450, 844-864-9575, https://www.apartments.com/cahuenga-heights-amazing-views-los-angeles-ca/w5v54gk/
+179, Archview Apartments, 4150 Arch Dr, Studio City, CA, 91604, 69, $2450, 844-877-4862, https://www.apartments.com/archview-apartments-studio-city-ca/pbwzr1s/
+180, The Gershwin Apartments, 5533 Hollywood Blvd, Los Angeles, CA, 90028, 61, $1300 - 2750, 844-818-1501, https://www.apartments.com/the-gershwin-apartments-los-angeles-ca/kymc268/
+181, Cahuenga Place - Former Site Hanna Barbara, 3400 Cahuenga Blvd W, Los Angeles, CA, 90068, 61, $2499 - 2750, 323-380-1157, https://www.apartments.com/cahuenga-place-former-site-hanna-barbara-los-angeles-ca/3n6ybne/
+182, Hancock Terrace Apartments, 538 S Manhattan Pl, Los Angeles, CA, 90020, 64, $1750, 844-614-9212, https://www.apartments.com/hancock-terrace-apartments-los-angeles-ca/5r99bvm/
+183, The Fleur De Lis, 1825 N Whitley Ave, Los Angeles, CA, 90028, 68, $1200 - 1805, 888-239-1924, https://www.apartments.com/the-fleur-de-lis-los-angeles-ca/t9xybp8/
+184, 1800 Whitley, 1800 N Whitley Ave, Los Angeles, CA, 90028, 67, $2995 - 4295, 844-386-1040, https://www.apartments.com/1800-whitley-los-angeles-ca/r9wryp2/
+185, Strathmore Regency Apartments, 11050 Strathmore Dr, Los Angeles, CA, 90024, 71, $2045 - 5145, 844-408-8432, https://www.apartments.com/strathmore-regency-apartments-los-angeles-ca/mndj54l/
+186, The Langham, 715 S Normandie Ave, Los Angeles, CA, 90005, 67, $1050 - 2250, 213-814-1107, https://www.apartments.com/the-langham-los-angeles-ca/n7ssnbm/
+187, 102 S Oxford Ave, 102 S Oxford Ave, Los Angeles, CA, 90004, 69, $1600, 213-425-3589, https://www.apartments.com/102-s-oxford-ave-los-angeles-ca/1r753r6/
+188, The Avalon Catalina Apartments, 324 S Catalina St, Los Angeles, CA, 90020, 67, $1395 - 1495, 844-588-0574, https://www.apartments.com/the-avalon-catalina-apartments-los-angeles-ca/9wnsek7/
+189, 1820 Whitley, 1820 Whitley Ave, Hollywood, CA, 90028, 67, $1809 - 2884, 844-887-6919, https://www.apartments.com/1820-whitley-hollywood-ca/n3g3sfn/
+190, Palms Court, 10125 Palms Blvd, Los Angeles, CA, 90034, 65, $2850 - 2995, 844-280-7897, https://www.apartments.com/palms-court-los-angeles-ca/mcjnykh/
+191, National Apartments, 11650 National Blvd, Los Angeles, CA, 90064, 66, $2250 - 2795, 424-442-1742, https://www.apartments.com/national-apartments-los-angeles-ca/1e89h64/
+192, La Vista Terrace, 7275 Franklin Ave, Los Angeles, CA, 90046, 70, $2000 - 2300, 323-472-9452, https://www.apartments.com/la-vista-terrace-los-angeles-ca/grdkfdz/
+193, Westside Collection, 3165 Sawtelle Blvd, Los Angeles, CA, 90066, 63, $2517 - 3669, 844-598-3657, https://www.apartments.com/westside-collection-los-angeles-ca/re2xyz3/
+194, Verse Hollywood, 1530 N Poinsettia Pl, Los Angeles, CA, 90046, 69, $2479 - 3229, 844-293-8961, https://www.apartments.com/verse-hollywood-los-angeles-ca/6t5p2ys/
+195, Santo Tomas Apartments, 4318 Santo Tomas Dr, Los Angeles, CA, 90008, 75, $1255 - 2350, 213-785-3307, https://www.apartments.com/santo-tomas-apartments-los-angeles-ca/w8n6c2j/
+196, Santa Rosalia Apartment Homes, 4220 Santa Rosalia Dr, Los Angeles, CA, 90008, 73, $1100 - 1625, 877-215-9434, https://www.apartments.com/santa-rosalia-apartment-homes-los-angeles-ca/kypgg28/
+197, Indie Westside Apartments, 3740 Keystone Ave, Los Angeles, CA, 90034, 66, $2917, 844-380-3921, https://www.apartments.com/indie-westside-apartments-los-angeles-ca/y6skbzt/
+198, 435 S Mariposa Ave, 435 S Mariposa Ave, Los Angeles, CA, 90020, 67, Call for Rent, 844-219-4312, https://www.apartments.com/435-s-mariposa-ave-los-angeles-ca/e89pd9p/
+199, Hillside View, 7280 Hillside Ave, Los Angeles, CA, 90046, 70, $2425 - 2475, 844-321-0381, https://www.apartments.com/hillside-view-los-angeles-ca/5dh4c5m/
+200, Villa Doheny I & II, 323 S Doheny Dr, Los Angeles, CA, 90048, 70, Call for Rent, 866-722-5269, https://www.apartments.com/villa-doheny-i-ii-los-angeles-ca/l07mj5d/
+201, The Versailles, 608 S St Andrews Pl, Los Angeles, CA, 90005, 66, $2950, 213-358-2489, https://www.apartments.com/the-versailles-los-angeles-ca/2y58sr8/
+202, 1317 N Bronson Ave, 1317 N Bronson Ave, Los Angeles, CA, 90028, 68, Call for Rent, 844-775-5377, https://www.apartments.com/1317-n-bronson-ave-los-angeles-ca/qxby5dy/
+203, Rose Apartments, 10853 Rose Ave, Los Angeles, CA, 90034, 68, $2715 - 2910, 844-892-6481, https://www.apartments.com/rose-apartments-los-angeles-ca/4lwg8dj/
+204, Croft Plaza, 832 N Croft St, Los Angeles, CA, 90069, 72, Call for Rent, 844-206-8106, https://www.apartments.com/croft-plaza-los-angeles-ca/kzvlp9c/
+205, Vista Apartments, 11811 W Washington Pl, Mar Vista, CA, 90066, 71, $1895, 424-228-9736, https://www.apartments.com/vista-apartments-mar-vista-ca/s08hdt4/
+206, Lexington at Fedora, 844-854 Fedora St, Los Angeles, CA, 90005, 69, $2600 - 2750, 949-274-7827, https://www.apartments.com/lexington-at-fedora-los-angeles-ca/5j03g5p/
+207, Kingsley Plaza, 444 S Kingsley Dr, Los Angeles, CA, 90020, 68, $1475 - 2100, 844-774-0384, https://www.apartments.com/kingsley-plaza-los-angeles-ca/2d52k9b/
+208, Forty6Twenty Apartments, 4620 S Slauson Ave, Culver City, CA, 90230, 69, $2595, 323-330-4282, https://www.apartments.com/forty6twenty-apartments-culver-city-ca/0h5m5s3/
+209, Boulevard on Wilshire, 667 S Detroit St, Los Angeles, CA, 90036, 64, $2630 - 4450, 844-224-9655, https://www.apartments.com/boulevard-on-wilshire-los-angeles-ca/n0eyxyp/
+210, Westwood Executive House, 424 Kelton Ave, Los Angeles, CA, 90024, 75, $2350, 844-223-6815, https://www.apartments.com/westwood-executive-house-los-angeles-ca/yq6sn4s/
+211, Regency Manor, 7205 Hollywood Blvd, Los Angeles, CA, 90046, 69, $1625 - 3200, 844-206-5148, https://www.apartments.com/regency-manor-los-angeles-ca/r9m7wl0/
+212, Park Gramercy, 849 S Gramercy Dr, Los Angeles, CA, 90005, 69, $1200 - 2100, 844-226-2628, https://www.apartments.com/park-gramercy-los-angeles-ca/exc9m8q/
+213, Fountain West Apartments, 6701 Fountain Ave, Los Angeles, CA, 90028, 65, Call for Rent, 844-202-6550, https://www.apartments.com/fountain-west-apartments-los-angeles-ca/1ehl2q6/
+214, 3130 Durango Ave, 3130 Durango Ave, Los Angeles, CA, 90034, 63, Call for Rent, 844-206-8071, https://www.apartments.com/3130-durango-ave-los-angeles-ca/deb7hel/
+215, Edgemont & Banbury Manor Apartments, 1716 Edgemont St, Los Angeles, CA, 90027, 70, $1300 - 1600, 844-508-6068, https://www.apartments.com/edgemont-banbury-manor-apartments-los-angeles-ca/p54j3st/
+216, Vista Paradiso, 11805 Laurelwood Dr, Studio City, CA, 91604, 72, $3329 - 4949, 818-748-8556, https://www.apartments.com/vista-paradiso-studio-city-ca/5wlvv3n/
+217, 1132 N Formosa Ave, 1132 N Formosa Ave, Los Angeles, CA, 90046, 68, Call for Rent, 562-334-2093, https://www.apartments.com/1132-n-formosa-ave-los-angeles-ca/zl09jwz/
+218, The Diplomat Apartments, 10751 Rose Ave, Los Angeles, CA, 90034, 67, $1900, 844-395-6841, https://www.apartments.com/the-diplomat-apartments-los-angeles-ca/f982ret/
+219, 1415-1417 N Sierra Bonita Ave, 1415-1417 N Sierra Bonita Ave, Los Angeles, CA, 90046, 71, $1895, 818-579-2562, https://www.apartments.com/1415-1417-n-sierra-bonita-ave-los-angeles-ca/23en5jc/
+220, 11965-11979 Montana Ave, 11965-11979 Montana Ave, Los Angeles, CA, 90049, 71, $4775 - 8395, 844-738-7774, https://www.apartments.com/11965-11979-montana-ave-los-angeles-ca/9h794c4/
+221, Louise Apartments, 12449 Louise Ave, Los Angeles, CA, 90066, 73, $2295, 844-461-5816, https://www.apartments.com/louise-apartments-los-angeles-ca/8qt0ef1/
+222, Casa Serrano Apartments, 245 S Serrano Ave, Los Angeles, CA, 90004, 66, $1304 - 1750, 844-271-9893, https://www.apartments.com/casa-serrano-apartments-los-angeles-ca/mhby9rl/
+223, Regency Detroit Apartments, 1530 N Detroit Ave, West Hollywood, CA, 90046, 66, $1650 - 2600, 844-208-0994, https://www.apartments.com/regency-detroit-apartments-west-hollywood-ca/q86e95y/
+224, Clarington Apartments, 3475 Clarington Ave, Los Angeles, CA, 90034, 66, $2795 - 2995, 844-264-8538, https://www.apartments.com/clarington-apartments-los-angeles-ca/t2tj748/
+225, The Glendon Building, 10773 Lawler St, Los Angeles, CA, 90034, 68, $2295 - 2800, 424-258-5106, https://www.apartments.com/the-glendon-building-los-angeles-ca/p0cs9zt/
+226, The Commodore, 1830 N Cherokee Ave, Los Angeles, CA, 90028, 68, Call for Rent, 323-472-9169, https://www.apartments.com/the-commodore-los-angeles-ca/slm4434/
+227, 10907 Fruitland Dr, 10907 Fruitland Dr, Studio City, CA, 91604, 66, $2295, 844-224-2988, https://www.apartments.com/10907-fruitland-dr-studio-city-ca/xyp25jn/
+228, 2347 Kerwood Ave, 2347 Kerwood Ave, Los Angeles, CA, 90064, 70, $3195, 844-896-6677, https://www.apartments.com/2347-kerwood-ave-los-angeles-ca/c1kke7e/
+229, 1822 Wilcox Ave, 1822 Wilcox Ave, Los Angeles, CA, 90028, 62, $1750, 855-410-7338, https://www.apartments.com/1822-wilcox-ave-los-angeles-ca/pn055xv/
+230, Franklin Plaza Apartments, 5640 Franklin Ave, Los Angeles, CA, 90028, 66, Call for Rent, 844-641-6913, https://www.apartments.com/franklin-plaza-apartments-los-angeles-ca/70wypsx/
+231, Urbanpolitan, 739 S Ogden Dr, Los Angeles, CA, 90036, 69, $2895, 844-389-5463, https://www.apartments.com/urbanpolitan-los-angeles-ca/nl2rvcm/
+232, South Hayworth Lofts, 1520-1522 S Hayworth Ave, Los Angeles, CA, 90035, 68, $3250 - 3450, 818-877-4173, https://www.apartments.com/south-hayworth-lofts-los-angeles-ca/0l96211/
+233, Trousdale, 3255 Sawtelle Blvd, Los Angeles, CA, 90066, 63, $2995 - 3095, 844-378-0336, https://www.apartments.com/trousdale-los-angeles-ca/3gx6wvf/
+234, June Apartments, 1250 N June St, Los Angeles, CA, 90038, 70, $1495 - 2795, 844-207-5908, https://www.apartments.com/june-apartments-los-angeles-ca/43s962k/
+235, Hollywood Off-Vine, 6204-6216 La Mirada Ave, Los Angeles, CA, 90038, 69, $1210, 844-246-6836, https://www.apartments.com/hollywood-off-vine-los-angeles-ca/h2pz1s0/
+236, The Mondrian, 1830 N La Brea Ave, Los Angeles, CA, 90046, 73, $2800, 818-878-8315, https://www.apartments.com/the-mondrian-los-angeles-ca/nfgel5m/
+237, Rose Avenue Apartments, 10800 Rose Ave, Los Angeles, CA, 90034, 69, $2195, 424-341-4832, https://www.apartments.com/rose-avenue-apartments-los-angeles-ca/teyxk6b/
+238, Rodeo Apartments, 6619 Leland Way, Los Angeles, CA, 90028, 69, $1650, 855-538-8536, https://www.apartments.com/rodeo-apartments-los-angeles-ca/p9pgjhr/
+239, Rose North Apartments, 10825 Rose Ave, Los Angeles, CA, 90034, 68, $2195 - 2795, 213-600-2483, https://www.apartments.com/rose-north-apartments-los-angeles-ca/pgrynds/
+240, Poinsettia Place Lux Apartments, 1640 N Poinsettia Pl, West Hollywood, CA, 90046, 70, Call for Rent, 844-209-7290, https://www.apartments.com/poinsettia-place-lux-apartments-west-hollywood-ca/4k4swxl/
+241, Azure The Residences, 11900 Courtleigh Dr, Los Angeles, CA, 90066, 73, $3565 - 3764, 844-487-3326, https://www.apartments.com/azure-the-residences-los-angeles-ca/tgn1q5c/
+242, 831 S Harvard Blvd, 831 S Harvard Blvd, Los Angeles, CA, 90005, 69, Call for Rent, 747-263-1565, https://www.apartments.com/831-s-harvard-blvd-los-angeles-ca/pcpsgdt/
+243, 1959 S Beverly Glen Blvd, 1959 S Beverly Glen Blvd, Los Angeles, CA, 90025, 70, $4850, 844-851-4372, https://www.apartments.com/1959-s-beverly-glen-blvd-los-angeles-ca/805j6m2/
+244, 2620 West Blvd Unit ., 2620 West Blvd Unit ., Los Angeles, CA, 90016, 65, $1400, 844-809-1398, https://www.apartments.com/2620-west-blvd-los-angeles-ca-unit/j183654/
+245, 12930 Warren Ave, 12930 Warren Ave, Los Angeles, CA, 90066, 71, $1975, 424-341-0570, https://www.apartments.com/12930-warren-ave-los-angeles-ca/w5yfg8k/
+246, 2425 S Barrington Ave Unit A, 2425 S Barrington Ave Unit A, Los Angeles, CA, 90064, 58, $2650, 844-887-9286, https://www.apartments.com/2425-s-barrington-ave-los-angeles-ca-unit-a/5kl87sn/
+247, 2875 W 15th St, 2875 W 15th St, Los Angeles, CA, 90006, 70, $900, 323-402-1231, https://www.apartments.com/2875-w-15th-st-los-angeles-ca/fhmj8yt/
+248, 12114 Idaho Ave, 12114 Idaho Ave, Los Angeles, CA, 90025, 68, $2395, 424-231-3936, https://www.apartments.com/12114-idaho-ave-los-angeles-ca/y7wlhvs/
+249, 4006 Welland Ave, 4006 Welland Ave, Los Angeles, CA, 90008, 73, $4200, 310-683-0934, https://www.apartments.com/4006-welland-ave-los-angeles-ca/w351lnl/
+250, 3307 Stocker St Unit 3307, 3307 Stocker St Unit 3307, Los Angeles, CA, 90008, 69, $2995, 818-539-9958, https://www.apartments.com/3307-stocker-st-los-angeles-ca-unit-3307/y0n9ncr/
+251, 3305 Stocker St, 3305 Stocker St, Los Angeles, CA, 90008, 70, $2695, 323-694-3928, https://www.apartments.com/3305-stocker-st-los-angeles-ca/ep3ymlp/
+252, 1418 N Poinsettia Pl, 1418 N Poinsettia Pl, Los Angeles, CA, 90046, 71, $3800, 844-622-1216, https://www.apartments.com/1418-n-poinsettia-pl-los-angeles-ca/39p0c4d/
+253, 9100 Whitworth Dr, 9100 Whitworth Dr, Los Angeles, CA, 90035, 70, $2800, 424-246-5540, https://www.apartments.com/9100-whitworth-dr-los-angeles-ca/0rl63v0/
+254, 3293 Cahuenga Blvd W, 3293 Cahuenga Blvd W, Los Angeles, CA, 90068, 63, $1850, 323-472-9156, https://www.apartments.com/3293-cahuenga-blvd-w-los-angeles-ca/j2c2xz6/
+255, 10865 Bluffside Dr, 10865 Bluffside Dr, Studio City, CA, 91604, 61, $1550, 844-843-6743, https://www.apartments.com/10865-bluffside-dr-studio-city-ca/s59rf67/
+256, 5564 Homeside Ave Unit 4, 5564 Homeside Ave Unit 4, Los Angeles, CA, 90016, 72, $2650, 213-805-5353, https://www.apartments.com/5564-homeside-ave-los-angeles-ca-unit-4/mgp9tdh/
+257, 530 Veteran Ave, 530 Veteran Ave, Los Angeles, CA, 90024, 71, $2125, 424-260-5182, https://www.apartments.com/530-veteran-ave-los-angeles-ca/t0sefb8/
+258, 1436 S Crescent Heights Blvd, 1436 S Crescent Heights Blvd, Los Angeles, CA, 90035, 69, $2695, 323-431-5209, https://www.apartments.com/1436-s-crescent-heights-blvd-los-angeles-ca/068vf52/
+259, 5341 Deane Ave Unit 5341, 5341 Deane Ave Unit 5341, View Park-Windsor Hills, CA, 90043, 73, $2475, 323-431-5207, https://www.apartments.com/5341-deane-ave-view-park-windsor-hills-ca-unit-5341/rxzj6p3/
+260, 5343 Deane Ave, 5343 Deane Ave, Los Angeles, CA, 90043, 73, $2475, 844-218-2167, https://www.apartments.com/5343-deane-ave-los-angeles-ca/bc4w2pb/
+261, 11848 Kiowa Ave Unit 307, 11848 Kiowa Ave Unit 307, Los Angeles, CA, 90049, 72, $5100, 323-536-1818, https://www.apartments.com/11848-kiowa-ave-los-angeles-ca-unit-307/tqq7d09/
+262, 2611 Woodstock Rd, 2611 Woodstock Rd, Los Angeles, CA, 90046, 79, $2000, 818-208-2704, https://www.apartments.com/2611-woodstock-rd-los-angeles-ca/cjqpcgg/
+263, 3748 W 9th St, 3748 W 9th St, Los Angeles, CA, 90019, 69, $1695, 747-226-5924, https://www.apartments.com/3748-w-9th-st-los-angeles-ca/8kec6b0/
+264, 2357 Brookshire Ln, 2357 Brookshire Ln, Los Angeles, CA, 90077, 71, $7700, 424-331-1619, https://www.apartments.com/2357-brookshire-ln-los-angeles-ca/ypxgxpr/
+265, 8818 Alcott St, 8818 Alcott St, Los Angeles, CA, 90035, 67, $4250, 424-256-0331, https://www.apartments.com/8818-alcott-st-los-angeles-ca/nbkys6n/
+266, 300 S Westgate Ave, 300 S Westgate Ave, Los Angeles, CA, 90049, 76, $10500, 424-278-9580, https://www.apartments.com/300-s-westgate-ave-los-angeles-ca/6txgdvr/
+267, 1138 S La Cienega Blvd Unit 1, 1138 S La Cienega Blvd Unit 1, Los Angeles, CA, 90035, 67, $1650, 424-216-9643, https://www.apartments.com/1138-s-la-cienega-blvd-los-angeles-ca-unit-1/g963x7x/
+268, 2310 S Bentley Ave Unit 4, 2310 S Bentley Ave Unit 4, Los Angeles, CA, 90064, 65, $2295, 323-391-4292, https://www.apartments.com/2310-s-bentley-ave-los-angeles-ca-unit-4/lxv64gg/
+269, 143 S Hayworth Ave, 143 S Hayworth Ave, Los Angeles, CA, 90048, 69, $2650, 323-457-4990, https://www.apartments.com/143-s-hayworth-ave-los-angeles-ca/fmc7qvv/
+270, 200 N Oxford Ave Unit 6, 200 N Oxford Ave Unit 6, Los Angeles, CA, 90004, 68, $2100, 213-425-3519, https://www.apartments.com/200-n-oxford-ave-los-angeles-ca-unit-6/4x7nb6j/
+271, 1816 N Gramercy Pl Unit 101, 1816 N Gramercy Pl Unit 101, Los Angeles, CA, 90028, 68, $1625, 213-481-6168, https://www.apartments.com/1816-n-gramercy-pl-los-angeles-ca-unit-101/vpfm8pf/
+272, 1947 S Sherbourne Dr Unit 6, 1947 S Sherbourne Dr Unit 6, Los Angeles, CA, 90034, 71, $2655, 424-281-6339, https://www.apartments.com/1947-s-sherbourne-dr-los-angeles-ca-unit-6/2cc5qk8/
+273, 2046 N Highland Ave Unit 4, 2046 N Highland Ave Unit 4, Los Angeles, CA, 90068, 68, $1650, 844-830-3219, https://www.apartments.com/2046-n-highland-ave-los-angeles-ca-unit-4/wwv4ldh/
+274, 1417 Woodruff Ave, 1417 Woodruff Ave, Los Angeles, CA, 90024, -, $6250, 844-812-5437, https://www.apartments.com/1417-woodruff-ave-los-angeles-ca/hxfcmz2/
+275, 1314 N Vista St Unit 1314, 1314 N Vista St Unit 1314, Los Angeles, CA, 90046, 68, $1595, 818-462-8783, https://www.apartments.com/1314-n-vista-st-los-angeles-ca-unit-1314/4hy715l/
+276, 3467 Red Rose Dr, 3467 Red Rose Dr, Los Angeles, CA, 91436, 75, $6499, 866-959-8854, https://www.apartments.com/3467-red-rose-dr-los-angeles-ca/748d53w/
+277, 945 Gayley Ave Unit 301, 945 Gayley Ave Unit 301, Los Angeles, CA, 90024, 67, $1699, 855-891-2212, https://www.apartments.com/945-gayley-ave-los-angeles-ca-unit-301/2gq585b/
+278, 2336 Crenshaw Blvd, 2336 Crenshaw Blvd, Los Angeles, CA, 90016, 62, $1595, 424-384-2759, https://www.apartments.com/2336-crenshaw-blvd-los-angeles-ca/pb0wd1r/
+279, 4116 Neosho Ave, 4116 Neosho Ave, Los Angeles, CA, 90066, 75, $1895, 213-349-4523, https://www.apartments.com/4116-neosho-ave-los-angeles-ca/nh3n5pn/
+280, 2100 N Beachwood Dr Unit 210, 2100 N Beachwood Dr Unit 210, Los Angeles, CA, 90068, 72, $2495, 844-660-6031, https://www.apartments.com/2100-n-beachwood-dr-los-angeles-ca-unit-210/zcgf16w/
+281, 1135 S Oakhurst Dr, 1135 S Oakhurst Dr, Los Angeles, CA, 90035, 66, $2895, 844-864-5901, https://www.apartments.com/1135-s-oakhurst-dr-los-angeles-ca/hf3ecz1/
+282, 17350 W Sunset Blvd Unit 404c, 17350 W Sunset Blvd Unit 404c, Pacific Palisades, CA, 90272, 72, $3500, 626-593-1457, https://www.apartments.com/17350-w-sunset-blvd-pacific-palisades-ca-unit-404c/m8fhlnk/
+283, 2825 S Rimpau Blvd, 2825 S Rimpau Blvd, Los Angeles, CA, 90016, 70, $1000, 818-641-1241, https://www.apartments.com/2825-s-rimpau-blvd-los-angeles-ca/0bhbb61/
+284, 4907 Beverly Blvd Unit #5, 4907 Beverly Blvd Unit #5, Los Angeles, CA, 90004, 70, $1525, 855-275-6950, https://www.apartments.com/4907-beverly-blvd-los-angeles-ca-unit-5/6neyvfv/
+285, 907 Hanley Ave Unit 0, 907 Hanley Ave Unit 0, Los Angeles, CA, 90049, 82, $2300, 310-464-1868, https://www.apartments.com/907-hanley-ave-los-angeles-ca-unit-0/2fv52mb/
+286, 12450 Deerbrook Ln, 12450 Deerbrook Ln, Los Angeles, CA, 90049, 82, $6600, 323-391-2520, https://www.apartments.com/12450-deerbrook-ln-los-angeles-ca/9e4gls7/
+287, 2909 S Catalina St, 2909 S Catalina St, Los Angeles, CA, 90007, 71, $7500, 424-543-6635, https://www.apartments.com/2909-s-catalina-st-los-angeles-ca/pvv1pss/
+288, 2039 N Las Palmas Ave, 2039 N Las Palmas Ave, Los Angeles, CA, 90068, 68, $1710, 619-312-6534, https://www.apartments.com/2039-n-las-palmas-ave-los-angeles-ca/tcg9329/
+289, 518 S Spaulding Ave Unit 1/2, 518 S Spaulding Ave Unit 1/2, Los Angeles, CA, 90036, 70, $2295, 213-378-2128, https://www.apartments.com/518-s-spaulding-ave-los-angeles-ca-unit-1-2/499wc3k/
+290, 725 N Alfred St, 725 N Alfred St, Los Angeles, CA, 90069, 70, $2495, 213-878-2074, https://www.apartments.com/725-n-alfred-st-los-angeles-ca/eje51dm/
+291, 2309 Hauser Blvd Unit 4, 2309 Hauser Blvd Unit 4, Los Angeles, CA, 90016, 66, $2800, 213-568-0429, https://www.apartments.com/2309-hauser-blvd-los-angeles-ca-unit-4/zb6r5by/
+292, 3467 Veteran Ave, 3467 Veteran Ave, Los Angeles, CA, 90034, 67, $3900, 213-568-0593, https://www.apartments.com/3467-veteran-ave-los-angeles-ca/f518sfs/
+293, 9035 Wonderland Park Ave, 9035 Wonderland Park Ave, Los Angeles, CA, 90046, 83, $11500, 844-809-5277, https://www.apartments.com/9035-wonderland-park-ave-los-angeles-ca/cch77de/
+294, 426 S Norton Ave, 426 S Norton Ave, Los Angeles, CA, 90020, 71, $2599, 424-236-6077, https://www.apartments.com/426-s-norton-ave-los-angeles-ca/hmbjg63/
+295, 426 S Norton Ave, 426 S Norton Ave, Los Angeles, CA, 90020, 71, $1975, 844-670-3022, https://www.apartments.com/426-s-norton-ave-los-angeles-ca/j78xde6/
+296, 418 S Normandie Ave, 418 S Normandie Ave, Los Angeles, CA, 90020, 67, $1299, 310-573-8485, https://www.apartments.com/418-s-normandie-ave-los-angeles-ca/cnqxgzf/
+297, 1489 S Canfield Ave Unit 301, 1489 S Canfield Ave Unit 301, Los Angeles, CA, 90035, 72, $3495, 323-515-0039, https://www.apartments.com/1489-s-canfield-ave-los-angeles-ca-unit-301/9m37xt5/
+298, 2623 S Beverly Dr, 2623 S Beverly Dr, Los Angeles, CA, 90034, 74, $6789, 424-268-9908, https://www.apartments.com/2623-s-beverly-dr-los-angeles-ca/h7x41v3/
+299, 10730 Esther Ave, 10730 Esther Ave, Los Angeles, CA, 90064, 70, $3900, 310-817-6219, https://www.apartments.com/10730-esther-ave-los-angeles-ca/g17gkjw/
+300, 1948 Stearns Dr, 1948 Stearns Dr, Los Angeles, CA, 90034, 69, $1300, 310-819-4956, https://www.apartments.com/1948-stearns-dr-los-angeles-ca/hgn5ef1/
+301, 6619 Cahuenga Terrace, 6619 Cahuenga Terrace, Los Angeles, CA, 90068, 67, $2100, 310-819-4401, https://www.apartments.com/6619-cahuenga-terrace-los-angeles-ca/cjhxqnd/
+302, 1801 S Bentley Ave Unit 301, 1801 S Bentley Ave Unit 301, Los Angeles, CA, 90025, 64, $3300, 323-471-3268, https://www.apartments.com/1801-s-bentley-ave-los-angeles-ca-unit-301/xzlt2fq/
+303, 1265 Sunset Plaza Dr, 1265 Sunset Plaza Dr, Los Angeles, CA, 90069, 73, $7650, 951-523-7104, https://www.apartments.com/1265-sunset-plaza-dr-los-angeles-ca/2sq4dhb/
+304, 8451 Grand View Dr, 8451 Grand View Dr, Los Angeles, CA, 90046, 76, $5950, 818-918-6702, https://www.apartments.com/8451-grand-view-dr-los-angeles-ca/dndr99l/
+305, 2746 Thurman Ave, 2746 Thurman Ave, Los Angeles, CA, 90016, 71, $3100, 424-442-1762, https://www.apartments.com/2746-thurman-ave-los-angeles-ca/rjjnzw1/
+306, 4015 Stansbury Ave, 4015 Stansbury Ave, Los Angeles, CA, 91423, 75, $17000, 844-310-8248, https://www.apartments.com/4015-stansbury-ave-los-angeles-ca/qqdxb4w/
+307, 1609 Beloit Ave Unit 29, 1609 Beloit Ave Unit 29, Los Angeles, CA, 90025, 57, $800, 424-610-4628, https://www.apartments.com/1609-beloit-ave-los-angeles-ca-unit-29/f8ztt0r/
+308, 550 Vernon Ave, 550 Vernon Ave, Venice, CA, 90291, 71, $7900, 844-778-9792, https://www.apartments.com/550-vernon-ave-venice-ca/42t8hjh/
+309, 2746 Selby Ave, 2746 Selby Ave, Los Angeles, CA, 90064, 67, $4800, 844-881-0722, https://www.apartments.com/2746-selby-ave-los-angeles-ca/hjb7rf0/
+310, 4280 Denker Ave, 4280 Denker Ave, Los Angeles, CA, 90062, 73, $2695, 310-819-4720, https://www.apartments.com/4280-denker-ave-los-angeles-ca/y4evjpt/
+311, 5419 9th Ave, 5419 9th Ave, Los Angeles, CA, 90043, 71, $3295, 213-985-7097, https://www.apartments.com/5419-9th-ave-los-angeles-ca/n7039sq/
+312, 1537 S Westgate Ave, 1537 S Westgate Ave, Los Angeles, CA, 90025, 69, $4295, 844-729-1716, https://www.apartments.com/1537-s-westgate-ave-los-angeles-ca/52lyj5q/
+313, 545 S Hobart Blvd, 545 S Hobart Blvd, Los Angeles, CA, 90020, 64, $1350, 844-806-0625, https://www.apartments.com/545-s-hobart-blvd-los-angeles-ca/rl4qkh2/
+314, 1197 McClellan Dr, 1197 McClellan Dr, Los Angeles, CA, 90049, 69, $3800, 844-279-4284, https://www.apartments.com/1197-mcclellan-dr-los-angeles-ca/glb29dy/
+315, 2810 Burkshire Ave, 2810 Burkshire Ave, Los Angeles, CA, 90064, 66, $6000, 818-477-3101, https://www.apartments.com/2810-burkshire-ave-los-angeles-ca/6sct81s/
+316, 3039 Buckingham Rd, 3039 Buckingham Rd, Los Angeles, CA, 90016, 70, $2200, 844-424-2151, https://www.apartments.com/3039-buckingham-rd-los-angeles-ca/rzvjke1/
+317, 15543 Del Gado Dr, 15543 Del Gado Dr, Sherman Oaks, CA, 91403, 67, $4999, 844-647-8425, https://www.apartments.com/15543-del-gado-dr-sherman-oaks-ca/40l2xbk/
+318, 200 S Sycamore Ave, 200 S Sycamore Ave, Los Angeles, CA, 90036, 70, $1995, 877-333-8151, https://www.apartments.com/200-s-sycamore-ave-los-angeles-ca/ns3whvp/
+319, 938 N Edgemont St Unit 938, 938 N Edgemont St Unit 938, Los Angeles, CA, 90029, 68, $650, 844-413-0917, https://www.apartments.com/938-n-edgemont-st-los-angeles-ca-unit-938/l2vvtpe/
+320, 1506 W 45th St, 1506 W 45th St, Los Angeles, CA, 90062, 71, $4700, 424-331-1553, https://www.apartments.com/1506-w-45th-st-los-angeles-ca/0hdhrl1/
+321, 2309 Hauser Blvd Unit 2, 2309 Hauser Blvd Unit 2, Los Angeles, CA, 90016, 66, $2995, 844-712-9003, https://www.apartments.com/2309-hauser-blvd-los-angeles-ca-unit-2/cmz0rbf/
+322, 1061 N Kenter Ave, 1061 N Kenter Ave, Los Angeles, CA, 90049, 80, $8950, 844-680-6138, https://www.apartments.com/1061-n-kenter-ave-los-angeles-ca/2ycv5hc/
+323, 11060 W Sunset Blvd, 11060 W Sunset Blvd, Los Angeles, CA, 90049, 73, $14000, 424-653-1282, https://www.apartments.com/11060-w-sunset-blvd-los-angeles-ca/18dy6y5/
+324, 3912 Laurel Canyon Blvd Unit 207S, 3912 Laurel Canyon Blvd Unit 207S, Los Angeles, CA, 91604, 72, $1950, 747-263-1573, https://www.apartments.com/3912-laurel-canyon-blvd-los-angeles-ca-unit-207s/jpfj9c4/
+325, 1318 Warnall Ave Unit Rear, 1318 Warnall Ave Unit Rear, Los Angeles, CA, 90024, 74, $3450, 424-244-3390, https://www.apartments.com/1318-warnall-ave-los-angeles-ca-unit-rear/206fhxb/
+326, 4309 W Adams Blvd Unit 1-12, 4309 W Adams Blvd Unit 1-12, Los Angeles, CA, 90018, 66, $1750, 424-543-9502, https://www.apartments.com/4309-w-adams-blvd-los-angeles-ca-unit-1-12/8p7wdk2/
+327, 1234 Cahuenga Blvd, 1234 Cahuenga Blvd, Los Angeles, CA, 90038, 67, $2095, 424-341-6134, https://www.apartments.com/1234-cahuenga-blvd-los-angeles-ca/c83wbbg/
+328, 1744 Warnall Ave, 1744 Warnall Ave, Los Angeles, CA, 90024, 64, $4999, 323-486-1351, https://www.apartments.com/1744-warnall-ave-los-angeles-ca/wc90e6h/
+329, 4613 S Van Ness Ave, 4613 S Van Ness Ave, Los Angeles, CA, 90062, 72, $2300, 844-733-3342, https://www.apartments.com/4613-s-van-ness-ave-los-angeles-ca/p6tsc8s/
+330, 29 Brooks Ave Unit A, 29 Brooks Ave Unit A, Venice, CA, 90291, 71, $3950, 855-870-3595, https://www.apartments.com/29-brooks-ave-venice-ca-unit-a/2m5wn08/
+331, 2222 Avenue of the Stars Unit 904, 2222 Avenue of the Stars Unit 904, Los Angeles, CA, 90067, 73, $7150, 424-260-5221, https://www.apartments.com/2222-avenue-of-the-stars-los-angeles-ca-unit-904/5ev4fxp/
+332, 7560 Hollywood Blvd Unit 407, 7560 Hollywood Blvd Unit 407, Los Angeles, CA, 90046, 71, $3500, 323-618-1883, https://www.apartments.com/7560-hollywood-blvd-los-angeles-ca-unit-407/7dctncz/
+333, 5778 Clemson St, 5778 Clemson St, Los Angeles, CA, 90016, 72, $1950, 844-830-8312, https://www.apartments.com/5778-clemson-st-los-angeles-ca/m51jvhj/
+334, 6230 Lindenhurst Ave, 6230 Lindenhurst Ave, Los Angeles, CA, 90048, 70, $4500, 844-775-5545, https://www.apartments.com/6230-lindenhurst-ave-los-angeles-ca/ml34n3h/
+335, 736 N Fuller Ave, 736 N Fuller Ave, West Hollywood, CA, 90046, 70, $1900, 562-247-9828, https://www.apartments.com/736-n-fuller-ave-west-hollywood-ca/d1b0kel/
+336, 1845 Glendon Ave Unit 204, 1845 Glendon Ave Unit 204, Los Angeles, CA, 90025, 65, $2400, 424-258-0942, https://www.apartments.com/1845-glendon-ave-los-angeles-ca-unit-204/5bw5z6q/
+337, 2407 Coldwater Canyon Dr, 2407 Coldwater Canyon Dr, Beverly Hills, CA, 90210, 75, $7950, 855-488-0293, https://www.apartments.com/2407-coldwater-canyon-dr-beverly-hills-ca/x93tg2m/
+338, 2463 Century Hill Unit 0, 2463 Century Hill Unit 0, Los Angeles, CA, 90067, 75, $6800, 626-400-6804, https://www.apartments.com/2463-century-hill-los-angeles-ca-unit-0/2p1km39/
+339, 1935 W 29th St, 1935 W 29th St, Los Angeles, CA, 90018, 73, $3500, 844-448-6523, https://www.apartments.com/1935-w-29th-st-los-angeles-ca/k5tm8m8/
+340, 1600 Rising Glen Rd, 1600 Rising Glen Rd, Los Angeles, CA, 90069, 79, $10950, 424-526-2026, https://www.apartments.com/1600-rising-glen-rd-los-angeles-ca/efk4hkm/
+341, 3840 Ingraham St, 3840 Ingraham St, Los Angeles, CA, 90005, 67, $1895, 855-379-3352, https://www.apartments.com/3840-ingraham-st-los-angeles-ca/87jtrb1/
+342, 5564 Homeside Ave Unit 2, 5564 Homeside Ave Unit 2, Los Angeles, CA, 90016, 72, $2250, 844-677-3602, https://www.apartments.com/5564-homeside-ave-los-angeles-ca-unit-2/jnxphs7/
+343, 8229 W 4th St, 8229 W 4th St, Los Angeles, CA, 90048, 71, $3600, 844-465-7142, https://www.apartments.com/8229-w-4th-st-los-angeles-ca/rcrbbe2/
+344, 1211 N McCadden Pl Unit 106, 1211 N McCadden Pl Unit 106, Los Angeles, CA, 90038, 68, $1495, 844-310-8244, https://www.apartments.com/1211-n-mccadden-pl-los-angeles-ca-unit-106/k3wt3j9/
+345, 335 S Bentley Ave, 335 S Bentley Ave, Los Angeles, CA, 90049, 70, $7750, 844-860-0627, https://www.apartments.com/335-s-bentley-ave-los-angeles-ca/d7g0ngl/
+346, 8702 Bonner Dr, 8702 Bonner Dr, Los Angeles, CA, 90048, 67, $1950, 844-278-9072, https://www.apartments.com/8702-bonner-dr-los-angeles-ca/lpgv8ng/
+347, 1132 S Oakhurst Dr Unit top 6, 1132 S Oakhurst Dr Unit top 6, Los Angeles, CA, 90035, 66, $2885, 562-263-4617, https://www.apartments.com/1132-s-oakhurst-dr-los-angeles-ca-unit-top-6/m6mj0rh/
+348, 525 S Ardmore Ave Unit 121, 525 S Ardmore Ave Unit 121, Los Angeles, CA, 90020, 68, $1800, 855-669-3519, https://www.apartments.com/525-s-ardmore-ave-los-angeles-ca-unit-121/3rm8c1f/
+349, 3536 W Adams Blvd, 3536 W Adams Blvd, Los Angeles, CA, 90018, 70, $2300, 213-349-4536, https://www.apartments.com/3536-w-adams-blvd-los-angeles-ca/mvnbeej/
+350, 2748 W 15th St, 2748 W 15th St, Los Angeles, CA, 90006, 69, $2400, 844-556-0987, https://www.apartments.com/2748-w-15th-st-los-angeles-ca/z3ep78z/
+351, 333 N Sierra Bonita Ave Unit 333, 333 N Sierra Bonita Ave Unit 333, Los Angeles, CA, 90036, 69, $3450, 855-783-1253, https://www.apartments.com/333-n-sierra-bonita-ave-los-angeles-ca-unit-333/12w94x5/
+352, 9821 Beeson Dr, 9821 Beeson Dr, Beverly Hills, CA, 90210, 79, $22500, 424-325-7086, https://www.apartments.com/9821-beeson-dr-beverly-hills-ca/jw71le5/
+353, 1444 Elkgrove Cir, 1444 Elkgrove Cir, Los Angeles, CA, 90291, 72, $2900, 844-323-0405, https://www.apartments.com/1444-elkgrove-cir-los-angeles-ca/th4e2j9/
+354, 1901 W 42nd Pl, 1901 W 42nd Pl, Los Angeles, CA, 90062, 71, $2895, 844-807-1731, https://www.apartments.com/1901-w-42nd-pl-los-angeles-ca/phkfpev/
+355, 928 N Western Ave, 928 N Western Ave, Los Angeles, CA, 90029, -, $3595, 855-872-4142, https://www.apartments.com/928-n-western-ave-los-angeles-ca/6wztest/
+356, 3026 5th Ave, 3026 5th Ave, Los Angeles, CA, 90018, 73, $2492, 424-625-2379, https://www.apartments.com/3026-5th-ave-los-angeles-ca/cp9skhd/
+357, 11826 Dorothy St Unit 202, 11826 Dorothy St Unit 202, Los Angeles, CA, 90049, 74, $4995, 844-813-9850, https://www.apartments.com/11826-dorothy-st-los-angeles-ca-unit-202/y0zkv6t/
+358, 3125 S Canfield Ave, 3125 S Canfield Ave, Los Angeles, CA, 90034, 66, $2795, 818-350-2936, https://www.apartments.com/3125-s-canfield-ave-los-angeles-ca/ctm3h8e/
+359, 1107 3rd Ave, 1107 3rd Ave, Los Angeles, CA, 90019, 70, $1800, 424-331-1368, https://www.apartments.com/1107-3rd-ave-los-angeles-ca/exm5zsm/
+360, 1708 Clear View Dr, 1708 Clear View Dr, Beverly Hills, CA, 90210, 83, $14500, 844-286-7982, https://www.apartments.com/1708-clear-view-dr-beverly-hills-ca/v4gd49d/
+361, 2006 Palisades Dr Unit 2006, 2006 Palisades Dr Unit 2006, Los Angeles, CA, 90272, 79, $7000, 747-205-6024, https://www.apartments.com/2006-palisades-dr-los-angeles-ca-unit-2006/e7m75xp/
+362, 1233 S Castello Ave, 1233 S Castello Ave, Los Angeles, CA, 90035, 67, $9900, 844-323-9275, https://www.apartments.com/1233-s-castello-ave-los-angeles-ca/t47n3s8/
+363, 3041 Laurel Canyon Blvd, 3041 Laurel Canyon Blvd, Studio City, CA, 91604, 71, $7950, 844-641-3050, https://www.apartments.com/3041-laurel-canyon-blvd-studio-city-ca/b8g97y9/
+364, 2225 S Harvard Blvd, 2225 S Harvard Blvd, Los Angeles, CA, 90018, 65, $1600, 424-272-8594, https://www.apartments.com/2225-s-harvard-blvd-los-angeles-ca/werzbel/
+365, 4034 Halldale Ave Unit Rear, 4034 Halldale Ave Unit Rear, Los Angeles, CA, 90062, 72, $2000, 424-231-3876, https://www.apartments.com/4034-halldale-ave-los-angeles-ca-unit-rear/5dd2q6n/
+366, 4925 Beverly Blvd, 4925 Beverly Blvd, Los Angeles, CA, 90004, 73, $1500, 844-778-5567, https://www.apartments.com/4925-beverly-blvd-los-angeles-ca/xzhhxwp/
+367, 6390 Quebec Dr, 6390 Quebec Dr, Los Angeles, CA, 90068, 75, $12500, 323-879-6469, https://www.apartments.com/6390-quebec-dr-los-angeles-ca/3jlqbhf/
+368, 17172 Escalon Dr, 17172 Escalon Dr, Los Angeles, CA, 91436, 80, $4195, 844-883-6714, https://www.apartments.com/17172-escalon-dr-los-angeles-ca/2b9weyc/
+369, 3446 Troy Dr, 3446 Troy Dr, Los Angeles, CA, 90068, 71, $8500, 855-522-6004, https://www.apartments.com/3446-troy-dr-los-angeles-ca/r5hr4h2/
+370, 1554 Oriole Ln, 1554 Oriole Ln, Los Angeles, CA, 90069, 80, $6900, 424-610-4279, https://www.apartments.com/1554-oriole-ln-los-angeles-ca/1pyxse5/
+371, 3500 W 27th St, 3500 W 27th St, Los Angeles, CA, 90018, 72, $2500, 424-331-1534, https://www.apartments.com/3500-w-27th-st-los-angeles-ca/vq86rvf/
+372, 1771 Beloit Ave Unit 202, 1771 Beloit Ave Unit 202, Los Angeles, CA, 90025, 56, $3675, 213-335-7159, https://www.apartments.com/1771-beloit-ave-los-angeles-ca-unit-202/2lh285c/
+373, 812 N Martel Ave Unit 2, 812 N Martel Ave Unit 2, West Hollywood, CA, 90046, 72, $1999, 424-269-6898, https://www.apartments.com/812-n-martel-ave-west-hollywood-ca-unit-2/8qc0qc2/
+374, 3130 S Barrington Ave Unit E, 3130 S Barrington Ave Unit E, Los Angeles, CA, 90066, 69, $2995, 562-382-8411, https://www.apartments.com/3130-s-barrington-ave-los-angeles-ca-unit-e/dpdv3bk/
+375, 8534 Colgate Ave Unit 3, 8534 Colgate Ave Unit 3, Los Angeles, CA, 90048, 69, $2550, 877-882-6502, https://www.apartments.com/8534-colgate-ave-los-angeles-ca-unit-3/j3xl7s7/
+376, 2620 West Blvd, 2620 West Blvd, Los Angeles, CA, 90016, 65, $1500, 424-384-2676, https://www.apartments.com/2620-west-blvd-los-angeles-ca/7p72mvy/
+377, 2052 S Hobart Blvd, 2052 S Hobart Blvd, Los Angeles, CA, 90018, 66, $5000, 424-363-1868, https://www.apartments.com/2052-s-hobart-blvd-los-angeles-ca/sw1yv57/
+378, 2724 Reynier Ave, 2724 Reynier Ave, Los Angeles, CA, 90034, 65, $4950, 323-987-3008, https://www.apartments.com/2724-reynier-ave-los-angeles-ca/mcrw10j/
+379, 656 Indiana Ct Unit 3, 656 Indiana Ct Unit 3, Los Angeles, CA, 90291, 70, $3900, 855-796-6658, https://www.apartments.com/656-indiana-ct-los-angeles-ca-unit-3/2b3gbwb/
+380, 3654 Terrace View Dr, 3654 Terrace View Dr, Los Angeles, CA, 91436, 78, $7500, 844-295-1248, https://www.apartments.com/3654-terrace-view-dr-los-angeles-ca/pdqse6v/
+381, 2153 W Washington Blvd, 2153 W Washington Blvd, Los Angeles, CA, 90018, 65, $1995, 844-788-0856, https://www.apartments.com/2153-w-washington-blvd-los-angeles-ca/cstfbnf/
+382, 2535 Hauser Blvd Unit 2, 2535 Hauser Blvd Unit 2, Los Angeles, CA, 90016, 62, $625, 855-873-2655, https://www.apartments.com/2535-hauser-blvd-los-angeles-ca-unit-2/1v0s9p6/
+383, 9170 Thrasher Ave, 9170 Thrasher Ave, Los Angeles, CA, 90069, 79, $25000, 424-526-2837, https://www.apartments.com/9170-thrasher-ave-los-angeles-ca/sv5j1x6/
+384, 11811 Culver Blvd Unit 510, 11811 Culver Blvd Unit 510, Los Angeles, CA, 90066, 69, $3595, 424-331-1586, https://www.apartments.com/11811-culver-blvd-los-angeles-ca-unit-510/kd86f2c/
+385, 2013 W Jefferson Blvd, 2013 W Jefferson Blvd, Los Angeles, CA, 90018, 70, $2500, 562-232-9489, https://www.apartments.com/2013-w-jefferson-blvd-los-angeles-ca/7z7ejjz/
+386, 1245 McClellan Dr, 1245 McClellan Dr, Los Angeles, CA, 90025, 70, $2895, 844-261-2581, https://www.apartments.com/1245-mcclellan-dr-los-angeles-ca/gfsy4kz/
+387, 11645 Chenault St, 11645 Chenault St, Los Angeles, CA, 90049, 76, $2895, 424-442-1743, https://www.apartments.com/11645-chenault-st-los-angeles-ca/7mntyxy/
+388, 12731 Pacific Ave, 12731 Pacific Ave, Los Angeles, CA, 90066, 71, $1400, 877-453-1537, https://www.apartments.com/12731-pacific-ave-los-angeles-ca/z2tjfjz/
+389, 6724 W Hepburn Way, 6724 W Hepburn Way, Los Angeles, CA, 90038, 68, $10900, 323-694-3876, https://www.apartments.com/6724-w-hepburn-way-los-angeles-ca/34cj9je/
+390, 502 N Harper Ave, 502 N Harper Ave, Los Angeles, CA, 90048, 74, $4700, 323-473-3375, https://www.apartments.com/502-n-harper-ave-los-angeles-ca/1y4prg6/
+391, 649 Midvale Ave, 649 Midvale Ave, Los Angeles, CA, 90024, 71, $5000, 323-694-3839, https://www.apartments.com/649-midvale-ave-los-angeles-ca/bx3mscc/
+392, 1413 Abbot Kinney Blvd Unit A, 1413 Abbot Kinney Blvd Unit A, Los Angeles, CA, 90291, 68, $4700, 424-299-8782, https://www.apartments.com/1413-abbot-kinney-blvd-los-angeles-ca-unit-a/j1byzp6/
+393, 109 Park Pl Unit 4, 109 Park Pl Unit 4, Venice, CA, 90291, 68, $3450, 844-862-0783, https://www.apartments.com/109-park-pl-venice-ca-unit-4/3q9p97d/
+394, 1406 W 37th Pl, 1406 W 37th Pl, Los Angeles, CA, 90018, 70, $3000, 844-269-2501, https://www.apartments.com/1406-w-37th-pl-los-angeles-ca/qgmt4dy/
+395, 1118 Cardiff Ave Unit 1, 1118 Cardiff Ave Unit 1, Los Angeles, CA, 90035, 71, $5500, 844-203-8038, https://www.apartments.com/1118-cardiff-ave-los-angeles-ca-unit-1/9289cz6/
+396, 1118 Cardiff Ave Unit 3, 1118 Cardiff Ave Unit 3, Los Angeles, CA, 90035, 71, $3400, 844-203-8587, https://www.apartments.com/1118-cardiff-ave-los-angeles-ca-unit-3/l048mfd/
+397, 2927 Woodwardia Dr, 2927 Woodwardia Dr, Los Angeles, CA, 90077, 77, $5950, 424-442-1898, https://www.apartments.com/2927-woodwardia-dr-los-angeles-ca/gh6fx2y/
+398, 11728 Mayfield Ave Unit 1, 11728 Mayfield Ave Unit 1, Los Angeles, CA, 90049, 72, $2495, 844-260-1379, https://www.apartments.com/11728-mayfield-ave-los-angeles-ca-unit-1/208wpg9/
+399, 11670 San Vicente Blvd Unit 212, 11670 San Vicente Blvd Unit 212, Los Angeles, CA, 90049, 72, $3250, 844-810-8962, https://www.apartments.com/11670-san-vicente-blvd-los-angeles-ca-unit-212/yxtf3mt/
+400, 11300 Kingsland St, 11300 Kingsland St, Los Angeles, CA, 90066, 64, $1795, 424-526-2094, https://www.apartments.com/11300-kingsland-st-los-angeles-ca/rxynx93/
+401, 7712 Hollywood Blvd Unit 10, 7712 Hollywood Blvd Unit 10, West Hollywood, CA, 90046, 70, $1795, 323-746-2414, https://www.apartments.com/7712-hollywood-blvd-west-hollywood-ca-unit-10/yjw5mer/
+402, 1653 Stone Canyon Rd, 1653 Stone Canyon Rd, Los Angeles, CA, 90077, 85, $13500, 844-803-8790, https://www.apartments.com/1653-stone-canyon-rd-los-angeles-ca/3vlmbve/
+403, 1616 Federal Ave, 1616 Federal Ave, Los Angeles, CA, 90025, 67, $3595, 844-365-2979, https://www.apartments.com/1616-federal-ave-los-angeles-ca/dslrlcj/
+404, 1743 Stone Canyon Rd, 1743 Stone Canyon Rd, Los Angeles, CA, 90077, 83, $12950, 323-746-2441, https://www.apartments.com/1743-stone-canyon-rd-los-angeles-ca/ectx85q/
+405, 911 Teakwood Rd, 911 Teakwood Rd, Los Angeles, CA, 90049, 83, $9000, 855-617-3399, https://www.apartments.com/911-teakwood-rd-los-angeles-ca/wd6x58j/
+406, 12262 Sky Ln, 12262 Sky Ln, Los Angeles, CA, 90049, -, $10995, 949-264-8098, https://www.apartments.com/12262-sky-ln-los-angeles-ca/w0nzblk/
+407, 13318 Mulholland Dr, 13318 Mulholland Dr, Beverly Hills, CA, 90210, 72, $65000, 844-595-3192, https://www.apartments.com/13318-mulholland-dr-beverly-hills-ca/n2n7wbq/
+408, 256 S Van Ness Ave, 256 S Van Ness Ave, Los Angeles, CA, 90004, 68, $8995, 844-285-1091, https://www.apartments.com/256-s-van-ness-ave-los-angeles-ca/15rk3y6/
+409, 221 S Poinsettia Pl Unit 221, 221 S Poinsettia Pl Unit 221, Los Angeles, CA, 90036, 68, $3900, 424-332-5267, https://www.apartments.com/221-s-poinsettia-pl-los-angeles-ca-unit-221/gkmb4my/
+410, 2704 S Rimpau Blvd, 2704 S Rimpau Blvd, Los Angeles, CA, 90016, 68, $4950, 310-819-4403, https://www.apartments.com/2704-s-rimpau-blvd-los-angeles-ca/qpybt3x/
+411, 753 N Kings Rd Unit 102, 753 N Kings Rd Unit 102, Los Angeles, CA, 90069, 73, $2500, 323-508-4388, https://www.apartments.com/753-n-kings-rd-los-angeles-ca-unit-102/h8m9pb3/
+412, 6360 Orange St Unit 1, 6360 Orange St Unit 1, Los Angeles, CA, 90048, 67, $2750, 855-514-9135, https://www.apartments.com/6360-orange-st-los-angeles-ca-unit-1/5kkphnn/
+413, 11044 Ophir Dr, 11044 Ophir Dr, Los Angeles, CA, 90024, 72, $4000, 844-869-1410, https://www.apartments.com/11044-ophir-dr-los-angeles-ca/p98q30v/
+414, 10641 Missouri Ave Unit 204, 10641 Missouri Ave Unit 204, Los Angeles, CA, 90025, 70, $3950, 747-202-6548, https://www.apartments.com/10641-missouri-ave-los-angeles-ca-unit-204/wbhqc7k/
+415, 11776 Idaho Ave, 11776 Idaho Ave, Los Angeles, CA, 90025, 71, $3500, 424-320-5632, https://www.apartments.com/11776-idaho-ave-los-angeles-ca/gq5xxcw/
+416, 700 Main St Unit 14, 700 Main St Unit 14, Los Angeles, CA, 90291, 69, $6000, 844-799-3022, https://www.apartments.com/700-main-st-los-angeles-ca-unit-14/qnpq0zx/
+417, 1611 S Beverly Glen Blvd Unit 503, 1611 S Beverly Glen Blvd Unit 503, Los Angeles, CA, 90024, 69, $3500, 844-703-9312, https://www.apartments.com/1611-s-beverly-glen-blvd-los-angeles-ca-unit-503/pqe2zwt/
+418, 3935 Vineland Ave Unit 14, 3935 Vineland Ave Unit 14, Los Angeles, CA, 91604, 69, $1795, 818-853-9647, https://www.apartments.com/3935-vineland-ave-los-angeles-ca-unit-14/9c3qec6/
+419, 8811 Burton Way Unit 306, 8811 Burton Way Unit 306, West Hollywood, CA, 90048, 67, $2950, 747-248-0567, https://www.apartments.com/8811-burton-way-west-hollywood-ca-unit-306/p3816kt/
+420, 6861 Iris Cir, 6861 Iris Cir, Los Angeles, CA, 90068, 64, $9500, 844-388-0363, https://www.apartments.com/6861-iris-cir-los-angeles-ca/vcnn67g/
+421, 11655 Iowa Ave Unit 10, 11655 Iowa Ave Unit 10, Los Angeles, CA, 90025, 69, $2395, 424-289-6715, https://www.apartments.com/11655-iowa-ave-los-angeles-ca-unit-10/6ctl51v/
+422, 12025 Marine St, 12025 Marine St, Los Angeles, CA, 90066, -, $9500, 805-292-1093, https://www.apartments.com/12025-marine-st-los-angeles-ca/vlrytpd/
+423, 1125 Las Pulgas Rd, 1125 Las Pulgas Rd, Pacific Palisades, CA, 90272, 80, $2200, 844-254-4830, https://www.apartments.com/1125-las-pulgas-rd-pacific-palisades-ca/b4vd3s8/
+424, 1488 S Oakhurst Dr, 1488 S Oakhurst Dr, Los Angeles, CA, 90035, 71, $7999, 323-472-9136, https://www.apartments.com/1488-s-oakhurst-dr-los-angeles-ca/vfesgfd/
+425, 4079 Woodman Cyn, 4079 Woodman Cyn, Sherman Oaks, CA, 91423, 75, $6495, 747-208-7437, https://www.apartments.com/4079-woodman-cyn-sherman-oaks-ca/y397zwv/
+426, 2950 8th Ave Unit 2950, 2950 8th Ave Unit 2950, Los Angeles, CA, 90018, 71, $1850, 323-238-6687, https://www.apartments.com/2950-8th-ave-los-angeles-ca-unit-2950/epfc5lm/
+427, 4196 Leimert Blvd Unit 1/2, 4196 Leimert Blvd Unit 1/2, Los Angeles, CA, 90008, 73, $1700, 844-375-8156, https://www.apartments.com/4196-leimert-blvd-los-angeles-ca-unit-1-2/pnsnr7t/
+428, 3540 Berry Dr, 3540 Berry Dr, Los Angeles, CA, 91604, 78, $6995, 844-552-6049, https://www.apartments.com/3540-berry-dr-los-angeles-ca/tddjvd9/
+429, 15012 Encanto Dr, 15012 Encanto Dr, Sherman Oaks, CA, 91403, 78, $6500, 424-231-3574, https://www.apartments.com/15012-encanto-dr-sherman-oaks-ca/js9svz6/
+430, 301 N Sycamore Ave Unit 18, 301 N Sycamore Ave Unit 18, Los Angeles, CA, 90036, 70, $1450, 844-493-7190, https://www.apartments.com/301-n-sycamore-ave-los-angeles-ca-unit-18/8pgtsm2/
+431, 3589 Stonewood Dr, 3589 Stonewood Dr, Los Angeles, CA, 91403, 72, $6749, 323-643-1808, https://www.apartments.com/3589-stonewood-dr-los-angeles-ca/kdx0zb8/
+432, 3421 Arlington Ave, 3421 Arlington Ave, Los Angeles, CA, 90018, 69, $1870, 844-525-9280, https://www.apartments.com/3421-arlington-ave-los-angeles-ca/d6m7fej/
+433, 4029 Oakwood Ave, 4029 Oakwood Ave, Los Angeles, CA, 90004, 64, $1495, 844-664-3372, https://www.apartments.com/4029-oakwood-ave-los-angeles-ca/nk5bb0q/
+434, 15215 Friends St, 15215 Friends St, Pacific Palisades, CA, 90272, 77, $10000, 877-780-0289, https://www.apartments.com/15215-friends-st-pacific-palisades-ca/kc094s8/
+435, 16827 Livorno Dr, 16827 Livorno Dr, Pacific Palisades, CA, 90272, 72, $15000, 855-275-4351, https://www.apartments.com/16827-livorno-dr-pacific-palisades-ca/rqy71p1/
+436, 9222 Flicker Way, 9222 Flicker Way, Los Angeles, CA, 90069, 77, $15000, 844-812-6262, https://www.apartments.com/9222-flicker-way-los-angeles-ca/fet1lmr/
+437, 5008 3rd Ave, 5008 3rd Ave, Los Angeles, CA, 90043, 72, $800, 657-230-2490, https://www.apartments.com/5008-3rd-ave-los-angeles-ca/93el9t7/
+438, 4428 S Victoria Ave Unit 4428, 4428 S Victoria Ave Unit 4428, Los Angeles, CA, 90008, -, $2000, 844-872-1508, https://www.apartments.com/4428-s-victoria-ave-los-angeles-ca-unit-4428/phyd9ds/
+439, 15516 Sunset Blvd Unit 305, 15516 Sunset Blvd Unit 305, Los Angeles, CA, 90272, 68, $2799, 424-610-4660, https://www.apartments.com/15516-sunset-blvd-los-angeles-ca-unit-305/5xkmeeq/
+440, 15516 W Sunset Blvd Unit 105, 15516 W Sunset Blvd Unit 105, Pacific Palisades, CA, 90272, 68, $2699, 844-433-5962, https://www.apartments.com/15516-w-sunset-blvd-pacific-palisades-ca-unit-105/evby3qq/
+441, 2926 Dalton Ave, 2926 Dalton Ave, Los Angeles, CA, 90018, 74, $3950, 424-316-5048, https://www.apartments.com/2926-dalton-ave-los-angeles-ca/zr35wmz/
+442, 6250 W Olympic Blvd, 6250 W Olympic Blvd, Los Angeles, CA, 90048, 71, $4695, 323-391-2067, https://www.apartments.com/6250-w-olympic-blvd-los-angeles-ca/vphbgxf/
+443, 1406 Exposition Blvd, 1406 Exposition Blvd, Los Angeles, CA, 90018, 70, $2450, 844-624-3103, https://www.apartments.com/1406-exposition-blvd-los-angeles-ca/2rgy77b/
+444, 1619 N La Brea Ave Unit 228, 1619 N La Brea Ave Unit 228, Los Angeles, CA, 90028, 66, $4155, 844-532-9948, https://www.apartments.com/1619-n-la-brea-ave-los-angeles-ca-unit-228/f9svkgt/
+445, 702 S St Andrews Pl Unit 3, 702 S St Andrews Pl Unit 3, Los Angeles, CA, 90005, 67, $1795, 323-473-5569, https://www.apartments.com/702-s-st-andrews-pl-los-angeles-ca-unit-3/4ejl4dh/
+446, 901 Levering Ave Unit 15, 901 Levering Ave Unit 15, Los Angeles, CA, 90024, 67, $1300, 844-256-4974, https://www.apartments.com/901-levering-ave-los-angeles-ca-unit-15/fqv0kbv/
+447, 11135 Greenlawn Ave, 11135 Greenlawn Ave, Culver City, CA, 90230, 70, $4750, 844-215-1430, https://www.apartments.com/11135-greenlawn-ave-culver-city-ca/9ljsgp4/
+448, 5965 Guthrie Ave Unit 2, 5965 Guthrie Ave Unit 2, Los Angeles, CA, 90034, 68, $2100, 844-847-8403, https://www.apartments.com/5965-guthrie-ave-los-angeles-ca-unit-2/sws5yk7/
+449, 3631 Dixie Canyon Pl, 3631 Dixie Canyon Pl, Sherman Oaks, CA, 91423, 85, $9000, 844-477-6460, https://www.apartments.com/3631-dixie-canyon-pl-sherman-oaks-ca/fdjq6er/
+450, 3581 Avenida Del Sol, 3581 Avenida Del Sol, Los Angeles, CA, 91604, 79, $5500, 657-325-0284, https://www.apartments.com/3581-avenida-del-sol-los-angeles-ca/gt49tny/
+451, 130 N Sycamore Ave Unit 130, 130 N Sycamore Ave Unit 130, Los Angeles, CA, 90036, 69, $3300, 909-543-4178, https://www.apartments.com/130-n-sycamore-ave-los-angeles-ca-unit-130/pr9kr2r/
+452, 5643 Carlton Way, 5643 Carlton Way, Los Angeles, CA, 90028, 64, $2095, 888-563-5994, https://www.apartments.com/5643-carlton-way-los-angeles-ca/k6g3hc8/
+453, 3254 Barham Blvd, 3254 Barham Blvd, Los Angeles, CA, 90068, 67, $3000, 888-834-9457, https://www.apartments.com/3254-barham-blvd-los-angeles-ca/vngch3d/
+454, 3260 Barham Blvd, 3260 Barham Blvd, Los Angeles, CA, 90068, 67, $2200, 844-859-3632, https://www.apartments.com/3260-barham-blvd-los-angeles-ca/vjzcm3g/
+455, 818 Gretna Green Way, 818 Gretna Green Way, Los Angeles, CA, 90049, 71, $3400, 424-260-4073, https://www.apartments.com/818-gretna-green-way-los-angeles-ca/j1qvrg6/
+456, 8017 Selma Ave Unit 301, 8017 Selma Ave Unit 301, Los Angeles, CA, 90046, 70, $6550, 323-618-1753, https://www.apartments.com/8017-selma-ave-los-angeles-ca-unit-301/jt3yzj4/
+457, 1624 Federal Ave Unit 6, 1624 Federal Ave Unit 6, Los Angeles, CA, 90025, 67, $2095, 424-341-6141, https://www.apartments.com/1624-federal-ave-los-angeles-ca-unit-6/hedy1b3/
+458, 3747 Mentone Ave Unit 4, 3747 Mentone Ave Unit 4, Los Angeles, CA, 90034, 64, $1445, 424-326-3399, https://www.apartments.com/3747-mentone-ave-los-angeles-ca-unit-4/gzl7qtx/
+459, 9832 Yoakum Dr, 9832 Yoakum Dr, Beverly Hills, CA, 90210, 83, $5000, 844-457-8124, https://www.apartments.com/9832-yoakum-dr-beverly-hills-ca/x0tbm0n/
+460, 122 S Wilton Pl, 122 S Wilton Pl, Los Angeles, CA, 90004, 70, $1350, 916-273-8404, https://www.apartments.com/122-s-wilton-pl-los-angeles-ca/y0rp8yt/
+461, 1677 S Victoria Ave, 1677 S Victoria Ave, Los Angeles, CA, 90019, 70, $4900, 213-349-4539, https://www.apartments.com/1677-s-victoria-ave-los-angeles-ca/dxvg1bk/
+462, 2426 Chislehurst Dr, 2426 Chislehurst Dr, Los Angeles, CA, 90027, 77, $1485, 844-309-1942, https://www.apartments.com/2426-chislehurst-dr-los-angeles-ca/zqgd2wy/
+463, 1717 Purdue Ave, 1717 Purdue Ave, Los Angeles, CA, 90025, 65, $2400, 424-254-3830, https://www.apartments.com/1717-purdue-ave-los-angeles-ca/9jg4km4/
+464, 11335 Burnham St, 11335 Burnham St, Los Angeles, CA, 90049, 64, $2500, 213-985-2281, https://www.apartments.com/11335-burnham-st-los-angeles-ca/6d9j5vs/
+465, 1625 Livonia Ave, 1625 Livonia Ave, Los Angeles, CA, 90035, 73, $5500, 424-522-1913, https://www.apartments.com/1625-livonia-ave-los-angeles-ca/f45nndr/
+466, 833 S Le Doux Rd Unit 3, 833 S Le Doux Rd Unit 3, Los Angeles, CA, 90035, 70, $2525, 323-471-4527, https://www.apartments.com/833-s-le-doux-rd-los-angeles-ca-unit-3/plelwcr/
+467, 2360 W Washington Blvd Unit 2, 2360 W Washington Blvd Unit 2, Los Angeles, CA, 90018, 65, $1095, 844-328-6129, https://www.apartments.com/2360-w-washington-blvd-los-angeles-ca-unit-2/25cc7y9/
+468, 1960 Benedict Canyon Dr, 1960 Benedict Canyon Dr, Beverly Hills, CA, 90210, 81, $11900, 747-226-5446, https://www.apartments.com/1960-benedict-canyon-dr-beverly-hills-ca/6bne2xt/
+469, 7357 Pyramid Pl, 7357 Pyramid Pl, Los Angeles, CA, 90046, 77, $7000, 310-819-9566, https://www.apartments.com/7357-pyramid-pl-los-angeles-ca/5lvbmwn/
+470, 1207 Shadybrook Dr, 1207 Shadybrook Dr, Beverly Hills, CA, 90210, 76, $7500, 424-442-1777, https://www.apartments.com/1207-shadybrook-dr-beverly-hills-ca/3j2l9rf/
+471, 11686 Sunshine Ter, 11686 Sunshine Ter, Studio City, CA, 91604, 77, $5000, 424-204-8999, https://www.apartments.com/11686-sunshine-ter-studio-city-ca/klt6l7c/
+472, 16103 Sandy Ln, 16103 Sandy Ln, Los Angeles, CA, 91436, 76, $8950, 424-204-8998, https://www.apartments.com/16103-sandy-ln-los-angeles-ca/d0csqpl/
+473, 4904 S Van Ness Ave, 4904 S Van Ness Ave, Los Angeles, CA, 90062, 72, $1300, 424-320-5662, https://www.apartments.com/4904-s-van-ness-ave-los-angeles-ca/rx6zdb1/
+474, 1441 Roxbury Dr, 1441 Roxbury Dr, Los Angeles, CA, 90035, 72, $4950, 310-975-3859, https://www.apartments.com/1441-roxbury-dr-los-angeles-ca/c3dm6de/
+475, 11683 Goshen Ave Unit 306, 11683 Goshen Ave Unit 306, Los Angeles, CA, 90049, 70, $2245, 213-814-4699, https://www.apartments.com/11683-goshen-ave-los-angeles-ca-unit-306/713rgzx/
+476, 11666 Mayfield Ave Unit 205, 11666 Mayfield Ave Unit 205, Los Angeles, CA, 90049, 71, $2395, 310-955-3982, https://www.apartments.com/11666-mayfield-ave-los-angeles-ca-unit-205/2tcbelb/
+477, 1917 Overland Ave, 1917 Overland Ave, Los Angeles, CA, 90025, 68, $2500, 424-442-1733, https://www.apartments.com/1917-overland-ave-los-angeles-ca/ttswb49/
+478, 3305 Stocker St Unit 1/2, 3305 Stocker St Unit 1/2, Los Angeles, CA, 90008, 70, $2695, 888-797-5123, https://www.apartments.com/3305-stocker-st-los-angeles-ca-unit-1-2/m42vt0l/
+479, 3172 S Barrington Ave Unit 201, 3172 S Barrington Ave Unit 201, Los Angeles, CA, 90066, 71, $2595, 424-228-8994, https://www.apartments.com/3172-s-barrington-ave-los-angeles-ca-unit-201/5ltblkq/
+480, 545 N Norton Ave, 545 N Norton Ave, Los Angeles, CA, 90004, 72, $3500, 844-586-1397, https://www.apartments.com/545-n-norton-ave-los-angeles-ca/qcdvw3z/
+481, 1543 Roscomare Rd, 1543 Roscomare Rd, Los Angeles, CA, 90077, 79, $1875, 844-310-4667, https://www.apartments.com/1543-roscomare-rd-los-angeles-ca/8k9b4f2/
+482, 1099 Vista Grande Dr, 1099 Vista Grande Dr, Los Angeles, CA, 90272, 85, $20000, 844-582-2242, https://www.apartments.com/1099-vista-grande-dr-los-angeles-ca/rj1z961/
+483, 11420 Waterford St, 11420 Waterford St, Los Angeles, CA, 90049, 68, $6375, 855-481-1778, https://www.apartments.com/11420-waterford-st-los-angeles-ca/yc8wxns/
+484, 2349 S Bentley Ave, 2349 S Bentley Ave, Los Angeles, CA, 90064, 63, $2900, 855-434-0018, https://www.apartments.com/2349-s-bentley-ave-los-angeles-ca/emwlgnm/
+485, 17219 Avenida de la Herradura, 17219 Avenida de la Herradura, Los Angeles, CA, 90272, 80, $6999, 844-306-9561, https://www.apartments.com/17219-avenida-de-la-herradura-los-angeles-ca/jqtltt5/
+486, 9386 Sierra Mar Dr, 9386 Sierra Mar Dr, Los Angeles, CA, 90069, 80, $8900, 310-819-3921, https://www.apartments.com/9386-sierra-mar-dr-los-angeles-ca/w81v7xk/
+487, 6076 Cashio St Unit 6076, 6076 Cashio St Unit 6076, Los Angeles, CA, 90035, 69, $2900, 844-612-1185, https://www.apartments.com/6076-cashio-st-los-angeles-ca-unit-6076/8vwjvr1/
+488, 1334 Goucher St, 1334 Goucher St, Pacific Palisades, CA, 90272, 78, $8450, 844-266-0247, https://www.apartments.com/1334-goucher-st-pacific-palisades-ca/1550fw4/
+489, 2026 Veteran Ave, 2026 Veteran Ave, Los Angeles, CA, 90025, 67, $3995, 844-833-8849, https://www.apartments.com/2026-veteran-ave-los-angeles-ca/45md8kj/
+490, 12153 Maxwellton Rd, 12153 Maxwellton Rd, Los Angeles, CA, 91604, 75, $4300, 844-517-9430, https://www.apartments.com/12153-maxwellton-rd-los-angeles-ca/xghwd7q/
+491, 1440 N Alta Vista Blvd Unit 308, 1440 N Alta Vista Blvd Unit 308, West Hollywood, CA, 90046, 70, $4300, 844-836-5315, https://www.apartments.com/1440-n-alta-vista-blvd-west-hollywood-ca-unit-308/tfns12c/
+492, 1818 Thayer Ave, 1818 Thayer Ave, Los Angeles, CA, 90025, 71, $7800, 844-895-3770, https://www.apartments.com/1818-thayer-ave-los-angeles-ca/45ths0j/
+493, 1818 Thayer Ave, 1818 Thayer Ave, Los Angeles, CA, 90025, 71, $8200, 213-814-4823, https://www.apartments.com/1818-thayer-ave-los-angeles-ca/5rewzwq/
+494, 1 W Century Dr Unit 32C, 1 W Century Dr Unit 32C, Los Angeles, CA, 90067, 70, $18500, 424-653-1227, https://www.apartments.com/1-w-century-dr-los-angeles-ca-unit-32c/wc2sgqj/
+495, 4059 W 28th St, 4059 W 28th St, Los Angeles, CA, 90018, -, $1600, 424-320-3969, https://www.apartments.com/4059-w-28th-st-los-angeles-ca/f415bhv/
+496, 3467 Red Rose Dr, 3467 Red Rose Dr, Los Angeles, CA, 91436, 75, $6300, 844-278-5718, https://www.apartments.com/3467-red-rose-dr-los-angeles-ca/dflvebj/
+497, 966 Moraga Dr Unit ., 966 Moraga Dr Unit ., Los Angeles, CA, 90049, 72, $2995, 844-757-6706, https://www.apartments.com/966-moraga-dr-los-angeles-ca-unit/zle7jjw/
+498, 3616 Roberts View Pl, 3616 Roberts View Pl, Los Angeles, CA, 91604, 78, $15000, 424-363-6812, https://www.apartments.com/3616-roberts-view-pl-los-angeles-ca/m86xhwk/
+499, 1132 S Swall Dr, 1132 S Swall Dr, Los Angeles, CA, 90035, 68, $6900, 855-315-3011, https://www.apartments.com/1132-s-swall-dr-los-angeles-ca/e8f8m6q/
+500, 1910 S Shenandoah St, 1910 S Shenandoah St, Los Angeles, CA, 90034, 73, $2400, 855-412-5083, https://www.apartments.com/1910-s-shenandoah-st-los-angeles-ca/gez26pz/
+501, 12017 Goshen Ave Unit 1, 12017 Goshen Ave Unit 1, Los Angeles, CA, 90049, 69, $3295, 424-442-1752, https://www.apartments.com/12017-goshen-ave-los-angeles-ca-unit-1/kebp6qc/
+502, 466 N Carmelina Ave, 466 N Carmelina Ave, Los Angeles, CA, 90049, 82, $11750, 818-581-4515, https://www.apartments.com/466-n-carmelina-ave-los-angeles-ca/kh5srcb/
+503, 11771 Laurelwood Dr Unit 1, 11771 Laurelwood Dr Unit 1, Studio City, CA, 91604, 72, $2600, 213-805-8299, https://www.apartments.com/11771-laurelwood-dr-studio-city-ca-unit-1/5ml44xp/
+504, 827 S Berendo St, 827 S Berendo St, Los Angeles, CA, 90005, 67, $1695, 213-805-8271, https://www.apartments.com/827-s-berendo-st-los-angeles-ca/n10zbvm/
+505, 6427 Tahoe Dr, 6427 Tahoe Dr, Los Angeles, CA, 90068, 88, $7000, 213-267-9283, https://www.apartments.com/6427-tahoe-dr-los-angeles-ca/0110nz2/
+506, 3319 Charleston Way, 3319 Charleston Way, Los Angeles, CA, 90068, 69, $12750, 323-472-9137, https://www.apartments.com/3319-charleston-way-los-angeles-ca/j5phz14/
+507, 1343 N Catalina St Unit 102, 1343 N Catalina St Unit 102, Los Angeles, CA, 90027, 68, $1600, 844-283-7656, https://www.apartments.com/1343-n-catalina-st-los-angeles-ca-unit-102/l09h7pe/
+508, 1351 N Orange Dr Unit 103, 1351 N Orange Dr Unit 103, Los Angeles, CA, 90028, 69, $2700, 844-228-3925, https://www.apartments.com/1351-n-orange-dr-los-angeles-ca-unit-103/cdfzt0f/
+509, 10584 Santa Monica Blvd Unit 107, 10584 Santa Monica Blvd Unit 107, Los Angeles, CA, 90025, 68, $1900, 424-320-3918, https://www.apartments.com/10584-santa-monica-blvd-los-angeles-ca-unit-107/zcj9q6z/
+510, 2519 S Orange Dr, 2519 S Orange Dr, Los Angeles, CA, 90016, 60, $3000, 855-517-4271, https://www.apartments.com/2519-s-orange-dr-los-angeles-ca/08e2463/
+511, 167 N Gardner St, 167 N Gardner St, Los Angeles, CA, 90036, 72, $6800, 747-242-2197, https://www.apartments.com/167-n-gardner-st-los-angeles-ca/m6mzv8j/
+512, 17045 Escalon Dr, 17045 Escalon Dr, Los Angeles, CA, 91436, 80, $4000, 747-202-2266, https://www.apartments.com/17045-escalon-dr-los-angeles-ca/6m9r95s/
+513, 15440 Longbow Dr, 15440 Longbow Dr, Sherman Oaks, CA, 91403, 71, $5750, 844-435-3703, https://www.apartments.com/15440-longbow-dr-sherman-oaks-ca/yrrbd5t/
+514, 3733 Avenida Del Sol, 3733 Avenida Del Sol, Los Angeles, CA, 91604, 79, $9500, 747-205-6037, https://www.apartments.com/3733-avenida-del-sol-los-angeles-ca/7lkejgz/
+515, 4516 St Elmo Dr, 4516 St Elmo Dr, Los Angeles, CA, 90019, 70, $1600, 747-254-1747, https://www.apartments.com/4516-st-elmo-dr-los-angeles-ca/kslvg98/
+516, 6620 W 5th St, 6620 W 5th St, West Hollywood, CA, 90048, 72, $25000, 747-254-1628, https://www.apartments.com/6620-w-5th-st-west-hollywood-ca/zsmf1zy/
+517, 4702 W 17th St, 4702 W 17th St, Los Angeles, CA, 90019, 68, $2395, 747-254-0078, https://www.apartments.com/4702-w-17th-st-los-angeles-ca/pv33gsr/
+518, 4702 W 17th St, 4702 W 17th St, Los Angeles, CA, 90019, 68, $2195, 877-926-8812, https://www.apartments.com/4702-w-17th-st-los-angeles-ca/br54wv9/
+519, 4702 W 17th St, 4702 W 17th St, Los Angeles, CA, 90019, 68, $1595, 562-222-8608, https://www.apartments.com/4702-w-17th-st-los-angeles-ca/l24w64f/
+520, 2821 West Blvd Unit 102, 2821 West Blvd Unit 102, Los Angeles, CA, 90016, 69, $1995, 844-362-9986, https://www.apartments.com/2821-west-blvd-los-angeles-ca-unit-102/sr8hwn5/
+521, 1301 S Rimpau Blvd, 1301 S Rimpau Blvd, Los Angeles, CA, 90019, 71, $3750, 213-814-1673, https://www.apartments.com/1301-s-rimpau-blvd-los-angeles-ca/8gv61w3/
+522, 1931 N Beverly Dr, 1931 N Beverly Dr, Beverly Hills, CA, 90210, 77, $9950, 424-255-1417, https://www.apartments.com/1931-n-beverly-dr-beverly-hills-ca/cdz6pbg/
+523, 5315 Loma Linda Ave Unit 2, 5315 Loma Linda Ave Unit 2, Los Angeles, CA, 90027, 69, $2045, 844-497-8408, https://www.apartments.com/5315-loma-linda-ave-los-angeles-ca-unit-2/v7bs8qd/
+524, 2012 Hillsboro Ave, 2012 Hillsboro Ave, Los Angeles, CA, 90034, 75, $6250, 855-304-9988, https://www.apartments.com/2012-hillsboro-ave-los-angeles-ca/vx10mmd/
+525, 2160 Century Park W Unit 1509, 2160 Century Park W Unit 1509, Los Angeles, CA, 90067, 68, $6600, 424-316-5148, https://www.apartments.com/2160-century-park-w-los-angeles-ca-unit-1509/9rte6p6/
+526, 11760 National Blvd Unit 0, 11760 National Blvd Unit 0, Los Angeles, CA, 90064, 66, $2595, 323-296-9040, https://www.apartments.com/11760-national-blvd-los-angeles-ca-unit-0/q8pqwey/
+527, 638 N Swarthmore Ave, 638 N Swarthmore Ave, Los Angeles, CA, 90272, 79, $11000, 855-491-1251, https://www.apartments.com/638-n-swarthmore-ave-los-angeles-ca/46jxwek/
+528, 5362 W Olympic Blvd, 5362 W Olympic Blvd, Los Angeles, CA, 90036, 65, $1500, 323-746-9084, https://www.apartments.com/5362-w-olympic-blvd-los-angeles-ca/cs8zyge/
+529, 245 Main St Unit 214, 245 Main St Unit 214, Los Angeles, CA, 90291, 69, $6000, 941-462-3350, https://www.apartments.com/245-main-st-los-angeles-ca-unit-214/evxk1qm/
+530, 1275 Westchester Pl Unit 1275, 1275 Westchester Pl Unit 1275, Los Angeles, CA, 90019, 66, $1425, 844-526-9432, https://www.apartments.com/1275-westchester-pl-los-angeles-ca-unit-1275/jt5syz6/
+531, 1275 Westchester Pl, 1275 Westchester Pl, Los Angeles, CA, 90019, 66, $1425, 323-430-9606, https://www.apartments.com/1275-westchester-pl-los-angeles-ca/4jjl44h/
+532, 1421 W 35th Pl Unit 2, 1421 W 35th Pl Unit 2, Los Angeles, CA, 90018, 67, $2400, 844-479-7693, https://www.apartments.com/1421-w-35th-pl-los-angeles-ca-unit-2/9tq3ck5/
+533, 1207 S Serrano Ave, 1207 S Serrano Ave, Los Angeles, CA, 90006, 69, $2100, 844-852-7575, https://www.apartments.com/1207-s-serrano-ave-los-angeles-ca/wqx4qyj/
+534, 4845 Saturn St Unit 6, 4845 Saturn St Unit 6, Los Angeles, CA, 90019, 67, $1649, 844-787-6865, https://www.apartments.com/4845-saturn-st-los-angeles-ca-unit-6/t0x7le9/
+535, 355 S Bundy Dr, 355 S Bundy Dr, Los Angeles, CA, 90049, 70, $7950, 844-848-9558, https://www.apartments.com/355-s-bundy-dr-los-angeles-ca/5zh76qn/
+536, 2208 Duxbury Cir, 2208 Duxbury Cir, Los Angeles, CA, 90034, 75, $7500, 310-504-2548, https://www.apartments.com/2208-duxbury-cir-los-angeles-ca/8877n22/
+537, 8300 Kirkwood Dr, 8300 Kirkwood Dr, Los Angeles, CA, 90046, 76, $1600, 855-500-9648, https://www.apartments.com/8300-kirkwood-dr-los-angeles-ca/e7wsryn/
+538, 10980 Wellworth Ave Unit S404, 10980 Wellworth Ave Unit S404, Los Angeles, CA, 90024, 67, $4020, 747-200-6587, https://www.apartments.com/10980-wellworth-ave-los-angeles-ca-unit-s404/2pjlr6c/
+539, 2046 High Tower Dr, 2046 High Tower Dr, Los Angeles, CA, 90068, 70, $1875, 844-809-2389, https://www.apartments.com/2046-high-tower-dr-los-angeles-ca/0gytbq1/
+540, 1417 S Westgate Ave Unit 104, 1417 S Westgate Ave Unit 104, Los Angeles, CA, 90025, 70, $1750, 844-711-5216, https://www.apartments.com/1417-s-westgate-ave-los-angeles-ca-unit-104/7pzssdx/
+541, 7012 Willoughby Ave, 7012 Willoughby Ave, Los Angeles, CA, 90038, 70, $6417, 844-216-6905, https://www.apartments.com/7012-willoughby-ave-los-angeles-ca/gxkks8x/
+542, 850 N Sycamore Ave, 850 N Sycamore Ave, Los Angeles, CA, 90038, 70, $6261, 747-248-0452, https://www.apartments.com/850-n-sycamore-ave-los-angeles-ca/t5lxj1c/
+543, 2209 S Spaulding Ave Unit 1, 2209 S Spaulding Ave Unit 1, Los Angeles, CA, 90016, 68, $1900, 844-554-1338, https://www.apartments.com/2209-s-spaulding-ave-los-angeles-ca-unit-1/fz81rfs/
+544, 10420 Quito Ln, 10420 Quito Ln, Los Angeles, CA, 90077, 74, $4995, 866-757-7385, https://www.apartments.com/10420-quito-ln-los-angeles-ca/mbvkk9l/
+545, 11325 Elderwood St, 11325 Elderwood St, Los Angeles, CA, 90049, 66, $6200, 520-422-2606, https://www.apartments.com/11325-elderwood-st-los-angeles-ca/n65gnnp/
+546, 3525 Alsace Ave, 3525 Alsace Ave, Los Angeles, CA, 90016, 73, $3500, 855-392-3842, https://www.apartments.com/3525-alsace-ave-los-angeles-ca/f8dp6pr/
+547, 2660 Larmar Rd, 2660 Larmar Rd, Los Angeles, CA, 90068, 79, $13500, 844-486-1415, https://www.apartments.com/2660-larmar-rd-los-angeles-ca/ql1242z/
+548, 605 Indiana Ave, 605 Indiana Ave, Los Angeles, CA, 90291, 71, $6150, 844-823-9674, https://www.apartments.com/605-indiana-ave-los-angeles-ca/5pl7shq/
+549, 1912 7th Ave, 1912 7th Ave, Los Angeles, CA, 90018, 68, $2100, 844-536-2106, https://www.apartments.com/1912-7th-ave-los-angeles-ca/bnl065b/
+550, 612 Milwood Ave, 612 Milwood Ave, Venice, CA, 90291, 68, $4500, 424-653-1176, https://www.apartments.com/612-milwood-ave-venice-ca/mxjtb3k/
+551, 1919 W 36th St, 1919 W 36th St, Los Angeles, CA, 90018, 72, $2700, 855-323-8775, https://www.apartments.com/1919-w-36th-st-los-angeles-ca/5wlkebq/
+552, 5330 Franklin Ave Unit 5, 5330 Franklin Ave Unit 5, Los Angeles, CA, 90027, 69, $1500, 844-802-7670, https://www.apartments.com/5330-franklin-ave-los-angeles-ca-unit-5/e8djs4m/
+553, 800 S Ridgeley Dr, 800 S Ridgeley Dr, Los Angeles, CA, 90036, 70, $4800, 844-814-7402, https://www.apartments.com/800-s-ridgeley-dr-los-angeles-ca/v7qrp3g/
+554, 1322 S Hudson Ave, 1322 S Hudson Ave, Los Angeles, CA, 90019, 71, $900, 657-387-9022, https://www.apartments.com/1322-s-hudson-ave-los-angeles-ca/mgfzslk/
+555, 5019 August St Unit 08, 5019 August St Unit 08, Los Angeles, CA, 90008, 74, $1095, 844-700-5936, https://www.apartments.com/5019-august-st-los-angeles-ca-unit-08/dgbp38k/
+556, 16561 Park Lane Dr, 16561 Park Lane Dr, Los Angeles, CA, 90049, 80, $9000, 844-804-2506, https://www.apartments.com/16561-park-lane-dr-los-angeles-ca/23ykbmb/
+557, 15020 Encanto Dr, 15020 Encanto Dr, Sherman Oaks, CA, 91403, 78, $7900, 844-643-3247, https://www.apartments.com/15020-encanto-dr-sherman-oaks-ca/llg0hse/
+558, 1926 N Alexandria Ave Unit 4, 1926 N Alexandria Ave Unit 4, Los Angeles, CA, 90027, 68, $2500, 844-267-9913, https://www.apartments.com/1926-n-alexandria-ave-los-angeles-ca-unit-4/cdqb1je/
+559, 1601 Marlay Dr, 1601 Marlay Dr, Los Angeles, CA, 90069, 70, $5500, 747-226-4915, https://www.apartments.com/1601-marlay-dr-los-angeles-ca/0qej2v0/
+560, 1749 N Edgemont St Unit 3, 1749 N Edgemont St Unit 3, Los Angeles, CA, 90027, 70, $1650, 844-540-5678, https://www.apartments.com/1749-n-edgemont-st-los-angeles-ca-unit-3/klm4y7c/
+561, 8020 Zeus Dr, 8020 Zeus Dr, Los Angeles, CA, 90046, 78, $25000, 844-231-9674, https://www.apartments.com/8020-zeus-dr-los-angeles-ca/n4zw4xq/
+562, 5665 W Jefferson Blvd Unit 15, 5665 W Jefferson Blvd Unit 15, Los Angeles, CA, 90016, 71, $1600, 424-442-1856, https://www.apartments.com/5665-w-jefferson-blvd-los-angeles-ca-unit-15/zsemyrx/
+563, 1059 S Redondo Blvd, 1059 S Redondo Blvd, Los Angeles, CA, 90019, -, $3900, 844-869-9860, https://www.apartments.com/1059-s-redondo-blvd-los-angeles-ca/tcx6e2c/
+564, 1256 3rd Ave Unit 1256, 1256 3rd Ave Unit 1256, Los Angeles, CA, 90019, 66, $2500, 626-788-5438, https://www.apartments.com/1256-3rd-ave-los-angeles-ca-unit-1256/t8d41p8/
+565, 530 N Larchmont Blvd, 530 N Larchmont Blvd, Los Angeles, CA, 90004, 71, $5600, 844-280-6449, https://www.apartments.com/530-n-larchmont-blvd-los-angeles-ca/5gdxdem/
+566, 3909 McLaughlin Ave, 3909 McLaughlin Ave, Los Angeles, CA, 90066, 70, $3795, 214-865-9922, https://www.apartments.com/3909-mclaughlin-ave-los-angeles-ca/jvx4ne7/
+567, 4128 S Victoria Ave, 4128 S Victoria Ave, Los Angeles, CA, 90008, 67, $1900, 323-580-6356, https://www.apartments.com/4128-s-victoria-ave-los-angeles-ca/dpm6v6k/
+568, 2451 Nichols Canyon Pl, 2451 Nichols Canyon Pl, Los Angeles, CA, 90046, 81, $2995, 310-683-0948, https://www.apartments.com/2451-nichols-canyon-pl-los-angeles-ca/gwvwhxx/
+569, 4198 2nd Ave, 4198 2nd Ave, Los Angeles, CA, 90008, 69, $4995, 310-734-3439, https://www.apartments.com/4198-2nd-ave-los-angeles-ca/fbs1dvs/
+570, 10501 Wilshire Blvd Unit 906A, 10501 Wilshire Blvd Unit 906A, Los Angeles, CA, 90024, 69, $3295, 213-785-1834, https://www.apartments.com/10501-wilshire-blvd-los-angeles-ca-unit-906a/mssxlhk/
+571, 4449 S Centinela Ave, 4449 S Centinela Ave, Los Angeles, CA, 90066, 69, $1950, 424-254-1238, https://www.apartments.com/4449-s-centinela-ave-los-angeles-ca/h5hpy30/
+572, 2405 Roscomare Rd Unit 12, 2405 Roscomare Rd Unit 12, Los Angeles, CA, 90077, 78, $1650, 424-272-8713, https://www.apartments.com/2405-roscomare-rd-los-angeles-ca-unit-12/yv2mfls/
+573, 1349 Appleton Way, 1349 Appleton Way, Los Angeles, CA, 90291, 72, $4500, 424-442-1772, https://www.apartments.com/1349-appleton-way-los-angeles-ca/91wvwe4/
+574, 1538 S Durango Ave Unit Upper, 1538 S Durango Ave Unit Upper, Los Angeles, CA, 90035, 74, $4650, 844-308-1823, https://www.apartments.com/1538-s-durango-ave-los-angeles-ca-unit-upper/q43sclx/
+575, 614 Kelton Ave Unit LOWER, 614 Kelton Ave Unit LOWER, Los Angeles, CA, 90024, 71, $2100, 323-472-5448, https://www.apartments.com/614-kelton-ave-los-angeles-ca-unit-lower/51qk5pm/
+576, 8661 Hollywood Blvd, 8661 Hollywood Blvd, Los Angeles, CA, 90069, 71, $2850, 424-363-6046, https://www.apartments.com/8661-hollywood-blvd-los-angeles-ca/z32p9hy/
+577, 1128 6th Ave, 1128 6th Ave, Venice, CA, 90291, 72, $2625, 844-426-1446, https://www.apartments.com/1128-6th-ave-venice-ca/rqqtdv0/
+578, 3338 Oak Glen Dr, 3338 Oak Glen Dr, Los Angeles, CA, 90068, 66, $2950, 866-897-3029, https://www.apartments.com/3338-oak-glen-dr-los-angeles-ca/46y1cxh/
+579, 2101 Wattles Dr, 2101 Wattles Dr, Los Angeles, CA, 90046, 84, $12000, 855-747-6732, https://www.apartments.com/2101-wattles-dr-los-angeles-ca/rwspnb0/
+580, 6253 Hollywood Blvd Unit 1105, 6253 Hollywood Blvd Unit 1105, Los Angeles, CA, 90028, 63, $3995, 844-289-4409, https://www.apartments.com/6253-hollywood-blvd-los-angeles-ca-unit-1105/0b252f2/
+581, 726 N Curson Ave, 726 N Curson Ave, West Hollywood, CA, 90046, -, Call for Rent, 323-476-1740, https://www.apartments.com/726-n-curson-ave-west-hollywood-ca/73l354y/
+582, 2404 W 18th St Unit NA, 2404 W 18th St Unit NA, Los Angeles, CA, 90019, 67, $1500, 844-438-1476, https://www.apartments.com/2404-w-18th-st-los-angeles-ca-unit-na/x8mlxcn/
+583, 740 S Cochran Ave Unit 315, 740 S Cochran Ave Unit 315, Los Angeles, CA, 90036, 67, $1795, 844-290-5388, https://www.apartments.com/740-s-cochran-ave-los-angeles-ca-unit-315/4474yql/
+584, 3644 Royal Meadow Rd, 3644 Royal Meadow Rd, Los Angeles, CA, 91403, 71, $10000, 310-464-1729, https://www.apartments.com/3644-royal-meadow-rd-los-angeles-ca/s324v27/
+585, 1126 West Blvd, 1126 West Blvd, Los Angeles, CA, 90019, 72, $3849, 424-235-6459, https://www.apartments.com/1126-west-blvd-los-angeles-ca/2m8c0p9/
+586, 1759 Alvira St, 1759 Alvira St, Los Angeles, CA, 90035, 70, $5000, 844-211-4869, https://www.apartments.com/1759-alvira-st-los-angeles-ca/c7qlslf/
+587, 1503 W 47th St, 1503 W 47th St, Los Angeles, CA, 90062, 73, $1100, 844-237-5297, https://www.apartments.com/1503-w-47th-st-los-angeles-ca/hdcvz63/
+588, 2317 W 42nd St, 2317 W 42nd St, Los Angeles, CA, 90008, 71, $1800, 213-349-4550, https://www.apartments.com/2317-w-42nd-st-los-angeles-ca/gbp558w/
+589, 1477 Stebbins Terrace Unit 1, 1477 Stebbins Terrace Unit 1, Los Angeles, CA, 90069, 75, $3000, 323-285-3129, https://www.apartments.com/1477-stebbins-terrace-los-angeles-ca-unit-1/de1sh1l/
+590, 7616 Hollywood Blvd, 7616 Hollywood Blvd, West Hollywood, CA, 90046, 72, $1875, 213-674-6071, https://www.apartments.com/7616-hollywood-blvd-west-hollywood-ca/rjw1m63/
+591, 3925 S Centinela Ave, 3925 S Centinela Ave, Los Angeles, CA, 90066, 68, $4000, 844-294-4782, https://www.apartments.com/3925-s-centinela-ave-los-angeles-ca/qlj604x/
+592, 4205 Monteith Dr, 4205 Monteith Dr, View Park-Windsor Hills, CA, 90043, 77, $1350, 844-828-5724, https://www.apartments.com/4205-monteith-dr-view-park-windsor-hills-ca/vvy31sg/
+593, 8152 Kirkwood Dr, 8152 Kirkwood Dr, Los Angeles, CA, 90046, 74, $4995, 818-697-6107, https://www.apartments.com/8152-kirkwood-dr-los-angeles-ca/vtp6y9d/
+594, 315 N Gardner St Unit 315, 315 N Gardner St Unit 315, Los Angeles, CA, 90036, 69, $2950, 844-720-9794, https://www.apartments.com/315-n-gardner-st-los-angeles-ca-unit-315/jxw3cr4/
+595, 1334 N Alta Vista Blvd, 1334 N Alta Vista Blvd, Los Angeles, CA, 90046, 69, $2850, 866-676-2338, https://www.apartments.com/1334-n-alta-vista-blvd-los-angeles-ca/6bpxk8v/
+596, 166 S Saltair Ave, 166 S Saltair Ave, Los Angeles, CA, 90049, 75, $9975, 424-316-5062, https://www.apartments.com/166-s-saltair-ave-los-angeles-ca/vq2yfkf/
+597, 9400 Lloydcrest Dr, 9400 Lloydcrest Dr, Beverly Hills, CA, 90210, 82, $12500, 323-618-1692, https://www.apartments.com/9400-lloydcrest-dr-beverly-hills-ca/z3ln85z/
+598, 5646 FOUNTAIN Ave, 5646 FOUNTAIN Ave, LOS ANGELES, CA, 90028, 64, $2495, 855-881-4477, https://www.apartments.com/5646-fountain-ave-los-angeles-ca/6409s3v/
+599, 2869 Bottlebrush Dr, 2869 Bottlebrush Dr, Los Angeles, CA, 90077, 79, $6500, 760-652-8247, https://www.apartments.com/2869-bottlebrush-dr-los-angeles-ca/0vj9130/
+600, 734 S Detroit St Unit 1, 734 S Detroit St Unit 1, Los Angeles, CA, 90036, 63, $2250, 747-226-5576, https://www.apartments.com/734-s-detroit-st-los-angeles-ca-unit-1/7t4lh1w/
+601, 2192 W 26th Pl Unit 1/2, 2192 W 26th Pl Unit 1/2, Los Angeles, CA, 90018, 71, $1250, 818-485-2162, https://www.apartments.com/2192-w-26th-pl-los-angeles-ca-unit-1-2/kctdgxb/
+602, 3026 Passmore Dr, 3026 Passmore Dr, Los Angeles, CA, 90068, 71, $1800, 424-444-3228, https://www.apartments.com/3026-passmore-dr-los-angeles-ca/teldzqb/
+603, 7346 Pacific View Dr, 7346 Pacific View Dr, Los Angeles, CA, 90068, 79, $12500, 323-282-5271, https://www.apartments.com/7346-pacific-view-dr-los-angeles-ca/zb8z5nz/
+604, 3768 Bagley Ave, 3768 Bagley Ave, Los Angeles, CA, 90034, 60, $2295, 844-668-5782, https://www.apartments.com/3768-bagley-ave-los-angeles-ca/5czhn2q/
+605, 1235 Brockton Ave Unit 301, 1235 Brockton Ave Unit 301, Los Angeles, CA, 90025, 70, $2895, 424-256-0930, https://www.apartments.com/1235-brockton-ave-los-angeles-ca-unit-301/3rh10bg/
+606, 1444 S Saltair Ave Unit 203, 1444 S Saltair Ave Unit 203, Los Angeles, CA, 90025, 68, $2995, 844-464-8993, https://www.apartments.com/1444-s-saltair-ave-los-angeles-ca-unit-203/0dc7ss0/
+607, 2604 Devista Pl, 2604 Devista Pl, Los Angeles, CA, 90046, 82, $11000, 844-375-7004, https://www.apartments.com/2604-devista-pl-los-angeles-ca/g83spfz/
+608, 9614 Heather Rd, 9614 Heather Rd, Beverly Hills, CA, 90210, 77, $8500, 844-575-5374, https://www.apartments.com/9614-heather-rd-beverly-hills-ca/bqfkg2c/
+609, 9524 Highridge Dr, 9524 Highridge Dr, Beverly Hills, CA, 90210, 83, $8400, 844-270-9419, https://www.apartments.com/9524-highridge-dr-beverly-hills-ca/n56qnwm/
+610, 9386 Sierra Mar Dr, 9386 Sierra Mar Dr, West Hollywood, CA, 90069, 80, $9500, 844-602-6212, https://www.apartments.com/9386-sierra-mar-dr-west-hollywood-ca/0ycryx3/
+611, 6930 Woodrow Wilson Dr, 6930 Woodrow Wilson Dr, Los Angeles, CA, 90068, 67, $9999, 844-324-3303, https://www.apartments.com/6930-woodrow-wilson-dr-los-angeles-ca/tbgfhs9/
+612, 1616 N Serrano Ave Unit 204, 1616 N Serrano Ave Unit 204, Los Angeles, CA, 90027, 66, $2695, 844-257-7232, https://www.apartments.com/1616-n-serrano-ave-los-angeles-ca-unit-204/8s84n90/
+613, 920 Larrabee St, 920 Larrabee St, Los Angeles, CA, 90069, 75, $4000, 844-647-8712, https://www.apartments.com/920-larrabee-st-los-angeles-ca/g0d14sw/
+614, 6735 Yucca St, 6735 Yucca St, Los Angeles, CA, 90028, 67, $5750, 844-502-4990, https://www.apartments.com/6735-yucca-st-los-angeles-ca/2mkksfc/
+615, 6119 Fountain Ave, 6119 Fountain Ave, Los Angeles, CA, 90028, 66, $5600, 714-215-9367, https://www.apartments.com/6119-fountain-ave-los-angeles-ca/7tkgtez/
+616, 8727 Lookout Mountain Ave, 8727 Lookout Mountain Ave, Los Angeles, CA, 90046, 75, $5750, 844-806-0722, https://www.apartments.com/8727-lookout-mountain-ave-los-angeles-ca/wknsnhj/
+617, 1636 S Spaulding Ave, 1636 S Spaulding Ave, Los Angeles, CA, 90019, 72, $5750, 844-502-2848, https://www.apartments.com/1636-s-spaulding-ave-los-angeles-ca/l8rvrkf/
+618, 146 S Detroit St, 146 S Detroit St, Los Angeles, CA, 90036, 67, $5350, 844-517-9565, https://www.apartments.com/146-s-detroit-st-los-angeles-ca/wfg2gkj/
+619, 3021 Haddington Dr, 3021 Haddington Dr, Los Angeles, CA, 90064, 71, $9000, 844-822-8131, https://www.apartments.com/3021-haddington-dr-los-angeles-ca/ryt91w3/
+620, 14723 W Sunset Blvd, 14723 W Sunset Blvd, Pacific Palisades, CA, 90272, 94, $9750, 844-771-8994, https://www.apartments.com/14723-w-sunset-blvd-pacific-palisades-ca/l7cfgnd/
+621, 6121 Fountain Ave, 6121 Fountain Ave, Los Angeles, CA, 90028, 68, $5500, 844-445-4984, https://www.apartments.com/6121-fountain-ave-los-angeles-ca/t2k8k29/
+622, 8745 Lookout Mountain Ave, 8745 Lookout Mountain Ave, Los Angeles, CA, 90046, 75, $7500, 844-475-8307, https://www.apartments.com/8745-lookout-mountain-ave-los-angeles-ca/99t0wj6/
+623, 940 Stradella Rd, 940 Stradella Rd, Los Angeles, CA, 90077, 84, $8500, 844-211-7041, https://www.apartments.com/940-stradella-rd-los-angeles-ca/jj4g497/
+624, 3235 Hillock Dr, 3235 Hillock Dr, Los Angeles, CA, 90068, 71, $6900, 855-331-4605, https://www.apartments.com/3235-hillock-dr-los-angeles-ca/ztyhnpz/
+625, 746 N Sycamore Ave, 746 N Sycamore Ave, Los Angeles, CA, 90038, 69, $4900, 855-717-7838, https://www.apartments.com/746-n-sycamore-ave-los-angeles-ca/qnh70yy/
+626, 318 S Orange Dr, 318 S Orange Dr, Los Angeles, CA, 90036, 70, $4200, 844-892-3677, https://www.apartments.com/318-s-orange-dr-los-angeles-ca/498f4ej/
+627, 507 Norwich Dr, 507 Norwich Dr, Los Angeles, CA, 90048, 69, $7850, 844-442-3864, https://www.apartments.com/507-norwich-dr-los-angeles-ca/skxcs46/
+628, 943 Chantilly Rd, 943 Chantilly Rd, Los Angeles, CA, 90077, 83, $15500, 844-855-0875, https://www.apartments.com/943-chantilly-rd-los-angeles-ca/yr5n0cv/
+629, 2120 Outpost Dr, 2120 Outpost Dr, Los Angeles, CA, 90068, 79, $7900, 844-885-2862, https://www.apartments.com/2120-outpost-dr-los-angeles-ca/xh1f6nn/
+630, 8855 Appian Way, 8855 Appian Way, Los Angeles, CA, 90046, 80, $5750, 844-209-3695, https://www.apartments.com/8855-appian-way-los-angeles-ca/zvyjttz/
+631, 8040 Okean Ter, 8040 Okean Ter, Los Angeles, CA, 90046, 76, $15000, 844-486-9156, https://www.apartments.com/8040-okean-ter-los-angeles-ca/6b2zjlv/
+632, 326 N Laurel Ave, 326 N Laurel Ave, Los Angeles, CA, 90048, 69, $17495, 844-660-6143, https://www.apartments.com/326-n-laurel-ave-los-angeles-ca/c8twsyd/
+633, 1255 Sierra Alta Way, 1255 Sierra Alta Way, Los Angeles, CA, 90069, 79, $17000, 866-635-1726, https://www.apartments.com/1255-sierra-alta-way-los-angeles-ca/rden2p3/
+634, 637 N Gardner St, 637 N Gardner St, Los Angeles, CA, 90036, 71, $16999, 844-836-5966, https://www.apartments.com/637-n-gardner-st-los-angeles-ca/0nlt6m1/
+635, 6531 Drexel Ave, 6531 Drexel Ave, Los Angeles, CA, 90048, 71, $7980, 844-291-1061, https://www.apartments.com/6531-drexel-ave-los-angeles-ca/fxf3qyr/
+636, 1318 Roxbury Dr Unit 116, 1318 Roxbury Dr Unit 116, Los Angeles, CA, 90035, 70, $6000, 844-627-5686, https://www.apartments.com/1318-roxbury-dr-los-angeles-ca-unit-116/re2y1z0/
+637, 183 S Detroit St, 183 S Detroit St, Los Angeles, CA, 90036, 67, $5495, 844-381-6640, https://www.apartments.com/183-s-detroit-st-los-angeles-ca/ss56734/
+638, 8454 Kirkwood Dr, 8454 Kirkwood Dr, Los Angeles, CA, 90046, 76, $4800, 844-741-6004, https://www.apartments.com/8454-kirkwood-dr-los-angeles-ca/sblqle4/
+639, 8148 Mulholland Ter, 8148 Mulholland Ter, Los Angeles, CA, 90046, 74, $8500, 844-230-5850, https://www.apartments.com/8148-mulholland-ter-los-angeles-ca/efhfekp/
+640, 1900 Vine St Unit 216, 1900 Vine St Unit 216, Los Angeles, CA, 90068, 63, $3550, 866-421-4503, https://www.apartments.com/1900-vine-st-los-angeles-ca-unit-216/165p8b4/
+641, 9230 Nightingale Dr, 9230 Nightingale Dr, Los Angeles, CA, 90069, 79, $20000, 844-729-9918, https://www.apartments.com/9230-nightingale-dr-los-angeles-ca/mvw02vj/

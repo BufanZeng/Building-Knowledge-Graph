@@ -1,0 +1,941 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix karma: <http://isi.edu/integration/karma/ontologies/model/current#> .
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1cbahg4ppx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "source2.csv" ;
+	km-dev:modelPublicationTime "1523993547578"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\" url\"}],[{\"columnName\":\" recent viewed\"}],[{\"columnName\":\" street\"}],[{\"columnName\":\"apt name\"}],[{\"columnName\":\" state\"}],[{\"columnName\":\" city\"}],[{\"columnName\":\" min price\"}],[{\"columnName\":\" zip code\"}],[{\"columnName\":\" amenities\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\" url\"}],[{\"columnName\":\" recent viewed\"}],[{\"columnName\":\" street\"}],[{\"columnName\":\"apt name\"}],[{\"columnName\":\" state\"}],[{\"columnName\":\" city\"}],[{\"columnName\":\" min price\"}],[{\"columnName\":\" zip code\"}],[{\"columnName\":\" amenities\"}]]" ;
+	km-dev:hasModelLabel "source2" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetWorksheetPropertiesCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"properties\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"graphLabel\": \"apartments\",
+                    \"hasBaseURI\": false,
+                    \"hasPrefix\": false,
+                    \"hasServiceProperties\": false
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Transformation\"]
+    },
+    {
+        \"commandName\": \"SetWorksheetPropertiesCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"properties\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"graphLabel\": \"apartments.com\",
+                    \"hasBaseURI\": false,
+                    \"hasPrefix\": false,
+                    \"hasServiceProperties\": false
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Transformation\"]
+    },
+    {
+        \"commandName\": \"SetWorksheetPropertiesCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"properties\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"graphLabel\": \"source2\",
+                    \"hasBaseURI\": false,
+                    \"hasPrefix\": false,
+                    \"hasServiceProperties\": false
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Transformation\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" street\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/PostalAddress\",
+                    \"DomainId\": \"http://schema.org/PostalAddress1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://schema.org/streetAddress\",
+                    \"DomainLabel\": \"schema:PostalAddress1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" street\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" street\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" city\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/PostalAddress\",
+                    \"DomainId\": \"http://schema.org/PostalAddress1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/addressLocality\",
+                    \"DomainLabel\": \"PostalAddress1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" city\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" city\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" state\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/PostalAddress\",
+                    \"DomainId\": \"http://schema.org/PostalAddress1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/addressRegion\",
+                    \"DomainLabel\": \"schema:PostalAddress1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" state\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" state\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" url\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/Apartment\",
+                    \"DomainId\": \"http://schema.org/Apartment1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/url\",
+                    \"DomainLabel\": \"schema:Apartment1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" url\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" url\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" zip code\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/PostalAddress\",
+                    \"DomainId\": \"http://schema.org/PostalAddress1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/postalCode\",
+                    \"DomainLabel\": \"PostalAddress1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" zip code\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" zip code\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" min price\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/Apartment\",
+                    \"DomainId\": \"http://schema.org/Apartment1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/price\",
+                    \"DomainLabel\": \"Apartment1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" min price\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" min price\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"apt name\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/Apartment\",
+                    \"DomainId\": \"http://schema.org/Apartment1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/name\",
+                    \"DomainLabel\": \"schema:Apartment1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"apt name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"apt name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" amenities\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/Apartment\",
+                    \"DomainId\": \"http://schema.org/Apartment1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/amenityFeature\",
+                    \"DomainLabel\": \"schema:Apartment1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" amenities\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" amenities\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \" recent viewed\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://schema.org/Apartment\",
+                    \"DomainId\": \"http://schema.org/Apartment1\",
+                    \"isPrimary\": true,
+                    \"FullType\": \"http://schema.org/reviewCount\",
+                    \"DomainLabel\": \"schema:Apartment1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" recent viewed\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\" recent viewed\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://schema.org/PostalAddress1\",
+                    \"edgeId\": \"http://schema.org/address\",
+                    \"edgeTargetUri\": \"http://schema.org/PostalAddress\",
+                    \"edgeSourceId\": \"http://schema.org/Apartment1\",
+                    \"edgeSourceUri\": \"http://schema.org/Apartment\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://schema.org/Apartment1\",
+                    \"edgeId\": \"http://schema.org/name\",
+                    \"edgeTargetUri\": \"http://schema.org/Apartment\",
+                    \"edgeSourceId\": \"BlankNode1\",
+                    \"edgeSourceUri\": \"BlankNode\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 a rr:TriplesMap .
+
+_:node1cbahg4ppx1 km-dev:hasTriplesMap km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx2 rr:tableName "source2.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasLogicalTable _:node1cbahg4ppx2 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:logicalTable _:node1cbahg4ppx2 ;
+	rr:subjectMap _:node1cbahg4ppx3 .
+
+_:node1cbahg4ppx1 km-dev:hasSubjectMap _:node1cbahg4ppx3 .
+
+_:node1cbahg4ppx3 km-dev:isPartOfMapping _:node1cbahg4ppx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://schema.org/Apartment1" ;
+	rr:class schema:Apartment ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "schema:Apartment1" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_bc9ac100-a01a-4600-ab27-82a4d4f5f689 rr:predicate schema:address .
+
+km-dev:RefObjectMap_c88a444b-0448-4da1-8ba2-bb930d42c743 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap km-dev:RefObjectMap_c88a444b-0448-4da1-8ba2-bb930d42c743 .
+
+km-dev:PredicateObjectMap_bc9ac100-a01a-4600-ab27-82a4d4f5f689 rr:objectMap km-dev:RefObjectMap_c88a444b-0448-4da1-8ba2-bb930d42c743 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:predicateObjectMap km-dev:PredicateObjectMap_bc9ac100-a01a-4600-ab27-82a4d4f5f689 .
+
+km-dev:PredicateObjectMap_bc9ac100-a01a-4600-ab27-82a4d4f5f689 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_bc9ac100-a01a-4600-ab27-82a4d4f5f689 .
+
+km-dev:PredicateObjectMap_d0610ae1-0fac-4772-808c-d636a8e7d752 rr:predicate schema:url .
+
+_:node1cbahg4ppx4 rr:column " url" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx4 .
+
+km-dev:PredicateObjectMap_d0610ae1-0fac-4772-808c-d636a8e7d752 rr:objectMap _:node1cbahg4ppx4 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:predicateObjectMap km-dev:PredicateObjectMap_d0610ae1-0fac-4772-808c-d636a8e7d752 .
+
+km-dev:PredicateObjectMap_d0610ae1-0fac-4772-808c-d636a8e7d752 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d0610ae1-0fac-4772-808c-d636a8e7d752 .
+
+km-dev:PredicateObjectMap_11012e5b-2ebe-4367-ac3a-ac11b0c4054d rr:predicate schema:reviewCount .
+
+_:node1cbahg4ppx5 rr:column " recent viewed" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx5 .
+
+km-dev:PredicateObjectMap_11012e5b-2ebe-4367-ac3a-ac11b0c4054d rr:objectMap _:node1cbahg4ppx5 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:predicateObjectMap km-dev:PredicateObjectMap_11012e5b-2ebe-4367-ac3a-ac11b0c4054d .
+
+km-dev:PredicateObjectMap_11012e5b-2ebe-4367-ac3a-ac11b0c4054d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_11012e5b-2ebe-4367-ac3a-ac11b0c4054d .
+
+km-dev:PredicateObjectMap_1b1421da-78f2-4959-a2f1-6ca866718757 rr:predicate schema:name .
+
+_:node1cbahg4ppx6 rr:column "apt name" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx6 .
+
+km-dev:PredicateObjectMap_1b1421da-78f2-4959-a2f1-6ca866718757 rr:objectMap _:node1cbahg4ppx6 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:predicateObjectMap km-dev:PredicateObjectMap_1b1421da-78f2-4959-a2f1-6ca866718757 .
+
+km-dev:PredicateObjectMap_1b1421da-78f2-4959-a2f1-6ca866718757 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1b1421da-78f2-4959-a2f1-6ca866718757 .
+
+km-dev:PredicateObjectMap_9d6cbfb9-4a01-4388-90ea-cb80a2a0ae50 rr:predicate schema:price .
+
+_:node1cbahg4ppx7 rr:column " min price" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx7 .
+
+km-dev:PredicateObjectMap_9d6cbfb9-4a01-4388-90ea-cb80a2a0ae50 rr:objectMap _:node1cbahg4ppx7 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:predicateObjectMap km-dev:PredicateObjectMap_9d6cbfb9-4a01-4388-90ea-cb80a2a0ae50 .
+
+km-dev:PredicateObjectMap_9d6cbfb9-4a01-4388-90ea-cb80a2a0ae50 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_9d6cbfb9-4a01-4388-90ea-cb80a2a0ae50 .
+
+km-dev:PredicateObjectMap_203e3bbe-2f17-4b61-a78e-5e8bcb35f47a rr:predicate schema:amenityFeature .
+
+_:node1cbahg4ppx8 rr:column " amenities" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx8 .
+
+km-dev:PredicateObjectMap_203e3bbe-2f17-4b61-a78e-5e8bcb35f47a rr:objectMap _:node1cbahg4ppx8 .
+
+km-dev:TriplesMap_e8854dad-3184-4bc5-bd34-561d699b2767 rr:predicateObjectMap km-dev:PredicateObjectMap_203e3bbe-2f17-4b61-a78e-5e8bcb35f47a .
+
+km-dev:PredicateObjectMap_203e3bbe-2f17-4b61-a78e-5e8bcb35f47a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_203e3bbe-2f17-4b61-a78e-5e8bcb35f47a .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef a rr:TriplesMap .
+
+_:node1cbahg4ppx1 km-dev:hasTriplesMap km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx9 rr:tableName "source2.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasLogicalTable _:node1cbahg4ppx9 .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef rr:logicalTable _:node1cbahg4ppx9 ;
+	rr:subjectMap _:node1cbahg4ppx10 .
+
+_:node1cbahg4ppx1 km-dev:hasSubjectMap _:node1cbahg4ppx10 .
+
+_:node1cbahg4ppx10 km-dev:isPartOfMapping _:node1cbahg4ppx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://schema.org/PostalAddress1" ;
+	rr:class schema:PostalAddress ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "schema:PostalAddress1" .
+
+km-dev:PredicateObjectMap_216d6f57-bd2c-4d5f-98d2-3578ff2cada5 rr:predicate schema:streetAddress .
+
+_:node1cbahg4ppx11 rr:column " street" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx11 .
+
+km-dev:PredicateObjectMap_216d6f57-bd2c-4d5f-98d2-3578ff2cada5 rr:objectMap _:node1cbahg4ppx11 .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef rr:predicateObjectMap km-dev:PredicateObjectMap_216d6f57-bd2c-4d5f-98d2-3578ff2cada5 .
+
+km-dev:PredicateObjectMap_216d6f57-bd2c-4d5f-98d2-3578ff2cada5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_216d6f57-bd2c-4d5f-98d2-3578ff2cada5 .
+
+km-dev:PredicateObjectMap_43dc30a7-ad06-46c3-993b-f1e229b90118 rr:predicate schema:addressRegion .
+
+_:node1cbahg4ppx12 rr:column " state" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx12 .
+
+km-dev:PredicateObjectMap_43dc30a7-ad06-46c3-993b-f1e229b90118 rr:objectMap _:node1cbahg4ppx12 .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef rr:predicateObjectMap km-dev:PredicateObjectMap_43dc30a7-ad06-46c3-993b-f1e229b90118 .
+
+km-dev:PredicateObjectMap_43dc30a7-ad06-46c3-993b-f1e229b90118 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_43dc30a7-ad06-46c3-993b-f1e229b90118 .
+
+km-dev:PredicateObjectMap_635241a8-25e9-4294-8507-0bf65f2c8690 rr:predicate schema:addressLocality .
+
+_:node1cbahg4ppx13 rr:column " city" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx13 .
+
+km-dev:PredicateObjectMap_635241a8-25e9-4294-8507-0bf65f2c8690 rr:objectMap _:node1cbahg4ppx13 .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef rr:predicateObjectMap km-dev:PredicateObjectMap_635241a8-25e9-4294-8507-0bf65f2c8690 .
+
+km-dev:PredicateObjectMap_635241a8-25e9-4294-8507-0bf65f2c8690 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_635241a8-25e9-4294-8507-0bf65f2c8690 .
+
+km-dev:PredicateObjectMap_667abda2-e909-417e-ac5c-146c27d5bbd7 rr:predicate schema:postalCode .
+
+_:node1cbahg4ppx14 rr:column " zip code" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasObjectMap _:node1cbahg4ppx14 .
+
+km-dev:PredicateObjectMap_667abda2-e909-417e-ac5c-146c27d5bbd7 rr:objectMap _:node1cbahg4ppx14 .
+
+km-dev:TriplesMap_2caa1e88-5d5a-4e98-a031-667fc3d4e7ef rr:predicateObjectMap km-dev:PredicateObjectMap_667abda2-e909-417e-ac5c-146c27d5bbd7 .
+
+km-dev:PredicateObjectMap_667abda2-e909-417e-ac5c-146c27d5bbd7 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbahg4ppx1 .
+
+_:node1cbahg4ppx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_667abda2-e909-417e-ac5c-146c27d5bbd7 .

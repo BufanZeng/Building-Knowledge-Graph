@@ -1,0 +1,22 @@
+{"@context": {
+    "identifier": {"@id": "http://schema.org/identifier"},
+    "a": "@type",
+    "address": {"@id": "http://schema.org/address"},
+    "postalCode": {"@id": "http://schema.org/postalCode"},
+    "telephone": {"@id": "http://schema.org/telephone"},
+    "Apartment": {
+        "@type": "@id",
+        "@id": "http://schema.org/Apartment"
+    },
+    "uri": "@id",
+    "url": {"@id": "http://schema.org/url"},
+    "PostalAddress": {
+        "@type": "@id",
+        "@id": "http://schema.org/PostalAddress"
+    },
+    "streetAddress": {"@id": "http://schema.org/streetAddress"},
+    "price": {"@id": "http://schema.org/price"},
+    "name": {"@id": "http://schema.org/name"},
+    "addressLocality": {"@id": "http://schema.org/addressLocality"},
+    "addressRegion": {"@id": "http://schema.org/addressRegion"}
+}}

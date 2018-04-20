@@ -1,1 +1,2 @@
-The script uses selenium package to mimic the user actions and then write the crawled html to a jsonline document
+crawl_raw.py uses selenium package to mimic the user actions and then write the crawled html to a jsonline document
+crawl_with_wrapper.py extracts wanted information directly when crawling and store to a txt file

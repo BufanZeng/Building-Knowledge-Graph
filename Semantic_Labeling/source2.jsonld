@@ -1,0 +1,1699 @@
+[
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 5440 Thornburn Street",
+        "postalCode": " 90045",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 66",
+    "price": " 1950",
+    "name": "5440 Thornburn Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-681-sqft-1950-los-angeles-ca-90045-1m2qe3r/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 6135 1/2 Saturn Street",
+        "postalCode": " 90035",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 35",
+    "price": " 2550",
+    "name": "6135 1/2 Saturn Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2550-los-angeles-ca-90035-1tzegwf/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 6712 W Olympic Boulevard",
+        "postalCode": " 90048",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 37",
+    "price": " 2175",
+    "name": "6712 W Olympic Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-2175-los-angeles-ca-90048-sm7249/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 645 W 11th Street",
+        "postalCode": " 90731",
+        "addressLocality": " San Pedro",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " 1 year lease.; Dryer; Fireplace; Flooring: Hardwood; Flooring: Tile; Garage; Laundry: Hookups; Laundry: In Unit; Washer; Washer/Dryer Hookups; Water included in rent; built-in oven; built-in stove; family room w/ceiling fan; gardener paid; large living room; leaded glass bay window; main bathroom has separate shower and tub; non-smoking building; paints been touched up; units been cleaned; window coverings and curtains",
+    "reviewCount": " 12",
+    "price": " 2350",
+    "name": "645 W 11th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3-bed-15-bath-2350-san-pedro-ca-90731-1ty2hwc/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 374 3/4 S Loma Drive",
+        "postalCode": " 90017",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 38",
+    "price": " 2195",
+    "name": "374 3/4 S Loma Drive",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1050-sqft-2195-los-angeles-ca-90017-1q3wabj/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1180 W 36th Place",
+        "postalCode": " 90007",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Bicycle Storage; Building Application Fee: 35; Building Deposit Fee Maximum: 4000; Building Deposit Fee Minimum: 3000; Cats Allowed; Flooring: Hardwood; Freezer; Garbage Disposal; Heating: Electric; Internet included in rent; Laundry: Shared; Microwave Oven; One Year Lease; Online Maintenance Portal; Online Rent Payment; Oven; Range; Refrigerator; Security: Controlled Access; Security: Gated Entry; Stories: 2",
+    "reviewCount": " 5",
+    "price": " 4375",
+    "name": "36th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/36th-street-los-angeles-ca-90007-tyam66/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 15758 Sherman Way",
+        "postalCode": " 91406",
+        "addressLocality": " Van Nuys",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed",
+    "reviewCount": " 9",
+    "price": " 2745",
+    "name": "15758 Sherman Way",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3-bed-2745-van-nuys-ca-91406-sm1xy4/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 26 Breeze",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 83",
+    "price": " 1995",
+    "name": "26 Breeze",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/26-breeze-ave-venice-ca-90291-sm13y2/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 5939 Monte Vista Street",
+        "postalCode": " 90042",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 16",
+    "price": " 2650",
+    "name": "5939 Monte Vista Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2650-los-angeles-ca-90042-1m2q06t/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 518 1/2 N Spaulding Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 87",
+    "price": " 2295",
+    "name": "518 1/2 N Spaulding Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2295-los-angeles-ca-90036-1q569as/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1137 25th Street",
+        "postalCode": " 90007",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Bicycle Storage; Building Application Fee: 35; Building Deposit Fee Maximum: 1200; Building Deposit Fee Minimum: 1000; Cats Allowed; Ceiling Fan; Flooring: Hardwood; Garbage Disposal; Heating: Gas; High-speed Internet Ready; Internet included in rent; Laundry: Shared; Microwave Oven; One Year Lease; Online Maintenance Portal; Online Rent Payment; Oven; Range; Refrigerator; Security: Controlled Access; Security: Gated Entry",
+    "reviewCount": " 36",
+    "price": " 1320",
+    "name": "25th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/25th-street-los-angeles-ca-90007-snt4hd/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 21 Reef Street",
+        "postalCode": " 90292",
+        "addressLocality": " Marina Del Rey",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Attached Garage; Cable TV Ready; Cats Allowed; Dryer; Fenced Yard; Fireplace; Flooring: Hardwood; Flooring: Tile; Freezer; Garbage Disposal; Guest parking; Heating system: Heat: forced air; Hot Tub; Jetted Bathtub; Laundry: In Unit; Master bath; Microwave Oven; Near Transportation; No Utilities included in rent; Off Street Parking; Parking Spaces: 3; Patio Balcony; Refrigerator; Small Dogs Allowed; Sprinkler System; Storage Space; Washer; Yard; Year Built: 2005; Alarm; Granite countertop; Jacuzzi / Whirlpool; Range/Oven; Stainless steel appliances; Vaulted Ceiling; Wetbar; Wired",
+    "reviewCount": " 24",
+    "price": " Call",
+    "name": "21 Reef Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/21-reef-st-marina-del-rey-ca-90292-tznm9y/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 940 1/2 N Martel Avenue",
+        "postalCode": " 90046",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 54",
+    "price": " 2200",
+    "name": "940 1/2 N Martel Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-2200-los-angeles-ca-90046-wcxj55/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 8 Brooks Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 22",
+    "price": " 2850",
+    "name": "8 Brooks Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/8-brooks-ave-venice-ca-90291-skt61v/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1657 W 227th Street",
+        "postalCode": " 90501",
+        "addressLocality": " Torrance",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dryer; Flooring: Carpet; Flooring: Vinyl; Laundry: In Unit; Off Street Parking; One Year Lease; Parking Lot; Range; Washer; Washer/Dryer Hookups; Water included in rent",
+    "reviewCount": " 68",
+    "price": " 1595",
+    "name": "1657 W 227th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bedroom-1-bathroom-in-torrance-torrance-ca-90501-1n23bem/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1122 S Shenandoah Street",
+        "postalCode": " 90035",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Garbage Disposal; Oven; Parking -; Patio Balcony; Range; Refrigerator; Small Dogs Allowed; Unfurnished -; Washer; Water included in rent",
+    "reviewCount": " 48",
+    "price": " 2495",
+    "name": "1122 S Shenandoah Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-10-bath-1200-sqft-2495-los-angeles-ca-90035-1n1wvhh/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 20 Ironsides Street",
+        "postalCode": " 90292",
+        "addressLocality": " Marina Del Rey",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 15",
+    "price": " 4000",
+    "name": "20 Ironsides Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/20-ironsides-st-marina-del-rey-ca-90292-skpzt9/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 256 S Rampart Boulevard",
+        "postalCode": " 90057",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 58",
+    "price": " 2050",
+    "name": "256 S Rampart Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2050-los-angeles-ca-90057-synya2/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 6064 Colfax Avenue",
+        "postalCode": " 91606",
+        "addressLocality": " North Hollywood",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Assigned Outdoor Parking; Cable TV Ready; Elevator; Garbage Disposal; Laundry: Hookups; Microwave Oven; Pets Allowed; Refrigerator; Stove; Townhouse; Washer; Washer/Dryer Hookups; Year Built: 2016; Cable-ready*; Ceiling Fans*; Central Air Conditioning*; Dishwasher*; Elevator*; Garbage Disposal*; High Ceilings*; Microwave*; Pets Allowed*; Refrigerator*; Stove*; Townhouse*; W/D Hookups*",
+    "reviewCount": " 14",
+    "price": " 2595",
+    "name": "6064 Colfax Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-25-bath-1239-sqft-2595-north-hollywood-ca-91606-1m3wz6c/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 844 S Mansfield Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 41",
+    "price": " 2595",
+    "name": "844 S Mansfield Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-15-bath-2595-los-angeles-ca-90036-sumg4x/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " N Alta Vista Boulevard",
+        "postalCode": " 90046",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Garage; Laundry: Shared; Range; Small Dogs Allowed; Unfurnished -; Water included in rent",
+    "reviewCount": " 12",
+    "price": " 2850",
+    "name": "N Alta Vista Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-3500-los-angeles-ca-90046-t6dp3s/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 10485 National Boulevard",
+        "postalCode": " 90034",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Garbage Disposal; Oven; Parking -; Range; Refrigerator; Washer; Water included in rent",
+    "reviewCount": " 22",
+    "price": " 2095",
+    "name": "10485 National Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-15-bath-700-sqft-2095-los-angeles-ca-90034-swe81d/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 25 Navy Street",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 40",
+    "price": " 1218",
+    "name": "25 Navy Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/25-navy-st-venice-ca-90291-sp071m/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1137 W 36th Place",
+        "postalCode": " 90007",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " 24 Hour Maintenance; Air Conditioning; Bicycle Storage; Building Application Fee: 35; Building Deposit Fee Minimum: 1000; Cats Allowed; Dishwasher; Flooring: Laminate; Flooring: Vinyl; Freezer; Garbage Disposal; Heating: Electric; High-speed Internet Ready; Internet included in rent; Laundry: Shared; Microwave Oven; On-Site Management; One Year Lease; Online Maintenance Portal; Online Rent Payment; Oven; Parking Lot; Range; Refrigerator; Security: Controlled Access; Security: Gated Entry; Spanish Speaking Staff; Stories: 2",
+    "reviewCount": " 86",
+    "price": " 1485",
+    "name": "36th Place",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/36th-place-los-angeles-ca-90007-ttuh17/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 6516 Brynhurst Avenue",
+        "postalCode": " 90043",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " No Utilities included in rent",
+    "reviewCount": " 23",
+    "price": " 2495",
+    "name": "6516 Brynhurst Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3-bed-1350-sqft-2495-los-angeles-ca-90043-1ttnkxw/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1462 Federal Avenue",
+        "postalCode": " 90025",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Laundry: Shared",
+    "reviewCount": " 102",
+    "price": " 2350",
+    "name": "1462 Federal Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2350-los-angeles-ca-90025-1m2m00d/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 5544 Lexington Avenue",
+        "postalCode": " 90038",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dogs Allowed; Laundry: Hookups; Small Dogs Allowed; Washer/Dryer Hookups",
+    "reviewCount": " 83",
+    "price": " 1975",
+    "name": "5544 Lexington Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1975-los-angeles-ca-90038-ssj63u/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 535 S Curson Avenue #1H",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Fitness Center; Jetted Bathtub; Microwave Oven; Swimming Pool; Washer",
+    "reviewCount": " 13",
+    "price": " Call",
+    "name": "535 S Curson Avenue #1H",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1h/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 17809 Superior Street",
+        "postalCode": " 91325",
+        "addressLocality": " Northridge",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dogs Allowed; Dryer; Electricity included in rent; Elevator; Fitness Center; Flooring: Carpet; Flooring: Hardwood; Gated Parking; Heating: Other; Laundry: In Unit; On-Site Maintenance; On-Site Management; Recreation Room; Secured Entry; Security: Controlled Access; Swimming Pool; Washer; Water included in rent; Cable/Internet Ready; Contemporary Stone Counters; Stainless Steel Appliances",
+    "reviewCount": " 23",
+    "price": " 2195",
+    "name": "17809 Superior Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/15-nmssuperior-northridge-ca-91325-skyhd6/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 28 Sunset Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 225",
+    "price": " 1595",
+    "name": "28 Sunset Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/28-sunset-ave-venice-ca-90291-sp0fj0/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 813 S Union Avenue",
+        "postalCode": " 90017",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Dogs Allowed; Garbage Disposal; Laundry: Shared; Microwave Oven; Parking -; Patio Balcony; Range; Refrigerator; Small Dogs Allowed; Unfurnished -; Washer",
+    "reviewCount": " 81",
+    "price": " 1995",
+    "name": "813 S Union Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-10-bath-800-sqft-1995-los-angeles-ca-90017-w2pd7k/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 10580 Wilshire #11SE",
+        "postalCode": " 90024",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dryer; Elevator; Fireplace; Fitness Center; Flooring: Carpet; Flooring: Tile; Heating system: Central; Laundry: In Unit; MLS Listing ID: 18305730; Swimming Pool; View Type: City View; View Type: Mountain View; Washer; Year Built: 1991; Concierge; Spa",
+    "reviewCount": " 7",
+    "price": " Call",
+    "name": "10580 Wilshire #11SE",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/11se/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 118 1/2 S Sycamore Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Large Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 37",
+    "price": " 3095",
+    "name": "118 1/2 S Sycamore Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-3095-los-angeles-ca-90036-1tyhccn/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 372 S Columbia Avenue",
+        "postalCode": " 90017",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 61",
+    "price": " 1895",
+    "name": "372 S Columbia Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-15-bath-1200-sqft-1895-los-angeles-ca-90017-1m2ju9p/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1960 S Holt Avenue #12A",
+        "postalCode": " 90034",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dryer; Garbage not included in rent; Laundry: In Unit; Laundry: Shared; PETS UNDER 25LBS OK; Patio Balcony; Refrigerator; Security: Gated Entry; Small Dogs Allowed; Washer; Water not included in rent",
+    "reviewCount": " 152",
+    "price": " Call",
+    "name": "1960 S Holt Avenue #12A",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/12a/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 12246 Moorpark Street",
+        "postalCode": " 91604",
+        "addressLocality": " Studio City",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Dryer; Elevator; Garbage Disposal; Laundry: In Unit; Microwave Oven; Oven; Parking -; Patio Balcony; Range; Refrigerator; Small Dogs Allowed; Washer",
+    "reviewCount": " 44",
+    "price": " 3250",
+    "name": "12246 Moorpark Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-20-bath-1276-sqft-3250-studio-city-ca-91604-skt604/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 834 N Alta Vista Boulevard",
+        "postalCode": " 90046",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Dryer; Laundry: In Unit; Small Dogs Allowed; Washer; secured building",
+    "reviewCount": " 107",
+    "price": " 2195",
+    "name": "834 N Alta Vista Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-2195-los-angeles-ca-90046-1tzf237/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1226 W Adams Boulevard #1D",
+        "postalCode": " 90007",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 5",
+    "price": " Call",
+    "name": "1226 W Adams Boulevard #1D",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1d/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1416 S Genesee Avenue",
+        "postalCode": " 90019",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Garage; Range; Range Hood; Refrigerator; Small Dogs Allowed; Washer; Yard -",
+    "reviewCount": " 21",
+    "price": " 2350",
+    "name": "1416 S Genesee Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-750-sqft-2350-los-angeles-ca-90019-1n1vddy/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 30 Dudley Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 24",
+    "price": " 1698",
+    "name": "30 Dudley Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/30-dudley-ave-venice-ca-90291-1m2zhym/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1162 1/2 N Madison Avenue",
+        "postalCode": " 90029",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 93",
+    "price": " 1795",
+    "name": "1162 1/2 N Madison Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1795-los-angeles-ca-90029-1pn7t67/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 535 W 21st Street",
+        "postalCode": " 90731",
+        "addressLocality": " San Pedro",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Detached Garage; Dryer; Garage; Garbage Disposal; Laundry: In Unit; Range; Washer; Washer/Dryer Hookups; Water included in rent",
+    "reviewCount": " 61",
+    "price": " 1350",
+    "name": "535 W 21st Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bedroom-1-bathroom-in-san-pedro-san-pedro-ca-90731-1n24e5c/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1435 1/2 N Las Palmas Avenue",
+        "postalCode": " 90028",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 51",
+    "price": " 2350",
+    "name": "1435 1/2 N Las Palmas Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2350-los-angeles-ca-90028-1pg2ynm/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 228 3/4 S Fuller Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Garbage included in rent; Water included in rent",
+    "reviewCount": " 55",
+    "price": " 2195",
+    "name": "228 3/4 S Fuller Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-2195-los-angeles-ca-90036-1q2ev01/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 14942 Burbank Boulevard",
+        "postalCode": " 91411",
+        "addressLocality": " Sherman Oaks",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Dogs Allowed; Garbage Disposal; Large Dogs Allowed; Laundry: Shared; Oven; Parking -; Patio Balcony; Range; Small Dogs Allowed; Swimming Pool; Washer; Water included in rent",
+    "reviewCount": " 15",
+    "price": " 1895",
+    "name": "14942 Burbank Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-1895-van-nuys-ca-91411-tty8a8/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1577 W 29th Street",
+        "postalCode": " 90007",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 132",
+    "price": " 1200",
+    "name": "1577 W 29th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1200-los-angeles-ca-90007-1n1txck/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 756 S Plymouth Boulevard",
+        "postalCode": " 90005",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Apply on Web-Site: www.alliancela.com; Assigned Covered Parking; Garbage Disposal; Laundry: Shared; Year Built: 1952; Apply on Web-Site: www.alliancela.com*; Assigned Parking = 1*",
+    "reviewCount": " 23",
+    "price": " 1850",
+    "name": "756 S Plymouth Boulevard",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-750-sqft-1850-los-angeles-ca-90005-snnk09/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 914 S Wooster Street",
+        "postalCode": " 90035",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Dogs Allowed; Elevator; Garbage Disposal; Laundry: Shared; Microwave Oven; Oven; Parking -; Range; Refrigerator; Small Dogs Allowed; Unfurnished -; Washer; Water included in rent",
+    "reviewCount": " 17",
+    "price": " 2895",
+    "name": "914 S Wooster Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-25-bath-1200-sqft-2895-los-angeles-ca-90035-ttv13s/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 12711 Pacific Avenue #8A",
+        "postalCode": " 90066",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Laundry: Shared; Microwave Oven; Small Dogs Allowed; Wired",
+    "reviewCount": " 104",
+    "price": " Call",
+    "name": "12711 Pacific Avenue #8A",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/8a/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 4 Jib Street",
+        "postalCode": " 90292",
+        "addressLocality": " Marina Del Rey",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 13",
+    "price": " 8995",
+    "name": "4 Jib Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/4-jib-st-marina-del-rey-ca-90292-sn8mb2/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1417 1/4 S Sierra Bonita Avenue",
+        "postalCode": " 90034",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Garage; Large Dogs Allowed; Laundry: Shared; Small Dogs Allowed; open courtyard; pet friendly up to 90 lbs; walkable area",
+    "reviewCount": " 38",
+    "price": " 1950",
+    "name": "1417 1/4 S Sierra Bonita Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1950-los-angeles-ca-90019-1txr2zh/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 5842 Camerford Avenue",
+        "postalCode": " 90038",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 94",
+    "price": " 1695",
+    "name": "5842 Camerford Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-650-sqft-1695-los-angeles-ca-90038-spe6m3/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 35 24th Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 45",
+    "price": " 3800",
+    "name": "35 24th Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/35-24th-ave-venice-ca-90291-ttyq2v/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 6016 Eleanor Avenue",
+        "postalCode": " 90038",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Large Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 16",
+    "price": " 2450",
+    "name": "6016 Eleanor Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2450-los-angeles-ca-90038-ttuq6y/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 7625 Wadsworth Avenue",
+        "postalCode": " 90001",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dryer; Flooring: Laminate; Flooring: Tile; Laundry: Hookups; Laundry: In Unit; Patio Balcony; Washer; Washer/Dryer Hookups; Water included in rent; combo smoke dectectors; granite counters; new blinds; new closet doors; new window blinds and screens; reglazed bathtub; water paid for",
+    "reviewCount": " 31",
+    "price": " 1695",
+    "name": "7625 Wadsworth Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-680-sqft-1695-los-angeles-ca-90001-tqb290/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 243 S Carondelet Avenue",
+        "postalCode": " 90057",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Year Built: 1950; Cable-ready*; Garbage Disposal*; Pets Allowed*; Stove*",
+    "reviewCount": " 303",
+    "price": " 1195",
+    "name": "243 S Carondelet Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-950-sqft-1195-los-angeles-ca-90057-tgv4jc/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 8539 Willis Avenue #14A",
+        "postalCode": " 91402",
+        "addressLocality": " Panorama City",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Carport; Cats Allowed; Flooring: Tile; Laundry: Shared; Master bath; Parking Spaces: 1; Security: Gated Entry; Small Dogs Allowed; Storage Space; Granite countertop; Wired",
+    "reviewCount": " 48",
+    "price": " Call",
+    "name": "8539 Willis Avenue #14A",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/14a/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 125 N Sycamore Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 21",
+    "price": " 3700",
+    "name": "125 N Sycamore Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1200-sqft-3700-los-angeles-ca-90036-1n1wznf/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1020 E 75th Street",
+        "postalCode": " 90001",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 65",
+    "price": " 1250",
+    "name": "1020 E 75th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-450-sqft-1250-los-angeles-ca-90001-1n1srss/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1906 Pelham 3 #3FP",
+        "postalCode": " 90025",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning",
+    "reviewCount": " 60",
+    "price": " Call",
+    "name": "1906 Pelham 3 #3FP",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3fp/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 5908 Cedros Avenue",
+        "postalCode": " 91411",
+        "addressLocality": " Sherman Oaks",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cable TV Ready; Dishwasher; Flooring: Laminate; Flooring: Tile; Garage; Garbage Disposal; Garbage included in rent; Laundry: Shared; One Year Lease; Oven; Patio Balcony; Range; Security: Controlled Access; Security: Gated Entry; Underground Garage; Walk-In Closets; Water included in rent; Window Blinds",
+    "reviewCount": " 41",
+    "price": " 1895",
+    "name": "5908 Cedros Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2-bath-on-a-quiet-residential-street-van-nuys-ca-91411-1m3v49z/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1933 Wilcox Avenue",
+        "postalCode": " 90068",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 101",
+    "price": " 1489",
+    "name": "1933 Wilcox Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-800-sqft-1489-los-angeles-ca-90068-1m2ss6c/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1444 Elkgrove Circle",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Barbecue; Cats Allowed; Conference Room; Dishwasher; Dryer; Fitness Center; Flooring: Hardwood; Freezer; Large Dogs Allowed; Laundry: In Unit; Lounge; Microwave Oven; Off Street Parking; Oven; Refrigerator; Small Dogs Allowed; Washer",
+    "reviewCount": " 46",
+    "price": " 2900",
+    "name": "1444 Elkgrove Circle",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1br-659ft2-modern-apartment-in-the-heart-of-venice-with-community-gym-pool-venice-ca-90291-1m2zdfd/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1025-55 Wilmington Boulevard #55C",
+        "postalCode": " 90744",
+        "addressLocality": " Wilmington",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cable included in rent; Courtyard; Dryer; Garbage included in rent; Laundry: In Unit; Parking-Open; Townhouse; Washer; Water included in rent; Gas Stove",
+    "reviewCount": " 48",
+    "price": " Call",
+    "name": "1025-55 Wilmington Boulevard #55C",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/55c/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 339 N Gardner Street",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 37",
+    "price": " 2595",
+    "name": "339 N Gardner Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1050-sqft-2595-los-angeles-ca-90036-1n1x13r/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 35 Clubhouse Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 32",
+    "price": " 3499",
+    "name": "35 Clubhouse Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/35-clubhouse-ave-venice-ca-90291-ttyq69/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 434 N Harvard Boulevard #2 800SF",
+        "postalCode": " 90004",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cable TV Ready; Carport; Cats Allowed; Electricity included in rent; Fireplace; Flooring: Hardwood; Flooring: Tile; Garage; Laundry: none; Master bath; Near Transportation; Off Street Parking; Parking Spaces: 2; Security: Controlled Access; Security: Gated Entry; Small Dogs Allowed; Storage Space; Yard; Granite countertop",
+    "reviewCount": " 41",
+    "price": " Call",
+    "name": "434 N Harvard Boulevard #2 800SF",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-800sf/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1503 S Hayworth Avenue",
+        "postalCode": " 90035",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 6",
+    "price": " 2850",
+    "name": "1503 S Hayworth Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1300-sqft-2850-los-angeles-ca-90035-tywux9/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 0000 Hatteras Street",
+        "postalCode": " 91364",
+        "addressLocality": " Woodland Hills",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Dryer; Furnished; Laundry: Hookups; Laundry: In Unit; Laundry: Shared; Off Street Parking; Patio Balcony; Washer; Washer/Dryer Hookups",
+    "reviewCount": " 16",
+    "price": " Call",
+    "name": "0000 Hatteras Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/0-hatteras-st-woodland-hills-ca-91364-1tyh36u/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 4528 1/8 Edgewood Place",
+        "postalCode": " 90019",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 67",
+    "price": " 2395",
+    "name": "4528 1/8 Edgewood Place",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1000-sqft-2395-los-angeles-ca-90019-1q3my6n/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 327 N Stanley",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Large Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 38",
+    "price": " 2895",
+    "name": "327 N Stanley",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-15-bath-1250-sqft-2895-los-angeles-ca-90036-tds423/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 445 W Florence Avenue",
+        "postalCode": " 90003",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Flooring: Laminate; new bathroom cabinet; new bedroom door; new bedroom window; new blinds and screen; new closet doors; new door knobs; new flooring in bathroom; new kitchen faucet; new kitchen flooring; new kitchen hardware; new light fixtures; new switches and outlets; new toilet",
+    "reviewCount": " 51",
+    "price": " 1095",
+    "name": "445 W Florence Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-358-sqft-1095-los-angeles-ca-90003-1n1t9rs/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 11281 Peach Grove",
+        "postalCode": " 91601",
+        "addressLocality": " North Hollywood",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning*; Balcony*; Cable-ready*; Dishwasher*; Disposal*; Fireplace*",
+    "reviewCount": " 18",
+    "price": " 2500",
+    "name": "11281 Peach Grove",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-15-bath-1150-sqft-2500-north-hollywood-ca-91601-1m3vuma/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 28 26th Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Architecture Style: Contemporary; Dryer; Heating system: Central Furnace; Laundry: In Unit; MLS Listing ID: 18322260; Parking Spaces: 2; Refrigerator; Washer; Year Built: 1986",
+    "reviewCount": " 22",
+    "price": " Call",
+    "name": "28 26th Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/28-26th-ave-venice-ca-90291-skm4uc/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 17020 W Sunset Boulevard #12B",
+        "postalCode": " 90272",
+        "addressLocality": " Pacific Palisades",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cable not included in rent; Carport; Electricity not included in rent; Garage; Garbage Disposal; Garbage included in rent; Gas not included in rent; Laundry: Shared; Near Transportation; Parking Spaces: 1; Patio Balcony; Refrigerator; Swimming Pool; Washer; Water included in rent; Granite countertop; Range/Oven; Stainless steel appliances",
+    "reviewCount": " 59",
+    "price": " Call",
+    "name": "17020 W Sunset Boulevard #12B",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/12b/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 11028 Landale Street",
+        "postalCode": " 91602",
+        "addressLocality": " W Toluca Lake",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Garage; Laundry: Shared; Parking -; Patio Balcony; Swimming Pool; Washer",
+    "reviewCount": " 95",
+    "price": " 2000",
+    "name": "11028 Landale Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-20-bath-2000-north-hollywood-ca-91602-ssz18h/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1700 Beverly Glen",
+        "postalCode": " 90024",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 33",
+    "price": " 2695",
+    "name": "1700 Beverly Glen",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-930-sqft-2695-los-angeles-ca-90024-1n1w36x/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 401 S Mariposa Avenue #21M",
+        "postalCode": " 90020",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cable TV Ready; Flooring: Hardwood; Garbage Disposal; Laundry: Shared; Near Transportation; Off Street Parking; Refrigerator; Security: Gated Entry; Street Parking; Range/Oven",
+    "reviewCount": " 77",
+    "price": " Call",
+    "name": "401 S Mariposa Avenue #21M",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/21m/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1561 N Serrano Avenue",
+        "postalCode": " 90027",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Range",
+    "reviewCount": " 47",
+    "price": " 1595",
+    "name": "1561 N Serrano Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-500-sqft-1595-los-angeles-ca-90027-tz04h1/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1142 1/2 N Madison Avenue",
+        "postalCode": " 90029",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 30",
+    "price": " 1750",
+    "name": "1142 1/2 N Madison Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1750-los-angeles-ca-90029-1typ6ty/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1 W Century Drive",
+        "postalCode": " 90067",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 34",
+    "price": " Call",
+    "name": "1 W Century Drive",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-w-century-dr-los-angeles-ca-90067-skejf2/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 4141 Monroe Street",
+        "postalCode": " 90029",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Garage; Security: Gated Entry; Small Dogs Allowed",
+    "reviewCount": " 52",
+    "price": " 1850",
+    "name": "4141 Monroe Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1850-los-angeles-ca-90029-ssa0k0/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1500 1/2 S Sycamore Avenue",
+        "postalCode": " 90019",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Electricity not included in rent; Gas not included in rent; Small Dogs Allowed; Water included in rent",
+    "reviewCount": " 153",
+    "price": " 2400",
+    "name": "1500 1/2 S Sycamore Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3-bed-1200-sqft-2400-los-angeles-ca-90019-1u0r2mj/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 10832 Charnock Road",
+        "postalCode": " 90034",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 124",
+    "price": " 1995",
+    "name": "10832 Charnock Road",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1995-los-angeles-ca-90034-1m2npqq/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 651 Wilcox Avenue #2A",
+        "postalCode": " 90004",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cable TV Ready; Elevator; Flooring: Carpet; Flooring: Hardwood; Garbage Disposal; Heating system: Central; MLS Listing ID: 18312956; Microwave Oven; Patio Balcony; Refrigerator; Security: Controlled Access; Security: Gated Entry; Swimming Pool; Washer; Year Built: 1972; Concierge; Guest parking; Spa",
+    "reviewCount": " 17",
+    "price": " Call",
+    "name": "651 Wilcox Avenue #2A",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2a/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 10797 Ohio Avenue",
+        "postalCode": " 90024",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Parking Lot",
+    "reviewCount": " 59",
+    "price": " 2750",
+    "name": "10797 Ohio Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-2750-los-angeles-ca-90024-tv98b3/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 53 Dudley Avenue",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dryer; Flooring: Tile; Laundry: In Unit; None included in rent; Ocean Horizon View; Refrigerator; Stove; Washer; Will Consider Small Pet",
+    "reviewCount": " 24",
+    "price": " Call",
+    "name": "53 Dudley Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/53-dudley-ave-venice-ca-90291-skutv4/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1208 1/4 S Ardmore Avenue",
+        "postalCode": " 90006",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Ceiling Fan; Flooring: Hardwood; on-site manager",
+    "reviewCount": " 293",
+    "price": " 1195",
+    "name": "1208 1/4 S Ardmore Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-650-sqft-1195-los-angeles-ca-90006-1u0s3jy/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1745 N Mariposa Avenue #6U",
+        "postalCode": " 90027",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Dryer; Flooring: Hardwood; Laundry: In Unit; Off Street Parking; Small Dogs Allowed; Washer",
+    "reviewCount": " 42",
+    "price": " Call",
+    "name": "1745 N Mariposa Avenue #6U",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/6u/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 515 82nd St - 515 W 82nd Street",
+        "postalCode": " 90044",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 68",
+    "price": " 1650",
+    "name": "515 82nd St - 515 W 82nd Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1650-los-angeles-ca-90044-u1jtmg/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 427 1/2 N Sierra Bonita Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Deck; Dogs Allowed; Laundry: Shared; Range; Refrigerator; Small Dogs Allowed; Unfurnished -; Water included in rent",
+    "reviewCount": " 47",
+    "price": " 2350",
+    "name": "427 1/2 N Sierra Bonita Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-2350-los-angeles-ca-90036-1txnbfh/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 440 N Lake Street",
+        "postalCode": " 90026",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " No Utilities included in rent",
+    "reviewCount": " 73",
+    "price": " 1595",
+    "name": "440 N Lake Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1595-los-angeles-ca-90026-wdc7ms/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 2404 Wilshire Boulevard #8D",
+        "postalCode": " 90057",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Architecture Style: Loft layout; Attached Garage; Cable TV Ready; Cats Allowed; Condo Floor Number: 8; Elevator; Fitness Center; Garage; Garbage Disposal; Guest parking; Heating system: Heat: forced air; Large Dogs Allowed; Laundry: Shared; Master bath; Off Street Parking; Patio Balcony; Refrigerator; Secured entry; Security: Controlled Access; Security: Doorman; Security: Intercom; Small Dogs Allowed; Washer; Year Built: 1960; Range/Oven",
+    "reviewCount": " 17",
+    "price": " Call",
+    "name": "2404 Wilshire Boulevard #8D",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/8d/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1810 1/2 Montana Street",
+        "postalCode": " 90026",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Dogs Allowed; Dryer; Laundry: In Unit; Small Dogs Allowed; Washer; private side yard; recently renovated",
+    "reviewCount": " 70",
+    "price": " 2400",
+    "name": "1810 1/2 Montana Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-2400-los-angeles-ca-90026-1pkehpa/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 456 Stanley Avenue",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 61",
+    "price": " 4195",
+    "name": "456 Stanley Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-4195-los-angeles-ca-90036-1n1x2ch/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1823 N Van Ness Avenue",
+        "postalCode": " 90028",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dogs Allowed; Large Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 32",
+    "price": " 4495",
+    "name": "1823 N Van Ness Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3-bed-35-bath-1850-sqft-4495-los-angeles-ca-90028-1tz6y8b/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 10380 Almayo Avenue",
+        "postalCode": " 90064",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cable TV Ready; Dishwasher; Flooring: Carpet; Flooring: Hardwood; Flooring: Vinyl; Garage; Garbage Disposal; Heating: Electric; High-speed Internet Ready; Laundry: Shared; No pets; No smoking; On-Site Management; One Year Lease; Oven; Patio Balcony; Range; Refrigerator; Satellite TV Ready; Underground Garage; Water included in rent",
+    "reviewCount": " 45",
+    "price": " 1950",
+    "name": "10380 Almayo Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bedroom-open-house-this-weekend-near-fox-studios-los-angeles-ca-90064-1m2rreu/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1509 Pleasant Avenue",
+        "postalCode": " 90033",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Flooring: Softwood; Laundry: Shared; One Year Lease; View Type: City",
+    "reviewCount": " 28",
+    "price": " 1750",
+    "name": "1509 Pleasant Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bdrm-1750-los-angeles-ca-90033-tyx5k6/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 2218 7th Avenue",
+        "postalCode": " 90018",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Apply on Web-Site: www.alliancela.com; Cable TV Ready; Garbage Disposal; No Parking; Pets Allowed; Year Built: 1923; Apply on Web-Site: www.alliancela.com*",
+    "reviewCount": " 113",
+    "price": " 1475",
+    "name": "2218 7th Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-10-bath-416-sqft-1475-los-angeles-ca-90018-tzt8ft/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 454 Seaton Street #3A",
+        "postalCode": " 90013",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Cats Allowed; Electricity included in rent; Flooring: Hardwood; Furnished; Garbage included in rent; Gas included in rent; Small Dogs Allowed; Water included in rent",
+    "reviewCount": " 47",
+    "price": " Call",
+    "name": "454 Seaton Street #3A",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3a/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 8935 Orion Avenue",
+        "postalCode": " 91343",
+        "addressLocality": " North Hills",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Barbecue; Building Application Fee: 48; Cable TV Ready; Cats Allowed; Deck; Disabled Access; Dishwasher; Dryer; Elevator; Flooring: Carpet; Flooring: Hardwood; Flooring: Laminate; Flooring: Vinyl; Freezer; Garage; Garbage Disposal; Heating: Electric; Heating: Gas; High-speed Internet Ready; Laundry: In Unit; Less Than One Year Lease; Lounge; Microwave Oven; More Than One Year Lease; On-Site Management; One Year Lease; Online Rent Payment; Oven; Patio; Patio Balcony; Picnic Area; Range; Refrigerator; Satellite TV Ready; Security: Controlled Access; Security: Gated Entry; Security: Intercom; Spanish Speaking Staff; Stories: 5; Underground Garage; View Type: City; View Type: Mountain; Washer; Year Built: 2018",
+    "reviewCount": " 37",
+    "price": " 1750",
+    "name": "33 North",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/33-north-north-hills-ca-91343-1m3nqk8/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " Clubhouse",
+        "postalCode": " 90291",
+        "addressLocality": " Venice",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 61",
+    "price": " 2395",
+    "name": "Clubhouse",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/33-clubhouse-ave-venice-ca-90291-1m2zj88/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 649 Midvale Avenue",
+        "postalCode": " 90024",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Dryer; Fireplace; Laundry: In Unit; Parking -; Washer",
+    "reviewCount": " 35",
+    "price": " 5000",
+    "name": "649 Midvale Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/3-bed-5000-los-angeles-ca-90024-sm9r5e/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 478 Landfair Avenue",
+        "postalCode": " 90024",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Laundry: Shared; No Utilities included in rent; close to campus; no party building; parking available",
+    "reviewCount": " 31",
+    "price": " 2200",
+    "name": "478 Landfair Avenue",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-2200-los-angeles-ca-90024-t1kcbv/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 17204 Chatsworth St - Chatsworth Street",
+        "postalCode": " 91344",
+        "addressLocality": " Granada Hills",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Cats Allowed; Dogs Allowed; Small Dogs Allowed",
+    "reviewCount": " 38",
+    "price": " 1975",
+    "name": "17204 Chatsworth St - Chatsworth Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-1100-sqft-1975-granada-hills-ca-91344-tttu8u/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 1345 1/2 38th Street",
+        "postalCode": " 90062",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "reviewCount": " 19",
+    "price": " 1600",
+    "name": "1345 1/2 38th Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/1-bed-1600-los-angeles-ca-90062-1qbzbwm/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 357 S Curson Avenue #6J",
+        "postalCode": " 90036",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Fitness Center; Jetted Bathtub; Microwave Oven; Swimming Pool; Washer",
+    "reviewCount": " 12",
+    "price": " Call",
+    "name": "357 S Curson Avenue #6J",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/6j/pad"
+},
+{
+    "a": ["Apartment"],
+    "address": {
+        "a": ["PostalAddress"],
+        "streetAddress": " 11035 Oxnard Street",
+        "postalCode": " 91606",
+        "addressLocality": " Los Angeles",
+        "addressRegion": " CA"
+    },
+    "amenityFeature": " Air Conditioning; Assigned Outdoor Parking; Cable TV Ready; Laundry: Hookups; Pets Allowed; Washer/Dryer Hookups; Year Built: 2015; Cable-ready*; Ceiling Fans*; Central Air Conditioning*; Dishwasher*; Garbage Disposal*; Microwave*; Pets Allowed*; Stove*; Townhouse*; W/D Hookups*; Washer/Dryer In Unit*",
+    "reviewCount": " 34",
+    "price": " 2195",
+    "name": "11035 Oxnard Street",
+    "@context": "http://localhost:8080/publish/JSON/WSP1WS7101-source2_csv-context.json",
+    "url": " https://hotpads.com/2-bed-25-bath-1009-sqft-2195-north-hollywood-ca-91606-ty4v2z/pad"
+}
+]
